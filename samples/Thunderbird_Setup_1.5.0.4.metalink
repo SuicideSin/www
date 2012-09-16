@@ -1,0 +1,29 @@
+<?xml version="1.0" encoding="utf-8"?>
+<metalink version="3.0" generator="Metalink Generator v1.00.0034" xmlns="http://www.metalinker.org/">
+  <publisher>
+    <name>Mozilla Corporation</name>
+  </publisher>
+  <description>Thunderbird Mail &amp; News client</description>
+  <files>
+    <file name="Thunderbird Setup 1.5.0.4.exe">
+      <version>1.5.0.4</version>
+      <language>en-US</language>
+      <os>Windows-x86</os>
+      <size>6323752</size>
+      <verification>
+        <hash type="md5">ab759780d23674f4162bcd199bc604d0</hash>
+      </verification>
+      <resources>
+        <url type="http" location="tw" preference="100">http://ftp.isu.edu.tw/pub/Mozilla/thunderbird/releases/1.5.0.4/win32/en-US/Thunderbird%20Setup%201.5.0.4.exe</url>
+        <url type="http" preference="100">http://ftp.mozilla.org/pub/mozilla.org/thunderbird/releases/1.5.0.4/win32/en-US/Thunderbird%20Setup%201.5.0.4.exe</url>
+        <url type="http" preference="100">http://ftp-mozilla.netscape.com/pub/mozilla.org/thunderbird/releases/1.5.0.4/win32/en-US/Thunderbird%20Setup%201.5.0.4.exe</url>
+        <url type="http" location="us" preference="100">http://mirror.mcs.anl.gov/mozilla.org/thunderbird/releases/1.5.0.4/win32/en-US/Thunderbird%20Setup%201.5.0.4.exe</url>
+        <url type="http" preference="100">http://mozilla.isc.org/pub/mozilla.org/thunderbird/releases/1.5.0.4/win32/en-US/Thunderbird%20Setup%201.5.0.4.exe</url>
+        <url type="http" preference="100">http://mozilla.mirrors.northco.net/thunderbird/releases/1.5.0.4/win32/en-US/Thunderbird%20Setup%201.5.0.4.exe</url>
+        <url type="http" preference="100">http://mozilla.ussg.indiana.edu/pub/mozilla.org/thunderbird/releases/1.5.0.4/win32/en-US/Thunderbird%20Setup%201.5.0.4.exe</url>
+        <url type="http" location="pl" preference="100">http://pliki.republika.pl/poczta/Thunderbird%20Setup%201.5.0.4.exe</url>
+        <url type="http" location="de" preference="100">http://www.portal-to-web.de/pub/mozilla/thunderbird/releases/1.5.0.4/win32/en-US/Thunderbird%20Setup%201.5.0.4.exe</url>
+      </resources>
+    </file>
+  </files>
+</metalink>

@@ -1,0 +1,157 @@
+<?xml version="1.0" encoding="utf-8"?>
+<metalink version="3.0" generator="Metalink Generator v1.00.0034" xmlns="http://www.metalinker.org/">
+<!--
+     Metalink, an Open Standard, makes downloading easier by
+     bundling the various ways (FTP/HTTP/P2P) to get files into
+     one format for easier downloads, as well as bundling
+     checksums to automatically verify completed downloads.
+     Currently the following applications support this file:
+
+     - aria2 (Unix) [ http://aria2.sourceforge.net/ ]
+     - GetRight 6 (Windows) [ http://www.getright.com/ ]
+     - Speed Download (Mac) [ http://www.yazsoft.com/ ]
+     - wxDownload Fast (All)[ http://dfast.sourceforge.net/ ]
+
+     For further information please visit http://www.metalinker.org/
+
+-->
+  <publisher>
+    <name>archlinux</name>
+    <url>http://www.archlinux.org/</url>
+  </publisher>
+  <description>Arch Linux, a lightweight and flexible linux distribution that tries to Keep It Simple.</description>
+  <files>
+    <file name="arch64-0.7.2-ftp.iso">
+      <version>0.7.2</version>
+      <os>Linux-x64</os>
+		<size>23861248</size>
+		<verification>
+			<hash type="md5">e74112e8caa22522de8b52fbddcbd394</hash>
+			<hash type="sha1">6c6160eb233fe5b6ff54b1f762eeeeb15256ee3c</hash>
+			<pieces length="262144" type="sha1">
+				<hash piece="0">4c0a0c738833bbac35458553030601de8fcbf616</hash>
+				<hash piece="1">2b1a7f59ca0b43a17503823f104a0d804153f5ee</hash>
+				<hash piece="2">4a61aaccf486824a1625fc5de57c4425f137d9e4</hash>
+				<hash piece="3">a282190a4e9489de7235cde5189a706a586ee4cc</hash>
+				<hash piece="4">ff418e8547dd32d8e70f2dd7eb62f68d07e77537</hash>
+				<hash piece="5">16d028ba7c8a7ced5f0a09b94a4b6e43cc809d1e</hash>
+				<hash piece="6">b99d0abaa02a3194c5031a05e985a3f9ac2d5a1b</hash>
+				<hash piece="7">549fe8d39d4cc1d8fb2353b1cce82b8a73edc639</hash>
+				<hash piece="8">d5145b307d99ebef7b01db2087bb052d95302c3f</hash>
+				<hash piece="9">b4c740cebc777daf0d29da39610a0438be437203</hash>
+				<hash piece="10">d7881d40a2bec44770cc9c205ebc80a515d4c1f4</hash>
+				<hash piece="11">61d681b069cefd67d3f64cef445a7a6c3c8da86b</hash>
+				<hash piece="12">6986fdaed46f51cf9d45e967d3977a377ced11d8</hash>
+				<hash piece="13">5ea140ee57b8edeafa4e5de144c09f809ced3836</hash>
+				<hash piece="14">f61469b1c90c986e8627d7039cf2aacaf2e28897</hash>
+				<hash piece="15">aae786d5740282516de289535e88bdeed9de3ee5</hash>
+				<hash piece="16">ca98ad4c0d058790a070de3cf8995a97a30c892c</hash>
+				<hash piece="17">4d8ef78eb351186ae4b3949330e0fc1e3eca735f</hash>
+				<hash piece="18">35257b5b58389fa8b0469ce38e34b54c7fab99b7</hash>
+				<hash piece="19">1a4262408585369b8feeebf4ee4b83a17b4e4ff2</hash>
+				<hash piece="20">14522942637e0c23ae9f55017331c43d683529dc</hash>
+				<hash piece="21">f2e3cae6469b7828e7cc8b5820e90cf4054a0717</hash>
+				<hash piece="22">01de8e58bedf367ebe53d3c0d2767d54821f97cd</hash>
+				<hash piece="23">f84b019ae1a58fe457d3ab18528c9a518dcfcb07</hash>
+				<hash piece="24">96c79bb397e6d351b88f647d0ddae1b0cc044353</hash>
+				<hash piece="25">18dece5178727dcf9e3f26ed83f20ec375c08455</hash>
+				<hash piece="26">2271b9bd6edf5c7d0216e5437dae7524a1db7395</hash>
+				<hash piece="27">f1c3b0897d3197f1e11bb0869ec07aeac8b03f12</hash>
+				<hash piece="28">4fd6f82d467f1eb83a26b3cd92eb4826963da28b</hash>
+				<hash piece="29">a60d7e1b4f5e520548b448269927f75251624e9b</hash>
+				<hash piece="30">fe7e12a253980ea75ac7216d502c33472864628b</hash>
+				<hash piece="31">21665c11df42e62e4ecb6526e29495d2a2341846</hash>
+				<hash piece="32">4010c7f929dffa547feead0b1594561c1f2b090d</hash>
+				<hash piece="33">54e8ee1b6e1533b5b566e32649956837829e852d</hash>
+				<hash piece="34">ffbb87b2dde58935d404c0d6fbcd9d8fb75b4fda</hash>
+				<hash piece="35">2166b07f9638ad7452f8575ad4574a7c4b382843</hash>
+				<hash piece="36">332a69025f0e6e4dcfdd84e0321c6df7b635b61a</hash>
+				<hash piece="37">53ff25ab9d919c633e8d055e24a91dd63c20e08f</hash>
+				<hash piece="38">b0c30348dce95072bac813ac08f9333c1616dcb5</hash>
+				<hash piece="39">35cd5e0f17842521d1c761a1a427c399f142c1f4</hash>
+				<hash piece="40">1ce356eddb037c849698d7748effecc85f5d3ba3</hash>
+				<hash piece="41">4bf9e0ca8b4bc3521850f0c7e37135e0da032b56</hash>
+				<hash piece="42">8b97daac0576d452f354e1273d57c656a5eda480</hash>
+				<hash piece="43">095ffe5b17c66ad3aa3a09a90dd61869f2df7064</hash>
+				<hash piece="44">191c3419cce01b55625ff357d7cb211128a63423</hash>
+				<hash piece="45">a6fe47e4b93b8062413a079c3923b2b6e5bfe8d0</hash>
+				<hash piece="46">0fc6157671946f6f137e0d3c667404e54bd7b071</hash>
+				<hash piece="47">a03f9d6849bb1fa12773decdebcdd7871a5475e7</hash>
+				<hash piece="48">8e880a7e5072c8befcc824c5ff39524eb014780d</hash>
+				<hash piece="49">e51b85a56bb8d68d7719f4444812dcec8125878a</hash>
+				<hash piece="50">6061178f48cfd679605704ad19eec8a8b18cd442</hash>
+				<hash piece="51">edd4a57ff685aa1b4b4f3b332438d9a51528adcd</hash>
+				<hash piece="52">4c470e20bdb148f8a7b28de807e4f6b9b2b834de</hash>
+				<hash piece="53">6b9d733dbdc9b89bccd7c31be5cab980360b7925</hash>
+				<hash piece="54">ce80d45d254fb63dcbfd3b175dce875c7d6e3a24</hash>
+				<hash piece="55">b9a07b6697e603ccb7703c4045dc7081aa69e834</hash>
+				<hash piece="56">8d37a902caece2eca77b5a794b5b6c0cf6f91645</hash>
+				<hash piece="57">c07e4faf5fd7a67df8914d65c4ba1c6b691fce96</hash>
+				<hash piece="58">aa4acd8905833b9e147e9995860a13f34f36921e</hash>
+				<hash piece="59">a98dfab4647511cefb423b89e866581f71493da4</hash>
+				<hash piece="60">e1ea85a1cf082820540291af6766aa734898aa03</hash>
+				<hash piece="61">f16d68f70e9647fdb74ab478a83abab3c57e7c8b</hash>
+				<hash piece="62">169bde0fb0fdbc31d2ac9606ea21324bc6989777</hash>
+				<hash piece="63">571a613152d0e42de3779364b0172b28b3b67bcf</hash>
+				<hash piece="64">c2b3e03b179ba390c8f9b086e5f9096f30dee444</hash>
+				<hash piece="65">7a5fe4c1afc20e54b2a5efe0f74a530bca5bc50f</hash>
+				<hash piece="66">45d9818d21cd642fa1809ff034eb6fba020334ad</hash>
+				<hash piece="67">4d82c0ca065e68e4763be08680a6574f1a1d96d6</hash>
+				<hash piece="68">727c73525e9bc341d46a74784e54daaad91b43d5</hash>
+				<hash piece="69">1b1c79870180a179c2c6cdaec9ef58d739a81a93</hash>
+				<hash piece="70">370e7e5ef478428df3d2e55e88d3378367534410</hash>
+				<hash piece="71">14badf7d6b4719a1e55c4158734d1bf1324397e3</hash>
+				<hash piece="72">beff658ddc50af6a31864c1e19f65475d2939b64</hash>
+				<hash piece="73">96820077ca96193d77fdaf29b24cc380f91aab59</hash>
+				<hash piece="74">3c31492861fd83a0a4f1d6add16bf786b1ad6e60</hash>
+				<hash piece="75">178bed75788e11fb5bd723a2affb2cf7818391b6</hash>
+				<hash piece="76">986c9c87b20578ac319091fcacff1540f8c55f20</hash>
+				<hash piece="77">d1412a0931b15f888e32acb27de8e3fb02a1e467</hash>
+				<hash piece="78">2b9cfa71565cc98eabcb07572912b3fc28c82217</hash>
+				<hash piece="79">cf7403a67a376185f335a8670bd2decdf51e275b</hash>
+				<hash piece="80">2ef04b5ad36627b56e38b11710a0837683a04a23</hash>
+				<hash piece="81">652a8065ebeb0954153fe6ebc4cd8c15eaa1b211</hash>
+				<hash piece="82">fa1c5e6751b927d9825c85036b20dc081af9612c</hash>
+				<hash piece="83">1023f199ac460d8cf0ba7c38f9a0fedb8a0c04f6</hash>
+				<hash piece="84">e08242cf6798cc61fb281007ee179a998fa72d2b</hash>
+				<hash piece="85">5d21c13909259b87ec67f17798adf85994db2d31</hash>
+				<hash piece="86">e3131d0896ce738c43f82871c97f0f5d18fb91bd</hash>
+				<hash piece="87">33ac5a10378d7df6e5f59ff879af0f5b5ec30c0f</hash>
+				<hash piece="88">ca21cbda75d869cd2b1297c910465d3b974c7ab9</hash>
+				<hash piece="89">303592b95d058ce8a18a858f14d19dfbe9fa3737</hash>
+				<hash piece="90">2e000fa7e85759c7f4c254d4d9c33ef481e459a7</hash>
+				<hash piece="91">c6fff00d41071ff3c363bbeaebd70338a55d1c94</hash>
+			</pieces>
+		</verification>
+      <resources>
+        <url type="ftp" location="ch" preference="100">ftp://archlinux.puzzle.ch/0.7.2/iso/x86_64/arch64-0.7.2-ftp.iso</url>
+        <url type="ftp" location="tw" preference="100">ftp://cle.linux.org.tw/pub/ArchLinux/iso/0.72/arch-0.7.2-ftp.iso</url>
+        <url type="ftp" location="ee" preference="100">ftp://ftp.estpak.ee/pub/archlinux/0.7.2/iso/x86_64/arch64-0.7.2-ftp.iso</url>
+        <url type="ftp" location="ie" preference="100">ftp://ftp.heanet.ie/mirrors/ftp.archlinux.org/0.7.2/iso/x86_64/arch64-0.7.2-ftp.iso</url>
+        <url type="ftp" location="de" preference="100">ftp://ftp.hosteurope.de/mirror/ftp.archlinux.org/0.7.2/iso/x86_64/arch64-0.7.2-ftp.iso</url>
+        <url type="ftp" location="ro" preference="100">ftp://ftp.iasi.roedu.net/mirrors/archlinux.org/0.7.2/iso/x86_64/arch64-0.7.2-ftp.iso</url>
+        <url type="ftp" location="us" preference="100">ftp://ftp.ibiblio.org/pub/linux/distributions/archlinux/0.7.2/iso/x86_64/arch64-0.7.2-ftp.iso</url>
+        <url type="ftp" location="us" preference="100">ftp://ftp.nethat.com/pub/linux/archlinux/0.7.2/iso/x86_64/arch64-0.7.2-ftp.iso</url>
+        <url type="ftp" location="nl" preference="100">ftp://ftp.nluug.nl/pub/metalab/distributions/archlinux/0.7.2/iso/x86_64/arch64-0.7.2-ftp.iso</url>
+        <url type="ftp" location="gr" preference="100">ftp://ftp.ntua.gr/pub/linux/archlinux/0.7.2/iso/x86_64/arch64-0.7.2-ftp.iso</url>
+        <url type="ftp" location="de" preference="100">ftp://ftp.pangora.org/archlinux/0.7.2/iso/x86_64/arch64-0.7.2-ftp.iso</url>
+        <url type="ftp" location="nl" preference="100">ftp://ftp.surfnet.nl/pub/os/Linux/distr/archlinux/0.7.2/iso/x86_64/arch64-0.7.2-ftp.iso</url>
+        <url type="ftp" location="de" preference="100">ftp://ftp.tu-chemnitz.de/pub/linux/sunsite.unc-mirror/distributions/archlinux/0.7.2/iso/x86_64/arch64-0.7.2-ftp.iso</url>
+        <url type="ftp" location="us" preference="100">ftp://ftp-linux.cc.gatech.edu/pub/linux/distributions/archlinux/0.7.2/iso/x86_64/arch64-0.7.2-ftp.iso</url>
+        <url type="ftp" location="it" preference="100">ftp://mi.mirror.garr.it/mirrors/archlinux/0.7.2/iso/x86_64/arch64-0.7.2-ftp.iso</url>
+        <url type="ftp" location="us" preference="100">ftp://mirror.cs.vt.edu/pub/ArchLinux/0.7.2/iso/x86_64/arch64-0.7.2-ftp.iso</url>
+        <url type="ftp" location="pl" preference="100">ftp://mirror.icis.pcz.pl/archlinux/0.7.2/iso/x86_64/arch64-0.7.2-ftp.iso</url>
+        <url type="ftp" location="au" preference="100">ftp://mirror.pacific.net.au/linux/archlinux/0.7.2/iso/x86_64/arch64-0.7.2-ftp.iso</url>
+        <url type="ftp" location="pl" preference="100">ftp://sunsite.icm.edu.pl/site/linux-sunsite/distributions/archlinux/0.7.2/iso/x86_64/arch64-0.7.2-ftp.iso</url>
+        <url type="ftp" location="at" preference="100">ftp://gd.tuwien.ac.at/opsys/linux/archlinux/0.7.2/iso/x86_64/arch64-0.7.2-ftp.iso</url>
+        <url type="ftp" location="cz" preference="100">ftp://ftp.sh.cvut.cz/MIRRORS/arch/0.7.2/iso/x86_64/arch64-0.7.2-ftp.iso</url>
+        <url type="ftp" location="be" preference="100">ftp://ftp.belnet.be/packages/archlinux/0.7.2/iso/x86_64/arch64-0.7.2-ftp.iso</url>
+        <url type="ftp" location="uk" preference="100">ftp://ftp.parrswood.net/Mirrors/ftp.archlinux.org/0.7.2/iso/x86_64/arch64-0.7.2-ftp.iso</url>
+        <url type="ftp" location="pl" preference="100">ftp://saule.mintis.lt/pub/linux/0.7.2/iso/x86_64/arch64-0.7.2-ftp.iso</url>
+        <url type="http" location="pt" preference="100">http://darkstar.ist.utl.pt/archlinux/0.7.2/iso/x86_64/arch64-0.7.2-ftp.iso</url>
+        <url type="http" location="us" preference="100">http://www2.cddc.vt.edu/linux/distributions/archlinux/0.7.2/iso/x86_64/arch64-0.7.2-ftp.iso</url>
+        <url type="http" location="cn" preference="100">http://mirror.vmmatrix.net/ArchLinux/0.7.2/iso/x86_64/arch64-0.7.2-ftp.iso</url>
+      </resources>
+    </file>
+  </files>
+</metalink>

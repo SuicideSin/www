@@ -1,0 +1,25 @@
+<?xml version="1.0" encoding="utf-8"?>
+<metalink version="3.0" generator="Metalink Generator v1.00.0034" xmlns="http://www.metalinker.org/">
+  <publisher>
+    <name>Lunar-Linux</name>
+    <url>http://lunar-linux.org/</url>
+  </publisher>
+  <files>
+    <file name="lunar-1.6.0-i686.iso.bz2">
+      <version>1.6.0</version>
+      <os>Linux-x86</os>
+      <verification>
+        <hash type="md5">5e5eb5f689e73b3b66e1065a898e0eed</hash>
+      </verification>
+      <resources>
+        <url type="http" location="be" preference="100">http://be.lunar-linux.org/lunar/lunar-1.6.0-i686.iso.bz2</url>
+        <url type="http" location="de" preference="100">http://de.lunar-linux.org/lunar/lunar-1.6.0-i686.iso.bz2</url>
+        <url type="http" location="de" preference="100">http://fr-de.lunar-linux.org/lunar/lunar-1.6.0-i686.iso.bz2</url>
+        <url type="http" location="se" preference="100">http://jkp-se.lunar-linux.org/lunar/lunar-1.6.0-i686.iso.bz2</url>
+        <url type="http" location="nl" preference="100">http://lunar-linux.org/lunar/lunar-1.6.0-i686.iso.bz2</url>
+        <url type="http" location="us" preference="100">http://tx-us.lunar-linux.org/lunar/lunar-1.6.0-i686.iso.bz2</url>
+        <url type="http" location="se" preference="100">http://vxj-se.lunar-linux.org/lunar/lunar-1.6.0-i686.iso.bz2</url>
+      </resources>
+    </file>
+  </files>
+</metalink>

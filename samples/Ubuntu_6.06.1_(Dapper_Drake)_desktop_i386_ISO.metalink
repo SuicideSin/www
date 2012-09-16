@@ -1,0 +1,68 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<metalink version="3.0" xmlns="http://www.metalinker.org/"
+  origin="http://www.ubuntu.com/m3/ubuntu.metalink" 
+  type="dynamic" pubdate="2006-04-01-22:05:47" refreshdate="2006-04-01-12:22:23">
+ 
+<!--
+     Metalink, an Open Standard, makes downloading easier by
+     bundling the various ways (FTP/HTTP/P2P) to get files into
+     one format for easier downloads, as well as bundling
+     checksums to automatically verify completed downloads.
+     Currently the following applications support this file:
+
+     - aria2 (Unix) [ http://aria2.sourceforge.net/ ]
+     - GetRight 6 (Windows) [ http://www.getright.com/ ]
+     - Speed Download (Mac) [ http://www.yazsoft.com/ ]
+     - wxDownload Fast (All)[ http://dfast.sourceforge.net/ ]
+
+     For further information please visit http://www.metalinker.org/
+
+-->
+ 
+<files>
+  
+  <file name="ubuntu-6.06.1.1-desktop-i386.iso">
+    <identity>Ubuntu</identity>
+    <version>6.06.1</version>
+    <description>Ubuntu 6.06.1 (Dapper Drake) live i386 ISO: The desktop CD allows you to try Ubuntu without changing your computer at all, and at your option to install it permanently later. This type of CD is what most people will want to use. You will need at least 192MB of RAM to install from this CD.</description>
+    <tags>ubuntu, dapper drake, linux</tags>
+    <verification>
+      <hash type="md5">fb3af44c21f1f68cc25fda7edb8c1bd3</hash>
+    </verification>
+    <releasedate>2006-08-07</releasedate>
+    <changelog>
+      <url>http://us.releases.ubuntu.com/releases/6.06.1.1/</url>
+    </changelog>
+    <publisher>
+	<name>Ubuntu</name>
+	<url>http://www.ubuntu.com/</url>
+    </publisher>
+    <license>
+	<name>GPL</name>
+	<summary>Short explanation of license</summary>
+	<url>http://www.gnu.org/copyleft/gpl.html</url>
+    </license>   
+    <resources>
+	<url type="bittorrent" preference="100">
+        http://us.releases.ubuntu.com/releases/6.06.1/ubuntu-6.06.1-desktop-i386.iso.torrent
+        </url>
+	<url type="http" location="us" preference="90">
+        http://us.releases.ubuntu.com/releases/6.06.1/ubuntu-6.06.1-desktop-i386.iso
+        </url>
+	<url type="http" location="se" preference="90">
+        http://se.releases.ubuntu.com/6.06.1/ubuntu-6.06.1-desktop-i386.iso
+        </url>
+	<url type="http" location="fr" preference="90">
+        http://fr.releases.ubuntu.com/6.06.1/ubuntu-6.06.1-desktop-i386.iso
+        </url>
+	<url type="http" location="us" preference="90">
+        http://releases.ubuntu.com/6.06.1/ubuntu-6.06.1-desktop-i386.iso
+        </url>
+	<url type="http" location="ro" preference="90">
+        http://ftp.iasi.roedu.net/mirrors/ubuntulinux.org/releases/6.06.1/ubuntu-6.06.1-desktop-i386.iso
+        </url>
+    </resources>
+  </file>
+ 
+</files>
+</metalink>

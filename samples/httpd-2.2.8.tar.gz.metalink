@@ -1,0 +1,64 @@
+<?xml version="1.0" encoding="utf-8"?>
+<metalink version="3.0" generator="Metalink Editor version 1.1.0" xmlns="http://www.metalinker.org/">
+  <publisher>
+    <name>Apache Software Foundation</name>
+    <url>http://httpd.apache.org/</url>
+  </publisher>
+  <license>
+    <name>Apache</name>
+    <url>http://www.apache.org/licenses/</url>
+  </license>
+  <identity>httpd</identity>
+  <version>2.2.8</version>
+  <description>The Apache HTTP Server Project is an effort to develop and maintain an open-source HTTP server for modern operating systems including UNIX and Windows NT.</description>
+  <files>
+    <file name="httpd-2.2.8.tar.gz">
+      <size>6125771</size>
+      <verification>
+        <signature type="pgp">
+		-----BEGIN PGP SIGNATURE-----
+        Version: GnuPG v1.4.7 (Darwin)
+        
+        iD8DBQBHhk3hizpgHwjJdeURAgacAKDeXrgaZB+lPqRrVSQMPUgpW3AN3ACg6JPW
+        My+xx7Jzj3rZ1RwIBwxA9Ls=
+        =NOQO
+        -----END PGP SIGNATURE-----
+        </signature>
+        <hash type="md5">39a755eb0f584c279336387b321e3dfc</hash>
+        <hash type="sha1">27f0b7cbaef69d390e987fb2765ddb34deb8fe20</hash>
+        <hash type="sha256">f77955ef769b0af5d3879bc04c291950a0e721ce5a7aa22942f0492a87c09e1e</hash>
+        <pieces type="sha1" length="262144">
+          <hash piece="0">d7c09406afa76838525ca742931053dabf370b46</hash>
+          <hash piece="1">ca68b169a0c8b24ae745c59a7340d81a969c3f21</hash>
+          <hash piece="2">b10b354d4e5259ee08f66a7bfcbed0b08749f111</hash>
+          <hash piece="3">690a70ed70f7e33e2837833e24f16ebd2e6ce2ea</hash>
+          <hash piece="4">4afab2f77490a69fd0369e1da7876b542e79d55f</hash>
+          <hash piece="5">e93cea07e067c0f53e114e03010a5627e432adc2</hash>
+          <hash piece="6">8e01833bf24a837fb99e27f3f94f5c7ab5e6a6eb</hash>
+          <hash piece="7">05d8f71f97dd28f0b8ad13c04ef51085626bbc9c</hash>
+          <hash piece="8">bd5878543d23f5a6f4e27968166e6aff7a2754d9</hash>
+          <hash piece="9">d85b1d91ed5f2363c85b0d9d99877a44befdf108</hash>
+          <hash piece="10">b7a68b070c32bf8dfe7bc47d058dde0d3f4caebc</hash>
+          <hash piece="11">55b794e14d7819e357052aa7069568540687ce0b</hash>
+          <hash piece="12">da2c5baeced35eb533d4bb806d90c13ddd5ff837</hash>
+          <hash piece="13">551cfdb4b3e825c8cd864529652d8a2001e5e359</hash>
+          <hash piece="14">5db35bdf1b6a6e7c1b7255ff4ce554ccc4d616de</hash>
+          <hash piece="15">38ddd192259494ee5b351a6930cd2df1bf1e51cb</hash>
+          <hash piece="16">3dbe90ace115191941a61c5e3d09cbd3c01c65e0</hash>
+          <hash piece="17">1762e64258136e52d9c87d28b52a0402f31e540f</hash>
+          <hash piece="18">f79bf2afe628b312fd3e7d177c3dd8abf55f4629</hash>
+          <hash piece="19">29c29f11fabf40fd5874e46cf8e46455f97082f9</hash>
+          <hash piece="20">fdc0f02ed8b3913de435f0169e01bdb495e8a5bf</hash>
+          <hash piece="21">ec9690ca4f8e1465dd76535e95725b9e2ebc9496</hash>
+          <hash piece="22">4e5b53da553fa3186338f94adf7a599dfe78f2a6</hash>
+          <hash piece="23">332fc40dd0bf83c2044d6635f40f46577374e119</hash>
+        </pieces>
+      </verification>
+      <resources>
+        <url type="http" preference="100">http://www.reverse.net/pub/apache/httpd/httpd-2.2.8.tar.gz</url>
+        <url type="http">http://www.devlib.org/apache/httpd/httpd-2.2.8.tar.gz</url>
+        <url type="ftp">ftp://www.ibiblio.org/pub/mirrors/apache/httpd/httpd-2.2.8.tar.gz</url>
+      </resources>
+    </file>
+  </files>
+</metalink>

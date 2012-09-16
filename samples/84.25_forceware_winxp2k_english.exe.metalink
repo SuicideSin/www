@@ -1,0 +1,22 @@
+<?xml version="1.0" encoding="utf-8"?>
+<metalink version="3.0" generator="Metalink Generator v1.00.0001" xmlns="http://www.metalinker.org/">
+  <publisher>
+    <name>Nvidia</name>
+    <url>http://www.nvidia.com/</url>
+  </publisher>
+  <description>nVIDIA ForceWare Drivers for Windows 2000/XP (32-bit) English</description>
+  <files>
+    <file name="84.25_forceware_winxp2k_english.exe">
+      <version>84.25</version>
+      <language>en-US</language>
+      <os>Windows-x86</os>
+      <verification>
+        <hash type="md5">5ce6d842bbd3a46d7bd7f3a1fd58c0e8</hash>
+      </verification>
+      <resources>
+        <url type="http" location="us" preference="80">http://download1.nvidia.com/Windows/84.25/84.25_forceware_winxp2k_english.exe</url>
+        <url type="http" location="us" preference="80">http://download.nvidia.com/Windows/84.25/84.25_forceware_winxp2k_english.exe</url>
+      </resources>
+    </file>
+  </files>
+</metalink>

@@ -1,0 +1,31 @@
+<?xml version="1.0" encoding="utf-8"?>
+<metalink version="3.0" generator="Metalink Generator v1.00.0034" xmlns="http://www.metalinker.org/">
+  <publisher>
+    <name>NetBSD</name>
+    <url>http://www.netbsd.org/</url>
+  </publisher>
+  <description>NetBSD x86</description>
+  <files>
+    <file name="i386cd-3.0.1.iso">
+      <version>3.0.1</version>
+      <os>BSD-x86</os>
+      <verification>
+        <hash type="md5">6d3f64e20d778e90f0bb149c3054a775</hash>
+      </verification>
+      <resources>
+        <url type="ftp" location="jp" preference="100">ftp://ftp.yz.yamagata-u.ac.jp/pub/NetBSD/iso/3.0.1/i386cd-3.0.1.iso</url>
+        <url type="ftp" location="au" preference="100">ftp://iso.au.netbsd.org/pub/NetBSD/iso/3.0.1/i386cd-3.0.1.iso</url>
+        <url type="ftp" location="br" preference="100">ftp://iso.br.netbsd.org/pub/NetBSD/iso/3.0.1/i386cd-3.0.1.iso</url>
+        <url type="ftp" location="de" preference="100">ftp://iso.de.netbsd.org/pub/NetBSD/iso/3.0.1/i386cd-3.0.1.iso</url>
+        <url type="ftp" location="es" preference="100">ftp://iso.es.netbsd.org/pub/NetBSD/iso/3.0.1/i386cd-3.0.1.iso</url>
+        <url type="ftp" location="fr" preference="100">ftp://iso.fr.netbsd.org/pub/NetBSD/3.0.1/i386cd-3.0.1.iso</url>
+        <url type="ftp" location="jp" preference="100">ftp://iso.jp.netbsd.org/pub/NetBSD/iso/3.0.1/i386cd-3.0.1.iso</url>
+        <url type="ftp" location="us" preference="100">ftp://iso.netbsd.org/pub/NetBSD/iso/3.0.1/i386cd-3.0.1.iso</url>
+        <url type="ftp" location="jp" preference="100">ftp://iso2.jp.netbsd.org/pub/NetBSD/iso/3.0.1/i386cd-3.0.1.iso</url>
+        <url type="ftp" location="uk" preference="100">ftp://iso2.uk.netbsd.org/pub/NetBSD/iso/3.0.1/i386cd-3.0.1.iso</url>
+        <url type="ftp" location="us" preference="100">ftp://iso2.us.netbsd.org/pub/NetBSD/iso/3.0.1/i386cd-3.0.1.iso</url>
+        <url type="ftp" location="us" preference="100">ftp://iso3.us.netbsd.org/pub/NetBSD/iso/3.0.1/i386cd-3.0.1.iso</url>
+      </resources>
+    </file>
+  </files>
+</metalink>

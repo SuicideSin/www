@@ -1,0 +1,644 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<metalink version="3.0" xmlns="http://www.metalinker.org/"
+  origin="http://metalink.packages.ro/download/download/kernel/linux-2.6.8.1.tar.bz2.metalink"
+  type="static" pubdate="2006-04-27-14:24:30"
+  generator="Metalink Gen - http://metalink.packages.ro" 
+  refreshdate="2006-04-27-14:24:30">
+
+  <publisher>
+    <name>Package resources</name>
+    <url>http://www.packages.ro</url>
+  </publisher>
+  <license>
+    <name>GPL</name>
+    <url>http://www.gnu.org/copyleft/gpl.html</url>
+  </license>    
+  <description>Linux kernel</description>
+  <tags>kernel, linux</tags>
+  <identity>linux-2.6.8.1.tar.bz2</identity>
+  <version>2.6.8.1</version>
+
+  <files>  
+   <file name="linux-2.6.8.1.tar.bz2">
+    
+     <os>Linux-x86</os>
+    
+    <size>35628066</size>
+    <verification>
+     <hash type="md5">9517ca999e822b898fbdc7e72796b1aa</hash>
+    </verification>
+    <resources>
+      <url type="http"
+           location="RO"
+           preference="10">
+       http://ftp.roedu.net/mirrors/ftp.kernel.org/pub/linux/kernel/v2.6/linux-2.6.8.1.tar.bz2
+      </url>
+      <url type="http"
+           location="AT"
+           preference="10">
+       http://ftp.at.kernel.org/pub/linux/kernel/v2.6/linux-2.6.8.1.tar.bz2
+      </url>
+      <url type="http"
+           location="al"
+           preference="10">
+       http://ftp.al.kernel.org/pub/linux/kernel/v2.6/linux-2.6.8.1.tar.bz2
+      </url>
+      <url type="http"
+           location="ad"
+           preference="10">
+       http://ftp.ad.kernel.org/pub/linux/kernel/v2.6/linux-2.6.8.1.tar.bz2
+      </url>
+      <url type="http"
+           location="aq"
+           preference="10">
+       http://ftp.aq.kernel.org/pub/linux/kernel/v2.6/linux-2.6.8.1.tar.bz2
+      </url>
+      <url type="http"
+           location="ag"
+           preference="10">
+       http://ftp.ag.kernel.org/pub/linux/kernel/v2.6/linux-2.6.8.1.tar.bz2
+      </url>
+      <url type="http"
+           location="ar"
+           preference="10">
+       http://ftp.ar.kernel.org/pub/linux/kernel/v2.6/linux-2.6.8.1.tar.bz2
+      </url>
+      <url type="http"
+           location="am"
+           preference="10">
+       http://ftp.am.kernel.org/pub/linux/kernel/v2.6/linux-2.6.8.1.tar.bz2
+      </url>
+      <url type="http"
+           location="aw"
+           preference="10">
+       http://ftp.aw.kernel.org/pub/linux/kernel/v2.6/linux-2.6.8.1.tar.bz2
+      </url>
+      <url type="http"
+           location="au"
+           preference="10">
+       http://ftp.au.kernel.org/pub/linux/kernel/v2.6/linux-2.6.8.1.tar.bz2
+      </url>
+      <url type="http"
+           location="at"
+           preference="10">
+       http://ftp.at.kernel.org/pub/linux/kernel/v2.6/linux-2.6.8.1.tar.bz2
+      </url>
+      <url type="http"
+           location="az"
+           preference="10">
+       http://ftp.az.kernel.org/pub/linux/kernel/v2.6/linux-2.6.8.1.tar.bz2
+      </url>
+      <url type="http"
+           location="ax"
+           preference="10">
+       http://ftp.ax.kernel.org/pub/linux/kernel/v2.6/linux-2.6.8.1.tar.bz2
+      </url>
+      <url type="http"
+           location="bs"
+           preference="10">
+       http://ftp.bs.kernel.org/pub/linux/kernel/v2.6/linux-2.6.8.1.tar.bz2
+      </url>
+      <url type="http"
+           location="bb"
+           preference="10">
+       http://ftp.bb.kernel.org/pub/linux/kernel/v2.6/linux-2.6.8.1.tar.bz2
+      </url>
+      <url type="http"
+           location="by"
+           preference="10">
+       http://ftp.by.kernel.org/pub/linux/kernel/v2.6/linux-2.6.8.1.tar.bz2
+      </url>
+      <url type="http"
+           location="be"
+           preference="10">
+       http://ftp.be.kernel.org/pub/linux/kernel/v2.6/linux-2.6.8.1.tar.bz2
+      </url>
+      <url type="http"
+           location="bz"
+           preference="10">
+       http://ftp.bz.kernel.org/pub/linux/kernel/v2.6/linux-2.6.8.1.tar.bz2
+      </url>
+      <url type="http"
+           location="bm"
+           preference="10">
+       http://ftp.bm.kernel.org/pub/linux/kernel/v2.6/linux-2.6.8.1.tar.bz2
+      </url>
+      <url type="http"
+           location="bo"
+           preference="10">
+       http://ftp.bo.kernel.org/pub/linux/kernel/v2.6/linux-2.6.8.1.tar.bz2
+      </url>
+      <url type="http"
+           location="ba"
+           preference="10">
+       http://ftp.ba.kernel.org/pub/linux/kernel/v2.6/linux-2.6.8.1.tar.bz2
+      </url>
+      <url type="http"
+           location="br"
+           preference="10">
+       http://ftp.br.kernel.org/pub/linux/kernel/v2.6/linux-2.6.8.1.tar.bz2
+      </url>
+      <url type="http"
+           location="bn"
+           preference="10">
+       http://ftp.bn.kernel.org/pub/linux/kernel/v2.6/linux-2.6.8.1.tar.bz2
+      </url>
+      <url type="http"
+           location="bg"
+           preference="10">
+       http://ftp.bg.kernel.org/pub/linux/kernel/v2.6/linux-2.6.8.1.tar.bz2
+      </url>
+      <url type="http"
+           location="ca"
+           preference="10">
+       http://ftp.ca.kernel.org/pub/linux/kernel/v2.6/linux-2.6.8.1.tar.bz2
+      </url>
+      <url type="http"
+           location="ky"
+           preference="10">
+       http://ftp.ky.kernel.org/pub/linux/kernel/v2.6/linux-2.6.8.1.tar.bz2
+      </url>
+      <url type="http"
+           location="cl"
+           preference="10">
+       http://ftp.cl.kernel.org/pub/linux/kernel/v2.6/linux-2.6.8.1.tar.bz2
+      </url>
+      <url type="http"
+           location="cn"
+           preference="10">
+       http://ftp.cn.kernel.org/pub/linux/kernel/v2.6/linux-2.6.8.1.tar.bz2
+      </url>
+      <url type="http"
+           location="co"
+           preference="10">
+       http://ftp.co.kernel.org/pub/linux/kernel/v2.6/linux-2.6.8.1.tar.bz2
+      </url>
+      <url type="http"
+           location="cr"
+           preference="10">
+       http://ftp.cr.kernel.org/pub/linux/kernel/v2.6/linux-2.6.8.1.tar.bz2
+      </url>
+      <url type="http"
+           location="hr"
+           preference="10">
+       http://ftp.hr.kernel.org/pub/linux/kernel/v2.6/linux-2.6.8.1.tar.bz2
+      </url>
+      <url type="http"
+           location="cy"
+           preference="10">
+       http://ftp.cy.kernel.org/pub/linux/kernel/v2.6/linux-2.6.8.1.tar.bz2
+      </url>
+      <url type="http"
+           location="cz"
+           preference="10">
+       http://ftp.cz.kernel.org/pub/linux/kernel/v2.6/linux-2.6.8.1.tar.bz2
+      </url>
+      <url type="http"
+           location="dk"
+           preference="10">
+       http://ftp.dk.kernel.org/pub/linux/kernel/v2.6/linux-2.6.8.1.tar.bz2
+      </url>
+      <url type="http"
+           location="dm"
+           preference="10">
+       http://ftp.dm.kernel.org/pub/linux/kernel/v2.6/linux-2.6.8.1.tar.bz2
+      </url>
+      <url type="http"
+           location="do"
+           preference="10">
+       http://ftp.do.kernel.org/pub/linux/kernel/v2.6/linux-2.6.8.1.tar.bz2
+      </url>
+      <url type="http"
+           location="ec"
+           preference="10">
+       http://ftp.ec.kernel.org/pub/linux/kernel/v2.6/linux-2.6.8.1.tar.bz2
+      </url>
+      <url type="http"
+           location="sv"
+           preference="10">
+       http://ftp.sv.kernel.org/pub/linux/kernel/v2.6/linux-2.6.8.1.tar.bz2
+      </url>
+      <url type="http"
+           location="ee"
+           preference="10">
+       http://ftp.ee.kernel.org/pub/linux/kernel/v2.6/linux-2.6.8.1.tar.bz2
+      </url>
+      <url type="http"
+           location="fk"
+           preference="10">
+       http://ftp.fk.kernel.org/pub/linux/kernel/v2.6/linux-2.6.8.1.tar.bz2
+      </url>
+      <url type="http"
+           location="fo"
+           preference="10">
+       http://ftp.fo.kernel.org/pub/linux/kernel/v2.6/linux-2.6.8.1.tar.bz2
+      </url>
+      <url type="http"
+           location="fi"
+           preference="10">
+       http://ftp.fi.kernel.org/pub/linux/kernel/v2.6/linux-2.6.8.1.tar.bz2
+      </url>
+      <url type="http"
+           location="fr"
+           preference="10">
+       http://ftp.fr.kernel.org/pub/linux/kernel/v2.6/linux-2.6.8.1.tar.bz2
+      </url>
+      <url type="http"
+           location="gf"
+           preference="10">
+       http://ftp.gf.kernel.org/pub/linux/kernel/v2.6/linux-2.6.8.1.tar.bz2
+      </url>
+      <url type="http"
+           location="de"
+           preference="10">
+       http://ftp.de.kernel.org/pub/linux/kernel/v2.6/linux-2.6.8.1.tar.bz2
+      </url>
+      <url type="http"
+           location="gi"
+           preference="10">
+       http://ftp.gi.kernel.org/pub/linux/kernel/v2.6/linux-2.6.8.1.tar.bz2
+      </url>
+      <url type="http"
+           location="gr"
+           preference="10">
+       http://ftp.gr.kernel.org/pub/linux/kernel/v2.6/linux-2.6.8.1.tar.bz2
+      </url>
+      <url type="http"
+           location="gl"
+           preference="10">
+       http://ftp.gl.kernel.org/pub/linux/kernel/v2.6/linux-2.6.8.1.tar.bz2
+      </url>
+      <url type="http"
+           location="gd"
+           preference="10">
+       http://ftp.gd.kernel.org/pub/linux/kernel/v2.6/linux-2.6.8.1.tar.bz2
+      </url>
+      <url type="http"
+           location="gp"
+           preference="10">
+       http://ftp.gp.kernel.org/pub/linux/kernel/v2.6/linux-2.6.8.1.tar.bz2
+      </url>
+      <url type="http"
+           location="gt"
+           preference="10">
+       http://ftp.gt.kernel.org/pub/linux/kernel/v2.6/linux-2.6.8.1.tar.bz2
+      </url>
+      <url type="http"
+           location="gy"
+           preference="10">
+       http://ftp.gy.kernel.org/pub/linux/kernel/v2.6/linux-2.6.8.1.tar.bz2
+      </url>
+      <url type="http"
+           location="ht"
+           preference="10">
+       http://ftp.ht.kernel.org/pub/linux/kernel/v2.6/linux-2.6.8.1.tar.bz2
+      </url>
+      <url type="http"
+           location="hn"
+           preference="10">
+       http://ftp.hn.kernel.org/pub/linux/kernel/v2.6/linux-2.6.8.1.tar.bz2
+      </url>
+      <url type="http"
+           location="hk"
+           preference="10">
+       http://ftp.hk.kernel.org/pub/linux/kernel/v2.6/linux-2.6.8.1.tar.bz2
+      </url>
+      <url type="http"
+           location="hu"
+           preference="10">
+       http://ftp.hu.kernel.org/pub/linux/kernel/v2.6/linux-2.6.8.1.tar.bz2
+      </url>
+      <url type="http"
+           location="is"
+           preference="10">
+       http://ftp.is.kernel.org/pub/linux/kernel/v2.6/linux-2.6.8.1.tar.bz2
+      </url>
+      <url type="http"
+           location="in"
+           preference="10">
+       http://ftp.in.kernel.org/pub/linux/kernel/v2.6/linux-2.6.8.1.tar.bz2
+      </url>
+      <url type="http"
+           location="id"
+           preference="10">
+       http://ftp.id.kernel.org/pub/linux/kernel/v2.6/linux-2.6.8.1.tar.bz2
+      </url>
+      <url type="http"
+           location="ie"
+           preference="10">
+       http://ftp.ie.kernel.org/pub/linux/kernel/v2.6/linux-2.6.8.1.tar.bz2
+      </url>
+      <url type="http"
+           location="il"
+           preference="10">
+       http://ftp.il.kernel.org/pub/linux/kernel/v2.6/linux-2.6.8.1.tar.bz2
+      </url>
+      <url type="http"
+           location="it"
+           preference="10">
+       http://ftp.it.kernel.org/pub/linux/kernel/v2.6/linux-2.6.8.1.tar.bz2
+      </url>
+      <url type="http"
+           location="jp"
+           preference="10">
+       http://ftp.jp.kernel.org/pub/linux/kernel/v2.6/linux-2.6.8.1.tar.bz2
+      </url>
+      <url type="http"
+           location="kz"
+           preference="10">
+       http://ftp.kz.kernel.org/pub/linux/kernel/v2.6/linux-2.6.8.1.tar.bz2
+      </url>
+      <url type="http"
+           location="kr"
+           preference="10">
+       http://ftp.kr.kernel.org/pub/linux/kernel/v2.6/linux-2.6.8.1.tar.bz2
+      </url>
+      <url type="http"
+           location="kw"
+           preference="10">
+       http://ftp.kw.kernel.org/pub/linux/kernel/v2.6/linux-2.6.8.1.tar.bz2
+      </url>
+      <url type="http"
+           location="kg"
+           preference="10">
+       http://ftp.kg.kernel.org/pub/linux/kernel/v2.6/linux-2.6.8.1.tar.bz2
+      </url>
+      <url type="http"
+           location="lv"
+           preference="10">
+       http://ftp.lv.kernel.org/pub/linux/kernel/v2.6/linux-2.6.8.1.tar.bz2
+      </url>
+      <url type="http"
+           location="li"
+           preference="10">
+       http://ftp.li.kernel.org/pub/linux/kernel/v2.6/linux-2.6.8.1.tar.bz2
+      </url>
+      <url type="http"
+           location="lt"
+           preference="10">
+       http://ftp.lt.kernel.org/pub/linux/kernel/v2.6/linux-2.6.8.1.tar.bz2
+      </url>
+      <url type="http"
+           location="lu"
+           preference="10">
+       http://ftp.lu.kernel.org/pub/linux/kernel/v2.6/linux-2.6.8.1.tar.bz2
+      </url>
+      <url type="http"
+           location="mk"
+           preference="10">
+       http://ftp.mk.kernel.org/pub/linux/kernel/v2.6/linux-2.6.8.1.tar.bz2
+      </url>
+      <url type="http"
+           location="my"
+           preference="10">
+       http://ftp.my.kernel.org/pub/linux/kernel/v2.6/linux-2.6.8.1.tar.bz2
+      </url>
+      <url type="http"
+           location="mq"
+           preference="10">
+       http://ftp.mq.kernel.org/pub/linux/kernel/v2.6/linux-2.6.8.1.tar.bz2
+      </url>
+      <url type="http"
+           location="mx"
+           preference="10">
+       http://ftp.mx.kernel.org/pub/linux/kernel/v2.6/linux-2.6.8.1.tar.bz2
+      </url>
+      <url type="http"
+           location="md"
+           preference="10">
+       http://ftp.md.kernel.org/pub/linux/kernel/v2.6/linux-2.6.8.1.tar.bz2
+      </url>
+      <url type="http"
+           location="mc"
+           preference="10">
+       http://ftp.mc.kernel.org/pub/linux/kernel/v2.6/linux-2.6.8.1.tar.bz2
+      </url>
+      <url type="http"
+           location="mm"
+           preference="10">
+       http://ftp.mm.kernel.org/pub/linux/kernel/v2.6/linux-2.6.8.1.tar.bz2
+      </url>
+      <url type="http"
+           location="nl"
+           preference="10">
+       http://ftp.nl.kernel.org/pub/linux/kernel/v2.6/linux-2.6.8.1.tar.bz2
+      </url>
+      <url type="http"
+           location="nz"
+           preference="10">
+       http://ftp.nz.kernel.org/pub/linux/kernel/v2.6/linux-2.6.8.1.tar.bz2
+      </url>
+      <url type="http"
+           location="ni"
+           preference="10">
+       http://ftp.ni.kernel.org/pub/linux/kernel/v2.6/linux-2.6.8.1.tar.bz2
+      </url>
+      <url type="http"
+           location="no"
+           preference="10">
+       http://ftp.no.kernel.org/pub/linux/kernel/v2.6/linux-2.6.8.1.tar.bz2
+      </url>
+      <url type="http"
+           location="pk"
+           preference="10">
+       http://ftp.pk.kernel.org/pub/linux/kernel/v2.6/linux-2.6.8.1.tar.bz2
+      </url>
+      <url type="http"
+           location="pa"
+           preference="10">
+       http://ftp.pa.kernel.org/pub/linux/kernel/v2.6/linux-2.6.8.1.tar.bz2
+      </url>
+      <url type="http"
+           location="py"
+           preference="10">
+       http://ftp.py.kernel.org/pub/linux/kernel/v2.6/linux-2.6.8.1.tar.bz2
+      </url>
+      <url type="http"
+           location="pe"
+           preference="10">
+       http://ftp.pe.kernel.org/pub/linux/kernel/v2.6/linux-2.6.8.1.tar.bz2
+      </url>
+      <url type="http"
+           location="ph"
+           preference="10">
+       http://ftp.ph.kernel.org/pub/linux/kernel/v2.6/linux-2.6.8.1.tar.bz2
+      </url>
+      <url type="http"
+           location="pl"
+           preference="10">
+       http://ftp.pl.kernel.org/pub/linux/kernel/v2.6/linux-2.6.8.1.tar.bz2
+      </url>
+      <url type="http"
+           location="pt"
+           preference="10">
+       http://ftp.pt.kernel.org/pub/linux/kernel/v2.6/linux-2.6.8.1.tar.bz2
+      </url>
+      <url type="http"
+           location="pr"
+           preference="10">
+       http://ftp.pr.kernel.org/pub/linux/kernel/v2.6/linux-2.6.8.1.tar.bz2
+      </url>
+      <url type="http"
+           location="ro"
+           preference="10">
+       http://ftp.ro.kernel.org/pub/linux/kernel/v2.6/linux-2.6.8.1.tar.bz2
+      </url>
+      <url type="http"
+           location="ru"
+           preference="10">
+       http://ftp.ru.kernel.org/pub/linux/kernel/v2.6/linux-2.6.8.1.tar.bz2
+      </url>
+      <url type="http"
+           location="pm"
+           preference="10">
+       http://ftp.pm.kernel.org/pub/linux/kernel/v2.6/linux-2.6.8.1.tar.bz2
+      </url>
+      <url type="http"
+           location="vc"
+           preference="10">
+       http://ftp.vc.kernel.org/pub/linux/kernel/v2.6/linux-2.6.8.1.tar.bz2
+      </url>
+      <url type="http"
+           location="cs"
+           preference="10">
+       http://ftp.cs.kernel.org/pub/linux/kernel/v2.6/linux-2.6.8.1.tar.bz2
+      </url>
+      <url type="http"
+           location="sg"
+           preference="10">
+       http://ftp.sg.kernel.org/pub/linux/kernel/v2.6/linux-2.6.8.1.tar.bz2
+      </url>
+      <url type="http"
+           location="sk"
+           preference="10">
+       http://ftp.sk.kernel.org/pub/linux/kernel/v2.6/linux-2.6.8.1.tar.bz2
+      </url>
+      <url type="http"
+           location="si"
+           preference="10">
+       http://ftp.si.kernel.org/pub/linux/kernel/v2.6/linux-2.6.8.1.tar.bz2
+      </url>
+      <url type="http"
+           location="es"
+           preference="10">
+       http://ftp.es.kernel.org/pub/linux/kernel/v2.6/linux-2.6.8.1.tar.bz2
+      </url>
+      <url type="http"
+           location="sr"
+           preference="10">
+       http://ftp.sr.kernel.org/pub/linux/kernel/v2.6/linux-2.6.8.1.tar.bz2
+      </url>
+      <url type="http"
+           location="sj"
+           preference="10">
+       http://ftp.sj.kernel.org/pub/linux/kernel/v2.6/linux-2.6.8.1.tar.bz2
+      </url>
+      <url type="http"
+           location="sz"
+           preference="10">
+       http://ftp.sz.kernel.org/pub/linux/kernel/v2.6/linux-2.6.8.1.tar.bz2
+      </url>
+      <url type="http"
+           location="se"
+           preference="10">
+       http://ftp.se.kernel.org/pub/linux/kernel/v2.6/linux-2.6.8.1.tar.bz2
+      </url>
+      <url type="http"
+           location="ch"
+           preference="10">
+       http://ftp.ch.kernel.org/pub/linux/kernel/v2.6/linux-2.6.8.1.tar.bz2
+      </url>
+      <url type="http"
+           location="tw"
+           preference="10">
+       http://ftp.tw.kernel.org/pub/linux/kernel/v2.6/linux-2.6.8.1.tar.bz2
+      </url>
+      <url type="http"
+           location="tj"
+           preference="10">
+       http://ftp.tj.kernel.org/pub/linux/kernel/v2.6/linux-2.6.8.1.tar.bz2
+      </url>
+      <url type="http"
+           location="th"
+           preference="10">
+       http://ftp.th.kernel.org/pub/linux/kernel/v2.6/linux-2.6.8.1.tar.bz2
+      </url>
+      <url type="http"
+           location="tt"
+           preference="10">
+       http://ftp.tt.kernel.org/pub/linux/kernel/v2.6/linux-2.6.8.1.tar.bz2
+      </url>
+      <url type="http"
+           location="tr"
+           preference="10">
+       http://ftp.tr.kernel.org/pub/linux/kernel/v2.6/linux-2.6.8.1.tar.bz2
+      </url>
+      <url type="http"
+           location="tm"
+           preference="10">
+       http://ftp.tm.kernel.org/pub/linux/kernel/v2.6/linux-2.6.8.1.tar.bz2
+      </url>
+      <url type="http"
+           location="tc"
+           preference="10">
+       http://ftp.tc.kernel.org/pub/linux/kernel/v2.6/linux-2.6.8.1.tar.bz2
+      </url>
+      <url type="http"
+           location="ua"
+           preference="10">
+       http://ftp.ua.kernel.org/pub/linux/kernel/v2.6/linux-2.6.8.1.tar.bz2
+      </url>
+      <url type="http"
+           location="ae"
+           preference="10">
+       http://ftp.ae.kernel.org/pub/linux/kernel/v2.6/linux-2.6.8.1.tar.bz2
+      </url>
+      <url type="http"
+           location="uk"
+           preference="10">
+       http://ftp.uk.kernel.org/pub/linux/kernel/v2.6/linux-2.6.8.1.tar.bz2
+      </url>
+      <url type="http"
+           location="us"
+           preference="10">
+       http://ftp.us.kernel.org/pub/linux/kernel/v2.6/linux-2.6.8.1.tar.bz2
+      </url>
+      <url type="http"
+           location="uy"
+           preference="10">
+       http://ftp.uy.kernel.org/pub/linux/kernel/v2.6/linux-2.6.8.1.tar.bz2
+      </url>
+      <url type="http"
+           location="va"
+           preference="10">
+       http://ftp.va.kernel.org/pub/linux/kernel/v2.6/linux-2.6.8.1.tar.bz2
+      </url>
+      <url type="http"
+           location="ve"
+           preference="10">
+       http://ftp.ve.kernel.org/pub/linux/kernel/v2.6/linux-2.6.8.1.tar.bz2
+      </url>
+      <url type="http"
+           location="vn"
+           preference="10">
+       http://ftp.vn.kernel.org/pub/linux/kernel/v2.6/linux-2.6.8.1.tar.bz2
+      </url>
+      <url type="http"
+           location="vg"
+           preference="10">
+       http://ftp.vg.kernel.org/pub/linux/kernel/v2.6/linux-2.6.8.1.tar.bz2
+      </url>
+      <url type="http"
+           location="vi"
+           preference="10">
+       http://ftp.vi.kernel.org/pub/linux/kernel/v2.6/linux-2.6.8.1.tar.bz2
+      </url>
+      <url type="http"
+           location="eh"
+           preference="10">
+       http://ftp.eh.kernel.org/pub/linux/kernel/v2.6/linux-2.6.8.1.tar.bz2
+      </url>
+    </resources>
+   </file>
+  </files> 
+</metalink>

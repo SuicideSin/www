@@ -1,0 +1,114 @@
+<?xml version="1.0" encoding="utf-8"?>
+<metalink version="3.0" generator="Metalink Editor version 1.0.0" xmlns="http://www.metalinker.org/">
+  <publisher>
+    <name>Ubuntu Christian Edition</name>
+    <url>http://www.christianubuntu.com/</url>
+  </publisher>
+  <version>3.1</version>
+  <description>Ubuntu Christian Edition is a free, open source operating system geared towards Christians. It is based on the popular Ubuntu Linux. Ubuntu is a complete Linux-based operating system, freely available with both community and professional support.</description>
+  <files>
+    <file name="Ubuntu_7.04_i386_Christian_Edition_v3_1.iso">
+      <size>734031872</size>
+      <os>Linux-x86</os>
+      <verification>
+        <hash type="md5">c2f96d8dbb8b55a7619b87d1f6049e87</hash>
+        <hash type="sha1">09488a018506e47ed97ac8b9155e47980ac7ce45</hash>
+        <pieces type="sha1" length="8388608">
+          <hash piece="0">26784b7b5fd7398e46be1e4c0cddeb7af70af7ba</hash>
+          <hash piece="1">3b2544207f110e547d1e2833ee332d2721e12090</hash>
+          <hash piece="2">5cbc14a4714b8bec6af96b7f63e7b7b76091c433</hash>
+          <hash piece="3">7968a7de2676f5276a4d40a057b10b55ba02fd20</hash>
+          <hash piece="4">ef2de6193f73b6c3458bc3d1e407c3ed86d39610</hash>
+          <hash piece="5">6eb8edddc18acea85042b24ffaa0384a9aae007f</hash>
+          <hash piece="6">6216e4bb18efd0a1eb27c77ca16990e6d7278934</hash>
+          <hash piece="7">d07cd8f61e6eae5f6531ae009920de687265a0e8</hash>
+          <hash piece="8">40ad23a7a4f62dc95b866f4cfa35021179b150c9</hash>
+          <hash piece="9">e64d8572f869add1122c0247013855e58c90957f</hash>
+          <hash piece="10">6ea548b811c5c3dfa66719f8c579343ae06ccd6f</hash>
+          <hash piece="11">ad15db2fc37319c7abac4b807cfca3f80d86591c</hash>
+          <hash piece="12">f984caf9fadac47de6791a32843f0000fdac26fb</hash>
+          <hash piece="13">466195aa9eb3f1b752bf3de01634075efc7cd509</hash>
+          <hash piece="14">2379dd30586036841554872312ae53f226f4dfef</hash>
+          <hash piece="15">94d419717ef362b12bc102bbd2a75e0e078ae630</hash>
+          <hash piece="16">058410cd1bd2b97f28eb0f673d61bc1949ceb2a9</hash>
+          <hash piece="17">a1c9eb8b6ccb7e77a6397fb277f8af740ff790e7</hash>
+          <hash piece="18">a60f821ef6c75242257eac575935db96552d10f5</hash>
+          <hash piece="19">5ce2857768eb3a15db5293beaed348211bdc8c1f</hash>
+          <hash piece="20">1586e3d4d9db72446d011dc3bc2939549953c29a</hash>
+          <hash piece="21">e745904076872cf090036d6f39e7dff4a1bf960d</hash>
+          <hash piece="22">831c469531428320062d7b9623b1a1706d33c3dc</hash>
+          <hash piece="23">d2ab8667ed0d5c974a189d801cee9d39180cf7a0</hash>
+          <hash piece="24">79496fdd5415da9dc9da126d4ccf7a24b9d2de7e</hash>
+          <hash piece="25">0a455504180259e41ec455338c6eb40e1f4d6136</hash>
+          <hash piece="26">5db74a7a5ef483006bd4ddd0ee484aaab5983e0f</hash>
+          <hash piece="27">f61330817f6634c68c9f81c6443c5473f0b8037a</hash>
+          <hash piece="28">d5cbee08f29101e76136e7629300c1ec8742e85f</hash>
+          <hash piece="29">df35ae78b8b6572e7b5710fb9459f8df7df82b0e</hash>
+          <hash piece="30">ed2af8ccbcbb287111a5a43ba9ad48aac26c8c76</hash>
+          <hash piece="31">9882bdf9d82ad979bd1dd299e584dcf5d6c3e698</hash>
+          <hash piece="32">67ae1dfa106dc3a83f858d9cdbe64057c48a2e85</hash>
+          <hash piece="33">42e4e2aa31859f46a0eaae030943bd4c4c9b5024</hash>
+          <hash piece="34">e1743a081caa09f5e1945a59af894f3b35b4a0e2</hash>
+          <hash piece="35">c7a52b5a70e5b2a1e8d2e29360f41a5a5e3357c0</hash>
+          <hash piece="36">586bbf34f075f3828a3e628a3da9baa9125a4a63</hash>
+          <hash piece="37">8971d699dbbfb47d62f3acd82c572be4419e63e9</hash>
+          <hash piece="38">38d76328af60684c28b8e3c5ce9052ad87f7ef98</hash>
+          <hash piece="39">a4be26439dbfbb52937a85f9d9a3b42b991c3a45</hash>
+          <hash piece="40">055fd8e2b2ed26ce0d6bd28693f98595aed38591</hash>
+          <hash piece="41">b908162d21b1fa72cb2f2204968c9c9b1d3feed5</hash>
+          <hash piece="42">217f849fdaad194adbab8820e9c5f66cb2a1147d</hash>
+          <hash piece="43">586c43643952664ea6528521cb1f67c264720b6a</hash>
+          <hash piece="44">68bb09d17f9be59e5fe4a7e040b5755631dd9b9e</hash>
+          <hash piece="45">7c64d26e3f13f4781b3c07f644e9ef7f5cfc696d</hash>
+          <hash piece="46">9f2f42847648df98ee49b0ba26dd59ab51d3fb8b</hash>
+          <hash piece="47">941c01e1974abfbe2f91105713202d289a577df6</hash>
+          <hash piece="48">ff5158cedcaf3965044c9b2ee70363be99975632</hash>
+          <hash piece="49">897bc312628335981802a43cef8f3e7d9e7ec8a2</hash>
+          <hash piece="50">4c1413720bbf4e550a768d3ecd6854f2ecb31bde</hash>
+          <hash piece="51">3402c492a123a20e6b7ecfda6651af7c13bfbb7d</hash>
+          <hash piece="52">5350bfe38f9cb576fa074ebc9aa1a4ab0514f6be</hash>
+          <hash piece="53">a0fe87d933150670a033b617dcbf8245705a4b1e</hash>
+          <hash piece="54">3eb937199eba426f22fe11fb8744fb7f42657834</hash>
+          <hash piece="55">ff59f4a84d4604e2ae2bf5fe6332576b5d97ed2e</hash>
+          <hash piece="56">8c942d161975f867aefd3609bc573cbc219353d2</hash>
+          <hash piece="57">4bfcced2165deaf27977c5050a665afe933af2fb</hash>
+          <hash piece="58">2e66377a50b0f371d612380597f49e6b112d6470</hash>
+          <hash piece="59">570ec26cd49fb6e097359a45ed2e2e68ab065fb1</hash>
+          <hash piece="60">a1d4ca4ba3339b5cb5a3beaedb9fc0637a246d9d</hash>
+          <hash piece="61">7b7dce8210a3ccbb10c68f8728fb5eb67746055d</hash>
+          <hash piece="62">ace1e756b8058973d5f2b29e467576de11dc4476</hash>
+          <hash piece="63">6c4a0ed97f0adaed88c3bf2f8ac06aa7b9b1a786</hash>
+          <hash piece="64">93373bb746083efc64c1a30fb07438e72838b90c</hash>
+          <hash piece="65">ada8eb8079242b5b527ee2217f9fdc7fd16923b6</hash>
+          <hash piece="66">c3f66f3be0b2ad9f99cb6b8df2b5a02f06db70e5</hash>
+          <hash piece="67">a6eb59dcffe62a193521a2431520e022b4f69652</hash>
+          <hash piece="68">a8f35aa87a00e83c3c44aeaf826c9ff7c6477483</hash>
+          <hash piece="69">53a8ccf71ce0ebbc618794997ef5c14571de6556</hash>
+          <hash piece="70">8fd1986f96ff9acbddef9c7b2b789ba51be6edd1</hash>
+          <hash piece="71">15afe95215a1e8582bd34e4f68db9a158f287130</hash>
+          <hash piece="72">f5cf9e40c2fbe0fcb068fc4baae48902447ed76f</hash>
+          <hash piece="73">514b7b6b492b428714f40146656e8595156d8bf4</hash>
+          <hash piece="74">4ad36de13f4b2b714d0990345016e80a18afa5dd</hash>
+          <hash piece="75">4b97e26f4538bb6aa91cc904662a8040d42bb561</hash>
+          <hash piece="76">eb9c68530b34711f713d364c34d7c32ffe9b483d</hash>
+          <hash piece="77">4e1728a6a4cba19fef3bdb1d0c361900a319e816</hash>
+          <hash piece="78">0a8e40910647001ca2bee570e6d62857acf3eed7</hash>
+          <hash piece="79">0cd562abcfce082ad32c43aba9307355d27e83d5</hash>
+          <hash piece="80">d28f2d9b97cb2e4c3faf7e4a5b38a998b005580c</hash>
+          <hash piece="81">9d0ec07508a0f89549c6d969853f92fdff89b1e0</hash>
+          <hash piece="82">68048c026c4995bcd0a073aaa39f0f99784abb44</hash>
+          <hash piece="83">724e5e34fc428cea52aa7d7f804c820b529bd9f4</hash>
+          <hash piece="84">c43ab29306a67e1d5fac2042f7dfea117a0c0636</hash>
+          <hash piece="85">abad535a42a486973dda3eb3ea657d64dc8cedc9</hash>
+          <hash piece="86">7de249b86ed4ed21b9b64571fde00fb902f41539</hash>
+          <hash piece="87">08f6e3fd54e0c82be6953ace27aaf1c5878aaec1</hash>
+        </pieces>
+      </verification>
+      <resources>
+        <url type="http" preference="100">http://mirror.oc.edu/lfc/Ubuntu_7.04_i386_Christian_Edition_v3_1.iso</url>
+        <url type="http" preference="90">http://www.download.tech.baulkobaps.com/ubuntu-ce/Ubuntu_7.04_i386_Christian_Edition_v3_1.iso</url>
+        <url type="http" preference="90">http://ubuntuce.ashburn.newlife4me.com/Ubuntu_7.04_i386_Christian_Edition_v3_1.iso</url>
+      </resources>
+    </file>
+  </files>
+</metalink>

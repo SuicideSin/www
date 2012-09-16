@@ -1,0 +1,113 @@
+<?xml version="1.0" encoding="utf-8"?>
+<metalink version="3.0" generator="Metalink Editor version 1.0.0" xmlns="http://www.metalinker.org/">
+  <publisher>
+    <name>Granular Linux</name>
+    <url>http://www.granular-linux.com/</url>
+  </publisher>
+  <identity>Granular Linux</identity>
+  <version>0.90</version>
+  <description>Granular is a Linux operating system that takes you to a whole new world of Linux. The main idea behind developing Granular is to make it sure that the people using it always stay connected with their friends, colleagues and all the people they know.</description>
+  <files>
+    <file name="granular0.90-test.iso">
+      <size>732827648</size>
+      <verification>
+        <hash type="md5">85d76f013e56e6275e221a22accb631d</hash>
+        <hash type="sha1">38bd81bd4c786d16fd9a9d9c295931c95c6d1e19</hash>
+        <pieces type="sha1" length="8388608">
+          <hash piece="0">308c6ddaf97e589c160fb5ea58789d55e8ba7f91</hash>
+          <hash piece="1">706ca272d87b3a9123c5965e4501c802dd1f9f10</hash>
+          <hash piece="2">c2b832237898f95dda103d456a5099e0fe5bf7fb</hash>
+          <hash piece="3">14c1d500e6ac8b70a38fdfb647a1ca58edd41a24</hash>
+          <hash piece="4">586917beeb04d43cb0f57b260e72a9f914df530e</hash>
+          <hash piece="5">b95f2360761dd327d6f0d8167b5469962e46e809</hash>
+          <hash piece="6">21613929117570ba0dd199fc7c96fbc755fed866</hash>
+          <hash piece="7">859668986ffb53adee32961b6f00ee994b9d9981</hash>
+          <hash piece="8">ff01071b35039be12a08365e6b5ea4ac5d4aeb68</hash>
+          <hash piece="9">0cc9d7565b4b718003e02c20f55103da8fefe6c0</hash>
+          <hash piece="10">b9bc24039f96e8e481721fe108ebcaec6fc3876d</hash>
+          <hash piece="11">46edf48c1573628058efb29620c9d78afe232c9e</hash>
+          <hash piece="12">e9466bebdcba7dc14bbc99783af6b27d91a7e3e3</hash>
+          <hash piece="13">09425c25ec7913ad43982b5cecc966e618a7f855</hash>
+          <hash piece="14">24fcd35acddcb113e3eb34ad6e5f87dcd811f7d1</hash>
+          <hash piece="15">2d72976a25b0aaba04c35a705be5ae219ff0aa7b</hash>
+          <hash piece="16">01f61c8b94a5c26748b314b921ca4a73c05571ea</hash>
+          <hash piece="17">7e8f745be8caceeee0b1eee77dca642b9369ac00</hash>
+          <hash piece="18">e2bd01e3fa7012c9201ab8ecd14b4cbb9bf087c3</hash>
+          <hash piece="19">916747525cfcdf290a5c658463341b7b471ec2a6</hash>
+          <hash piece="20">a0afe4c1f34fc041a5f1978bf0586f85cfe18c77</hash>
+          <hash piece="21">b0dfca42970e85bd56ddb952f3fff95676e22040</hash>
+          <hash piece="22">fe394bfbe87dd980feb40a87b7cf49b50e4d668c</hash>
+          <hash piece="23">772665474a5cf0e3331a8d6c201b5e17bc094751</hash>
+          <hash piece="24">1586eeb250d0c887a73dbdc00af8187244b1c57d</hash>
+          <hash piece="25">83cbffc4ccd22bf189d7fc161e69f98ce1a2bedd</hash>
+          <hash piece="26">26dca76e56bf183cd7654e21e88940b6f1582caa</hash>
+          <hash piece="27">c81289e17624a32e39c11dc5186efb6c0eef96a7</hash>
+          <hash piece="28">4c073301abb3156922f9a406e0b85ee7910b9d27</hash>
+          <hash piece="29">8eccb4c35f095e21cd74d0aab1c4f5943ba98c85</hash>
+          <hash piece="30">aa60c0e65adfa5920f98cb1934339d5dd756a999</hash>
+          <hash piece="31">d7c814dba5f71c68142fff1350b45384f27100b2</hash>
+          <hash piece="32">cba949716f0234f6bfacdb87ef2c68bc199c2b9f</hash>
+          <hash piece="33">f8e3cbb2f68c76cf028b2aa2fcaecac4c134fd3a</hash>
+          <hash piece="34">2d7614d131aef894249fd09b614fa22516c1d5d1</hash>
+          <hash piece="35">d5a8c825444e522f23df4b5455aced720ce014d2</hash>
+          <hash piece="36">ffbbd25b0bef93a903b2173949eca42e161a65af</hash>
+          <hash piece="37">f45af4b4769913b0364836115e8729c7e1e2dbf6</hash>
+          <hash piece="38">1d99fc6b634c66c194e7012b98aa6b16e966fd69</hash>
+          <hash piece="39">49df79210def70a5317a4de233a0170f6f6b4155</hash>
+          <hash piece="40">5873f43dac2c51cadd748552a82fb2c43aeeaa11</hash>
+          <hash piece="41">1e84526914208b9d9ad54fe24a9f213955a4d984</hash>
+          <hash piece="42">6b616a7aa04cfaa2822fbeb826fcf8e572277c1b</hash>
+          <hash piece="43">fa2e97079c1784544f8e67099d2d963f1d5a4e3f</hash>
+          <hash piece="44">e46bd6afa7540ccf0eaf40424ea12b8aa6175cca</hash>
+          <hash piece="45">cc6e75003a1bf4aedcaaf1e5943bba92e89e21d8</hash>
+          <hash piece="46">b35c0d3edcce31a25eda09bdf026e44b8945bdb4</hash>
+          <hash piece="47">51eaef350e502309fddde4a097e727636421cc9f</hash>
+          <hash piece="48">19e8ad14d60d6c51a9ad3a093221412c7a3b121c</hash>
+          <hash piece="49">6b88de4dee18744f77daf7b42fabf95ea9fb78fe</hash>
+          <hash piece="50">ef55a629d0d747995e3a399f2fc8f01ac76438ac</hash>
+          <hash piece="51">33557c2c82777f0398e2031ca4537751c3a61d8d</hash>
+          <hash piece="52">599c4ffafb672fd57a2833cef8a9f0b23082beb2</hash>
+          <hash piece="53">d1da707556a1eda35b7b737ca7d07e25b95717cf</hash>
+          <hash piece="54">dfc3394125fe64f236735f9b52c03c856014b509</hash>
+          <hash piece="55">629703699a15541563de382c3806aa857d990660</hash>
+          <hash piece="56">76886e58ad344b86a8acb31496f59191af5399c6</hash>
+          <hash piece="57">db74191cc667a15b8452e655292c1c292697d1f8</hash>
+          <hash piece="58">ca285e941c548d36740d019924fac289e2adb846</hash>
+          <hash piece="59">7ad5c0e45fb513231c8db5e5de46533fdcb4d2ed</hash>
+          <hash piece="60">bb032bf51c006b1f20d05411a08bff6c6d9df31a</hash>
+          <hash piece="61">598d43c2c04e51a4f4dbe6528501c1a8fa5fe802</hash>
+          <hash piece="62">1b9bde423d8daf326be4b77c425ab0d7fa0000fc</hash>
+          <hash piece="63">e72ac0eadeaf63a0fdc11ccfaf7a5af9c1ca91c3</hash>
+          <hash piece="64">2f9a3714c1cdab021e441f625205960580ca9a2f</hash>
+          <hash piece="65">2edf4f7ae05bb6962bae71462b35dd147e16f627</hash>
+          <hash piece="66">569858781d8ac905796ffdd612c00deea766c453</hash>
+          <hash piece="67">28d030f2afdb1d5bdeebbbd130f7627c0598972c</hash>
+          <hash piece="68">6698605f96a5b09c056cb8c5b06356c2c0dac292</hash>
+          <hash piece="69">e0768c5496fa58d38d2028281f5b7c4056634d40</hash>
+          <hash piece="70">2e1f011438da1bc9209c3d64124412141ad6f1ba</hash>
+          <hash piece="71">dec00a80baaf14f294e28a989ae786dfd3664210</hash>
+          <hash piece="72">b12ca0d30d92bf4bcddfcb75150b72137a7c0bd1</hash>
+          <hash piece="73">c547d3c66c8fba8284b0ea5ff3a4eced941a0619</hash>
+          <hash piece="74">41b30088d6085ea72c0ab94da6ef09bd98db8a88</hash>
+          <hash piece="75">99f95ee24a77e11068d1d209ea462d5f10bc708e</hash>
+          <hash piece="76">e274dab98faf900f1ca2920243e6a394318ec232</hash>
+          <hash piece="77">803636e49a4ac9c27af45bea7749768089c19dd5</hash>
+          <hash piece="78">2151d7bb1c5666be90b4f58b768623e38db8c11d</hash>
+          <hash piece="79">d541dd668fdba68c4eb65f73bf28d5e4b613842a</hash>
+          <hash piece="80">3d0280e2765efd8cc7dd7501037365a30fd3592c</hash>
+          <hash piece="81">f3d76e2ee8edca767b79dd45dd7f4aa6f46b5967</hash>
+          <hash piece="82">2f6b83bd1eafe1b5ada4bb2525f7aa864157e205</hash>
+          <hash piece="83">0b23a3805f77f105bf43ddd673631b4c01528424</hash>
+          <hash piece="84">49f61ade14935fc642e4c166ecc7d816a9513781</hash>
+          <hash piece="85">a1d93c145f5f50154c48a9700ef690eece96a44b</hash>
+          <hash piece="86">72b83cdcf62630770f2d96186015c9cb277d9ab7</hash>
+          <hash piece="87">c0e3ca59cb06cd28e2734763c15baa63348710d2</hash>
+        </pieces>
+      </verification>
+      <resources>
+        <url type="http" location="in" preference="100">http://www.granularproject.org/content/downloads/iso/granular0.90-test.iso</url>
+        <url type="http" location="in" preference="100">http://imbibe.in/granular/granular0.90-test.iso</url>
+      </resources>
+    </file>
+  </files>
+</metalink>

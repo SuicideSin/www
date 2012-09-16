@@ -1,0 +1,37 @@
+<?xml version="1.0" encoding="utf-8"?>
+<metalink version="3.0" generator="Metalink Generator v1.00.0034" xmlns="http://www.metalinker.org/">
+
+<!--
+	Metalink, an Open Standard, makes downloading easier by
+	bundling the various ways (FTP/HTTP/P2P) to get files into
+	one format for easier downloads, as well as bundling
+	checksums to automatically verify completed downloads.
+
+	Currently the following applications support this file:
+        
+	- aria2 (Unix)         [ http://aria2.sourceforge.net ]
+	- GetRight 6 (Windows) [ http://www.getright.com/ ]
+	- Speed Download (Mac) [ http://www.yazsoft.com ]
+        
+	For further information please visit http://www.metalinker.org/
+-->
+
+  <publisher>
+    <name>WinPT</name>
+    <url>http://www.winpt.org</url>
+  </publisher>
+  <description>WinPT is a taskbar front-end for GnuPG which includes key management, encryption via the clipboard, direct file encryption and support for OpenPGP smartcards.</description>
+  <files>
+    <file name="winpt-1.0.0pre1-exe.zip">
+      <version>1.0.0pre1</version>
+      <os>Windows-x86</os>
+      <size>507612</size>
+      <verification>
+        <hash type="sha1">6543d03805201708298a8d4d6f448452ef61f8fb</hash>
+      </verification>
+      <resources>
+        <url type="http" preference="100">http://wald.intevation.org/frs/download.php/237/winpt-1.0.0pre1-exe.zip</url>
+      </resources>
+    </file>
+  </files>
+</metalink>

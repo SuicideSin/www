@@ -1,0 +1,134 @@
+<?xml version="1.0" encoding="utf-8"?>
+<metalink version="3.0" generator="Metalink Editor version 0.4.1" xmlns="http://www.metalinker.org/">
+  <publisher>
+    <name>DragonFly BSD</name>
+    <url>http://www.dragonflybsd.org/</url>
+  </publisher>
+  <version>1.8.1</version>
+  <files>
+    <file name="dfly-1.8.1_REL.iso.gz">
+      <size>100957046</size>
+      <os>BSD-x86</os>
+      <verification>
+        <hash type="md5">fdafd2df5f48df4f7fdf0ff0b9ecee0c</hash>
+        <hash type="sha1">dd917c25406e46734f2c39ee04adefe9e95a5053</hash>
+        <pieces type="sha1" length="1048576">
+          <hash piece="0">18b2197619969999a83a13b36cd58fb806d1c724</hash>
+          <hash piece="1">6a1f7e59daf22370da7e4668eb5b5b40d5301c53</hash>
+          <hash piece="2">006986875f59e941776d0f4e8f273b06ce28c505</hash>
+          <hash piece="3">2397ac190b22161ddb31950ea246f84952c825c0</hash>
+          <hash piece="4">419f6e17b107788481f90893ba76b96d9b329cf4</hash>
+          <hash piece="5">527a99e8cd389f6e72db6dc89c30020cbb365d8c</hash>
+          <hash piece="6">e5ee7d0d82a764c0df4190dbd5650e2a19b49504</hash>
+          <hash piece="7">a8b69021c3a9e9d681d2628cfae09cee11112773</hash>
+          <hash piece="8">60854c1269993c976666b58d0065973e0055f4e2</hash>
+          <hash piece="9">ade29cb8216c947be906ab5ee3aa332ed77d1c91</hash>
+          <hash piece="10">878e43b8b9f213670cccf286bed2a36ef4cdbc99</hash>
+          <hash piece="11">5f0a89e960584852732c7ef3a4b9b6da2e7dbe67</hash>
+          <hash piece="12">24a85ccdc00e17cf8b62002e02cc150496bf3df6</hash>
+          <hash piece="13">d63270729d84ca75160d6ab7db332cf62549132d</hash>
+          <hash piece="14">96193b094b06607ffb91c4e84b0711b08a2d56b0</hash>
+          <hash piece="15">368d794cc1d2079d1a0bb4b07360205d9f207a5b</hash>
+          <hash piece="16">d993cd418abf730e8f6feeefc5372704bb2d9c0e</hash>
+          <hash piece="17">766049416b17332abdaa1f17eb2dcd250090a060</hash>
+          <hash piece="18">b3b751abb32eed55563c04a6bebf6f9b9c8e9275</hash>
+          <hash piece="19">66e112795f2b046484784a56c998f29711b51e64</hash>
+          <hash piece="20">607fe72e1785d7e6b20552536d038754106f1cb2</hash>
+          <hash piece="21">5752cfe2942df3299eb8ea98fe3aa10a14d6a674</hash>
+          <hash piece="22">34c302d3903bac3eb83775297e3e1c235c450d15</hash>
+          <hash piece="23">586d1f3d28d087c1757c2cd9d0ad34c13af3f118</hash>
+          <hash piece="24">a16bb12917cab837aebc28018dc543f7d6cf2924</hash>
+          <hash piece="25">f96e133c33d4781fa0b989435252788d1dc6674d</hash>
+          <hash piece="26">810c2211b5a91e82344d20e3c6b1cd1f19cded75</hash>
+          <hash piece="27">bb4ee4f1947634cb404c3283022569e8fc7afceb</hash>
+          <hash piece="28">f7dbe5fd5f3a5f4a562e29174726ddf8796d15c4</hash>
+          <hash piece="29">e37d08fd1f735259d7c2158d86f67641af81bda2</hash>
+          <hash piece="30">a931335e8926c70f0dd52f0ac1994b396351566f</hash>
+          <hash piece="31">5ad1197b5772ee7a6e65ee52095ec4c27084e865</hash>
+          <hash piece="32">56c725a76858719fe26e6eb7baaab83d2c980e44</hash>
+          <hash piece="33">75ff28d97899ed3590d3d60d3dbde3c6fb3d00f1</hash>
+          <hash piece="34">71f39ac7db1019171469a7e88d18ebd114ef23a4</hash>
+          <hash piece="35">4ac0cbbb6cccffccc11e34754636712046616d71</hash>
+          <hash piece="36">3e47a7be324e1f9d894de24806cf052d2cdd287a</hash>
+          <hash piece="37">ba566e559977544e09a24012c46c24984a94fef6</hash>
+          <hash piece="38">f9d1645414d7805ef81a24a3b1eaf16f2d864221</hash>
+          <hash piece="39">44370d36dca551ef7fda390548b6b15f0a4362f3</hash>
+          <hash piece="40">f281465803ddfff1b8475a9b13d20dd5153f393a</hash>
+          <hash piece="41">aa28761bcc150f954c080edd134b24019143f2c0</hash>
+          <hash piece="42">da34dc97f3879e139eb85394dc4c5f0655bd32d3</hash>
+          <hash piece="43">57052e9e63720e253ccfaf4c98e6dc55103567a3</hash>
+          <hash piece="44">012248ad1881652bad000daeecf8dd5f472ed271</hash>
+          <hash piece="45">0b43dfc45958550db23db213aff945c3c40048ee</hash>
+          <hash piece="46">53ca6c13d20980732323675f33667d0829a8087c</hash>
+          <hash piece="47">56b3a7f4aeb7b788f3370c547917f66e82d7669d</hash>
+          <hash piece="48">32657bd41eb281ca3fe4637f9b7995533d5b0ded</hash>
+          <hash piece="49">a794caae8b82664512dee3325adf4e2ed2a386bb</hash>
+          <hash piece="50">769a0aa7f768a21a2c207f3dff9acbdd06def623</hash>
+          <hash piece="51">7521e679bc5ba5cdbafc1f3f169a3f937742361c</hash>
+          <hash piece="52">6eb24d5bc670295cfe054fa1e3d35af1219a2ce0</hash>
+          <hash piece="53">86a428c0f4693f223c3401501a910e4536c9de1f</hash>
+          <hash piece="54">ca3d798a16c8a3f798099c061c117bce77b97695</hash>
+          <hash piece="55">54eecc75b8e6b55421ba4e618512ba3e94358824</hash>
+          <hash piece="56">01ccc24d5b1ad9bfac771430fbfdf10fc62c801c</hash>
+          <hash piece="57">8f331ea2642536498595c9efd8e9e964a35c1008</hash>
+          <hash piece="58">5fd03f51cda825ea21069bec89f30988cd172600</hash>
+          <hash piece="59">285eff42010a435cf288f25150563db1d6636cd7</hash>
+          <hash piece="60">704692b69b76aaac61b092b2dec165b9d93130f6</hash>
+          <hash piece="61">08d1d6d2704cfa05be92ff53b96abf73c2899f29</hash>
+          <hash piece="62">46a6b0fd7707bc9549cbd4ecfa053167b50ae5b7</hash>
+          <hash piece="63">9c85ca588430c9751966607e262f4f9f90aed4f1</hash>
+          <hash piece="64">87189868fe83f7c02ef1972910f7939c9239fdb2</hash>
+          <hash piece="65">7b8984e3960e40f56235ff6fd2a24ceff7dcf7ce</hash>
+          <hash piece="66">019254cf8c59c536d83f1619a64073de3b118af9</hash>
+          <hash piece="67">158c3f9ba7e6f4f3c9e8be639e8ae00c3c3846ba</hash>
+          <hash piece="68">1ca2c138d67d8774d228e0e0d4bf0bb9707cd776</hash>
+          <hash piece="69">2597d6862d512e7c2060a33b2d4d923bf9ddad98</hash>
+          <hash piece="70">1daf79b55f140740e8c9959d6331f1ba9bc233fd</hash>
+          <hash piece="71">ccfa076852061e7d34432a0c6a039a5bda0369a5</hash>
+          <hash piece="72">2aa5807a14671423e1d5be65b444bca0e6bbdb63</hash>
+          <hash piece="73">76d72d36e77c1e45303fbf7d6e13b3e7401d41d2</hash>
+          <hash piece="74">0828941ef98e0d5c2cf7222f610468bd74ffe8d9</hash>
+          <hash piece="75">c30631a154f89fb077a5be116c7fd4063678bd82</hash>
+          <hash piece="76">1468d9dbdeb1782eb31e205130d1073529db1460</hash>
+          <hash piece="77">3ab2217a6fa1ef5ba1d363eb46224f25eb4ee7f0</hash>
+          <hash piece="78">dc323b7cd7f1a6d60e75d10f79ef2c9185e92a19</hash>
+          <hash piece="79">058b735d17f1aba47f39f09ccd08626fb20046d6</hash>
+          <hash piece="80">873f04c3426d8d64e3a2efe8940125d0032d61c5</hash>
+          <hash piece="81">33f8e8895d3d4450c1f5fcd9b399a097701a9d95</hash>
+          <hash piece="82">0563b239f8962735ec2b3632cf072d7d507db778</hash>
+          <hash piece="83">aff5faa8356f75a9705af2cb1d6b70deb73e3870</hash>
+          <hash piece="84">cd521a503877215931cc14117023775b144d18f6</hash>
+          <hash piece="85">0047a2151f9adefded13db3863fe884d8fc66b3a</hash>
+          <hash piece="86">3aef74f642541120880bfcb13981e3eba50bf5f7</hash>
+          <hash piece="87">a07873f47bf599aa789bad7bf35b2b17262e4cf7</hash>
+          <hash piece="88">da00ea0a91af5df19b7f1aca5df74f132ee7bd1c</hash>
+          <hash piece="89">d8524c3fc583a5dbc1bdf05f9b5f8b36d616829f</hash>
+          <hash piece="90">4420349b29498bfffc11a58db37a5e915d39901a</hash>
+          <hash piece="91">ff1d8feb28c490a146afe4d9c5602dba6c2291fa</hash>
+          <hash piece="92">664db3ba2ee75a35bc7d2523e7dd66f5eb1cfedf</hash>
+          <hash piece="93">83d06996de537ff51f28917a5f4cbe07d8e96a74</hash>
+          <hash piece="94">3b2467fbd1dc4fb598c2f8b44bc592c8f22f572a</hash>
+          <hash piece="95">69b42fc7a98a8352b2805654b794e3fc819539fb</hash>
+          <hash piece="96">6c6bfe478aaab1bff6e9dc4828d7a74398ee44ff</hash>
+        </pieces>
+      </verification>
+      <resources>
+        <url type="ftp" location="de" preference="90">ftp://chlamydia.fs.ei.tum.de/pub/DragonFly/iso-images/dfly-1.8.1_REL.iso.gz</url>
+        <url type="ftp" preference="90">ftp://ftp.theshell.com/pub/DragonFly/iso-images/dfly-1.8.1_REL.iso.gz</url>
+        <url type="http" location="de" preference="90">http://chlamydia.fs.ei.tum.de/pub/DragonFly/iso-images/dfly-1.8.1_REL.iso.gz</url>
+        <url type="http" location="tw" preference="90">http://dragonflybsd.cs.pu.edu.tw/iso-images/dfly-1.8.1_REL.iso.gz</url>
+        <url type="http" location="gr" preference="90">http://ftp.duth.gr/pub/DragonflyBSD/iso-images/dfly-1.8.1_REL.iso.gz</url>
+        <url type="http" location="ie" preference="90">http://ftp.esat.net/mirrors/chlamydia.fs.ei.tum.de/pub/DragonFly/iso-images/dfly-1.8.1_REL.iso.gz</url>
+        <url type="http" preference="90">http://ftp.fortunaty.net/DragonFly/iso-images/dfly-1.8.1_REL.iso.gz</url>
+        <url type="http" location="jp" preference="90">http://ftp.jaist.ac.jp/pub/DragonFly/iso-images/dfly-1.8.1_REL.iso.gz</url>
+        <url type="http" location="se" preference="90">http://ftp.starkast.net/pub/DragonFly/iso-images/dfly-1.8.1_REL.iso.gz</url>
+        <url type="http" location="de" preference="90">http://ftp.tu-clausthal.de/pub/DragonFly/iso-images/dfly-1.8.1_REL.iso.gz</url>
+        <url type="http" location="at" preference="90">http://ftp.univie.ac.at/systems/DragonFly/iso-images/dfly-1.8.1_REL.iso.gz</url>
+        <url type="http" location="ru" preference="90">http://mirror.macomnet.net/pub/DragonFlyBSD/iso-images/dfly-1.8.1_REL.iso.gz</url>
+        <url type="http" location="jp" preference="90">http://pub.allbsd.org/DragonFly/iso-images/dfly-1.8.1_REL.iso.gz</url>
+        <url type="http" preference="90">http://www.theshell.com/pub/DragonFly/iso-images/dfly-1.8.1_REL.iso.gz</url>
+        <url type="ftp" preference="10">ftp://ftp.dragonflybsd.org/iso-images/dfly-1.8.1_REL.iso.gz</url>
+      </resources>
+    </file>
+  </files>
+</metalink>

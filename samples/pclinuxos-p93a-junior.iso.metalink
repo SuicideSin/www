@@ -1,0 +1,28 @@
+<?xml version="1.0" encoding="utf-8"?>
+<metalink version="3.0" generator="Metalink Generator v1.00.0034" xmlns="http://www.metalinker.org/">
+  <publisher>
+    <name>PCLinuxOS</name>
+    <url>http://www.pclinuxos.com/</url>
+  </publisher>
+  <description>PCLinuxOS 0.93a Junior is a self booting Live CD with advanced hardware detection. In addition to running Junior in Live CD mode, you can also install it to your computer. Easy to follow instructions are included on the Live CD as well as a chat channel for instant help.</description>
+  <files>
+    <file name="pclinuxos-p93a-junior.iso">
+      <version>0.93a</version>
+      <os>Linux-x86</os>
+      <verification>
+        <hash type="md5">efbc7d6d13f984cab6e9e7cd68a82db3</hash>
+      </verification>
+      <resources>
+        <url type="http" location="be" preference="100">http://ftp.belnet.be/linux/pclinuxos/live-cd/english/preview/pclinuxos-p93a-junior.iso</url>
+        <url type="http" location="cz" preference="100">http://ftp.sh.cvut.cz/MIRRORS/pclinuxos/live-cd/english/preview/pclinuxos-p93a-junior.iso</url>
+        <url type="http" location="be" preference="100">http://ftp2.be.freesbie.org/packages/pclinuxos/live-cd/english/preview/pclinuxos-p93a-junior.iso</url>
+        <url type="http" preference="100">http://mirrors.lastdot.org:1280/pclos/live-cd/english/preview/pclinuxos-p93a-junior.iso</url>
+        <url type="http" location="us" preference="100">http://distro.ibiblio.org/pub/linux/distributions/texstar/pclinuxos/live-cd/english/preview/pclinuxos-p93a-junior.iso</url>
+        <url type="http" location="us" preference="100">ftp://ftp-linux.cc.gatech.edu/pub/metalab/distributions/texstar/pclinuxos/live-cd/english/preview/pclinuxos-p93a-junior.iso</url>
+        <url type="http" location="nl" preference="100">http://ftp.nluug.nl/pub/metalab/distributions/texstar/pclinuxos/live-cd/english/preview/pclinuxos-p93a-junior.iso</url>
+        <url type="http" location="us" preference="100">http://spout.ussg.indiana.edu/linux/pclinuxos/pclinuxos/live-cd/english/preview/pclinuxos-p93a-junior.iso</url>
+        <url type="http" location="be" preference="100">http://ftp2.be.freesbie.org/packages/pclinuxos/live-cd/english/preview/pclinuxos-p93a-junior.iso</url>
+      </resources>
+    </file>
+  </files>
+</metalink>

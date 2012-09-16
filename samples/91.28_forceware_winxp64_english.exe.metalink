@@ -1,0 +1,36 @@
+<?xml version="1.0" encoding="utf-8"?>
+<metalink version="3.0" generator="Metalink Generator v1.00.0001" xmlns="http://www.metalinker.org/">
+
+<!--
+	Metalink, an Open Standard, makes downloading easier by
+	bundling the various ways (FTP/HTTP/P2P) to get files into
+	one format for easier downloads, as well as bundling
+	checksums to automatically verify completed downloads.
+	
+	Currently the following applications support this file:
+	        
+	- GetRight 6.0 (http://www.getright.com/)
+	        
+	For further information please visit http://www.metalinker.org/
+-->
+  
+  <publisher>
+    <name>Nvidia</name>
+    <url>http://www.nvidia.com/</url>
+  </publisher>
+  <description>nVIDIA ForceWare Drivers for Windows 2000/XP (64-bit) English</description>
+  <files>
+    <file name="91.28_forceware_winxp64_english.exe">
+      <version>91.28</version>
+      <language>en-US</language>
+      <os>Windows-x64</os>
+      <verification>
+        <hash type="md5">0ec4a486159cc2d30ccd44d9d0d09948</hash>
+      </verification>
+      <resources>
+        <url type="http" location="us" preference="80">http://download1.nvidia.com/Windows/91.28/91.28_forceware_winxp64_english.exe</url>
+        <url type="http" location="us" preference="80">http://download.nvidia.com/Windows/91.28/91.28_forceware_winxp64_english.exe</url>
+        </resources>
+    </file>
+  </files>
+</metalink>

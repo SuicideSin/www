@@ -1,0 +1,43 @@
+<?xml version="1.0" encoding="utf-8"?>
+<metalink version="3.0" generator="Metalink Generator v1.00.0034" xmlns="http://www.metalinker.org/">
+
+<!--
+	Metalink, an Open Standard, makes downloading easier by
+	bundling the various ways (FTP/HTTP/P2P) to get files into
+	one format for easier downloads, as well as bundling
+	checksums to automatically verify completed downloads.
+	
+	Currently the following applications support this file:
+
+    - aria2 (Linux) [ http://aria2.sourceforge.net/ ]
+	- GetRight 6 (Windows) [ http://www.getright.com/ ]
+	        
+	For further information please visit http://www.metalinker.org/
+-->
+
+  <publisher>
+    <name>Adobe</name>
+    <url>http://www.adobe.com/</url>
+  </publisher>
+  <description>Adobe Acrobat Reader</description>
+  <files>
+    <file name="AdbeRdr707_en_US.exe">
+      <version>7.07</version>
+      <language>en-US</language>
+      <os>Windows-x86</os>
+      <verification>
+        <hash type="md5">a2763b10f4344b6caba39d705109c0ca</hash>
+      </verification>
+      <resources>
+        <url type="ftp" preference="100">ftp://ftp.adobe.com/pub/adobe/reader/win/7x/7.0.7/enu/AdbeRdr707_en_US.exe</url>
+        <url type="ftp" preference="100">ftp://ftp5.adobe.com/pub/adobe/reader/win/7x/7.0.7/enu/AdbeRdr707_en_US.exe</url>
+        <url type="ftp" preference="100">ftp://ftp-pac.adobe.com/pub/adobe/reader/win/7x/7.0.7/enu/AdbeRdr707_en_US.exe</url>
+        <url type="http" preference="100">http://ardownload.adobe.com/pub/adobe/reader/win/7x/7.0.7/enu/AdbeRdr707_en_US.exe</url>
+        <url type="http" preference="100">http://isbank.tucows.com/pub/adobe/acrobatreader/win/7.x/7.0.7/AdbeRdr707_en_US.exe</url>
+        <url type="http" preference="100">http://download.softpedia.com/software/office/AdbeRdr707_en_US.exe</url>
+        <url type="http" preference="100">http://download.softpedia.ro/software/OFFICE%20TOOLS/AdbeRdr707_en_US.exe</url>
+        <url type="ftp" preference="100">ftp://ftp1.adobe.com/pub/adobe/reader/win/7x/7.0.7/enu/AdbeRdr707_en_US.exe</url>
+      </resources>
+    </file>
+  </files>
+</metalink>

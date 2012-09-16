@@ -1,0 +1,121 @@
+<?xml version="1.0" encoding="utf-8"?>
+<metalink version="3.0" generator="Metalink Editor version 1.1.0" xmlns="http://www.metalinker.org/">
+  <files>
+    <file name="linux-2.6.25.tar.bz2">
+      <size>48601689</size>
+      <verification>
+	    <signature type="pgp">
+		-----BEGIN PGP SIGNATURE-----
+        Version: GnuPG v1.4.7 (GNU/Linux)
+        Comment: See http://www.kernel.org/signature.html for info
+
+        iD8DBQBIBsKGyGugalF9Dw4RAoBHAJ98cpucznFWEivkSLsEqyiMujJxWACfa3Qx
+        L6U28yAL2s2Dty9AOH5R4gs=
+        =948A
+        -----END PGP SIGNATURE-----
+		</signature>
+        <hash type="md5">db95a49a656a3247d4995a797d333153</hash>
+        <hash type="sha1">aa6187a1c212dd2d8bd906b023fcefdcf711f35e</hash>
+        <hash type="sha256">108b2a3f2b05c0e57d1d0977619525e46f8d4b425aef4b38b47dcf94292f2dd2</hash>
+        <pieces type="sha1" length="524288">
+          <hash piece="0">9908d7ce404f84b4581bd1b9e401a2da7900e39e</hash>
+          <hash piece="1">ed69c3ddfe5b7c34a4c542cf68474ab1735e490f</hash>
+          <hash piece="2">29663c9e47f19fb6d79d11ea24f869dc9104912d</hash>
+          <hash piece="3">0cc29dc7f09ce0a76c06331d91480ccbc27d3e1c</hash>
+          <hash piece="4">e085dc5f4f24d703dcaae4df547bfdd5dba63a32</hash>
+          <hash piece="5">ba83fad145dfd62eb7b7bd2372634636ee60ba2c</hash>
+          <hash piece="6">600f107e1c09e0085f1004bfb49e7929a62aa7d9</hash>
+          <hash piece="7">b38d4d863dc5d8a7e4ca5f1709efbbde61f9bbb5</hash>
+          <hash piece="8">3beb8b520f68eb14cf55a8d24637ce343ae8f8f4</hash>
+          <hash piece="9">aa67e34b7028547d50c297a021d2da1b96635189</hash>
+          <hash piece="10">b320e3e507f398057e00da947935ea0e40df5e60</hash>
+          <hash piece="11">9bf083e69b4044ac846c9e88c4cf30517bdb3d8a</hash>
+          <hash piece="12">704b863481df9b5ec95ac7afe04e426f4a806788</hash>
+          <hash piece="13">0792f8fc48222ed1df276ade4c0bd2248795d23f</hash>
+          <hash piece="14">342519f0e25721dbcd6eb273292726fa66637150</hash>
+          <hash piece="15">9d0784722927dc6f158f8b8e71057668db7d7f11</hash>
+          <hash piece="16">2b2126e3e20e7d45607d0a12b1dadc83863d3726</hash>
+          <hash piece="17">2d75f9616f2af2f5df2facdf47d3f564d04b195c</hash>
+          <hash piece="18">9218348e217312c48542636badd1e02bfc4cc241</hash>
+          <hash piece="19">38fbdd2230d6399236ac6aa9ffaccd3725425574</hash>
+          <hash piece="20">2066e15b538d2fb9e844ddd40837e40a24f61df7</hash>
+          <hash piece="21">31fdc2a38f086f1014cfc6c967df469b797ecde7</hash>
+          <hash piece="22">f9df720a6a9334bfbfe8006cf001c7fb3cd0d526</hash>
+          <hash piece="23">7db22fd152e0e358154afedc0b8aeaef268755b3</hash>
+          <hash piece="24">c1a5721d7644c793e44a92dc6cfd8c7066aee749</hash>
+          <hash piece="25">26b069a3fcbdbecca665a1152b739c5f6d3032a6</hash>
+          <hash piece="26">43f8d2e3909d95675db8c1b30a1d8654b9bb4312</hash>
+          <hash piece="27">76149c11df1a66084939535e8a51e9b3efa7e8f2</hash>
+          <hash piece="28">f2f83be6c5816fd40d42298c6d0f54e899d1a5b7</hash>
+          <hash piece="29">13b8ef5715d53b3329faa8b2e0ac076d900a35c8</hash>
+          <hash piece="30">dad15f361771cf04e0ad29a99e1d0ff2e91f48d2</hash>
+          <hash piece="31">0d27a2ae64e090cc576f978812a2da6a18fa4b0c</hash>
+          <hash piece="32">079602ca56233f0a466a03b6fc4fc8788575dac2</hash>
+          <hash piece="33">d831c677b4163ff1219545368ac929d7ac7ac226</hash>
+          <hash piece="34">440f3158d21c1dadf1b44435732f25fcdf3197a1</hash>
+          <hash piece="35">d5a2127cb18f4bfccd7f664f05b6efa61e0d71f0</hash>
+          <hash piece="36">29923b299263cf4a8e026c36b17091e88a2126fe</hash>
+          <hash piece="37">728bf33294b5530074eb2dd7a4dad5904e823e4d</hash>
+          <hash piece="38">11c9fc8ec51ac527fca5fe0938cfa47d74b52c09</hash>
+          <hash piece="39">2de3a1ec33894a571114f21b12d42f151391d354</hash>
+          <hash piece="40">8259d014db03f25371596a34335bd98128f9bfbe</hash>
+          <hash piece="41">a99bb0416078c276d856ff123d90bcdd28202365</hash>
+          <hash piece="42">c000dc8d4be69c2ccc25ac8befb4a7ad1976e962</hash>
+          <hash piece="43">76a812bce0879d81c2886e6d4b0cde14c7a5cf2d</hash>
+          <hash piece="44">fb67fb41633597f2d27b3ea50bc676ffadcd08cf</hash>
+          <hash piece="45">7ab4a45b2f5e54755bb7ea8cb225eec494aa567d</hash>
+          <hash piece="46">0d5f6059c4b6e63a98d7bf0820759fed5fbf3081</hash>
+          <hash piece="47">509baf8efbffd429154830498dfaed2750367fdb</hash>
+          <hash piece="48">69e9f1a375faf169e12b82efd75253e91720d1db</hash>
+          <hash piece="49">92bcb3db19ca325224c2a18c6a342f80e16a6cf1</hash>
+          <hash piece="50">424511d91958e2cccb5397ca3ba08ba9abebad48</hash>
+          <hash piece="51">86c2e4206d7ebc59543c6bedf12de5654781781f</hash>
+          <hash piece="52">9270b5098fdc0bbd887826b48591bf3e6dc29101</hash>
+          <hash piece="53">21640f47f5bd77d386b9fc5fac018664f61327e4</hash>
+          <hash piece="54">c7d050b623b575ac4acc6b5c9fab19690c02873a</hash>
+          <hash piece="55">f16654243ee99b6df1a594317e019747d65a3018</hash>
+          <hash piece="56">00dfb3d12bcc6474ece254f86444fa9e2d6104df</hash>
+          <hash piece="57">74468d29a1180950ec1e527b2bae4c7d5d7838ba</hash>
+          <hash piece="58">610c7cf1cfffe8e5bb5bebf18211fc68b7996154</hash>
+          <hash piece="59">18b2fda938d63c27cbadf9d19aab6c2e1788e3e3</hash>
+          <hash piece="60">464a7c25ebe4e2d6f4f86e2f057ca75cd07d2200</hash>
+          <hash piece="61">9933a55f5a6ebb22a34f53ef55526f604d176812</hash>
+          <hash piece="62">d98e063fee7b64ee4ca32a04de3eaf8b0726c1da</hash>
+          <hash piece="63">393f6b2d465c52e32a168743c9269a44538097ca</hash>
+          <hash piece="64">c6e3c2d3b58628d12ab010c9a2c38c738d441ab0</hash>
+          <hash piece="65">7498aeabd89337b48451586958b39c0e8b6557c4</hash>
+          <hash piece="66">3b6fd07da8d1ac7b36e5e418ba9e9368494e4be5</hash>
+          <hash piece="67">86e6a616cd025dc62afc47dbf64ad9476c4ec1f1</hash>
+          <hash piece="68">af98d33674c5a1d60b36d32ea4d00aa1143020d5</hash>
+          <hash piece="69">be5a88d2dedc7f0d31d663b64cce58ab9bb7a724</hash>
+          <hash piece="70">537c7dfa9821faf205708dab4610c95b5c1cb26c</hash>
+          <hash piece="71">0515936bddfc984cd731d8d79b2aa9acc44daed6</hash>
+          <hash piece="72">c27ca0a53fc3844ba29d1da48e0b2bc543f459c1</hash>
+          <hash piece="73">63d6b2e25fd884d2883b85c6c9ffa87218fd99dc</hash>
+          <hash piece="74">18373625535a167b8472f15d72025874a628c1c5</hash>
+          <hash piece="75">e372786dd35373345770c30015732a18c16ea242</hash>
+          <hash piece="76">fa8f20c6e5c5a225f45c424090168d7681c092d2</hash>
+          <hash piece="77">e3b4bb1ea9ab1f2bf5dffff37f00415fba50589b</hash>
+          <hash piece="78">338bed11f73774f6bd97f58ecc125333cffdcfcf</hash>
+          <hash piece="79">88a69ba7890c41b5729b68c02b3d58ec492d2c85</hash>
+          <hash piece="80">5b07d5f03bfd3eb37d845d67776466fc8217e057</hash>
+          <hash piece="81">83b0d75a10eac2c4dc1dedc707cf18743a2190d6</hash>
+          <hash piece="82">43a1094483d4d909e84847741cc69ef9dd6752f1</hash>
+          <hash piece="83">cf06e7b35d934778f1c0f04fae2ea90cb94b848d</hash>
+          <hash piece="84">ee2b1d0a20b90af0d0f913685d1f47b7c7da739e</hash>
+          <hash piece="85">2f3d1a5858d63cacb5813e389bce16e96b6c9c69</hash>
+          <hash piece="86">7cf4391ec720adcb9920ba384f32039b824e0463</hash>
+          <hash piece="87">044e1ccee5a0110fde8daf6ec632470ed46be1a0</hash>
+          <hash piece="88">196b66a530500a28f7837739319f65731ac56ad3</hash>
+          <hash piece="89">da27472c373b7263d2bda22a41b4f484ee278e9d</hash>
+          <hash piece="90">705cda0219915661d91261d5e33303b102233fb6</hash>
+          <hash piece="91">7103e9c8a452bca071b963cebd9a91f3f40b4fbf</hash>
+          <hash piece="92">47d49e54794ea97396542f37d575ef34fe1149eb</hash>
+        </pieces>
+      </verification>
+      <resources>
+        <url type="http">http://www.kernel.org/pub/linux/kernel/v2.6/linux-2.6.25.tar.bz2</url>
+      </resources>
+    </file>
+  </files>
+</metalink>

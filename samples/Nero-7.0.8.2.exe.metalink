@@ -1,0 +1,85 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<metalink version="3.0" xmlns="http://www.metalinker.org/"
+  origin="http://www.nero.com/mmm/nero.metalink"
+  type="static" pubdate="2005-12-22-22:04:25" 
+  refreshdate="2005-12-23-03:24:18">
+
+<publisher>
+  <name>Nero AG</name>
+  <url>http://www.nero.com/</url>
+</publisher>
+<copyright>Copyright 2006 Nero AG / Nero Inc.</copyright>
+<releasedate>2005-12-22</releasedate>
+<description>Nero Ultra Edition 7 – CD/DVD Authoring suite
+</description>
+<tags>Nero, CD, DVD, burning, authoring</tags>
+<identity>Nero Ultra Edition</identity>
+<version>7.0.8.2</version>
+
+<files>
+  <file name="Nero-7.0.8.2_eng.exe">
+    <language>en-US</language>
+    <os>Windows-x86</os>    
+    <size>110070392</size>
+    <verification>
+      <hash type="md5">924095f67a00164c967cf8289ddffc0c</hash>
+    </verification>    
+    <resources>
+      <url type="bittorrent" preference="100">
+http://nero-mirror.com/software/Nero7/7.0.5.4/Nero-7.0.8.2_eng.exe.torrent
+      </url>
+      <url type="ftp" location="us" preference="80">
+ftp://ftp4.usw.nero.com/software/nero7/Nero-7.0.8.2_eng.exe
+      </url>
+      <url type="ftp" location="de" preference="40">
+ftp://nero-mirror.hspeed.net/software/Nero7/Nero-7.0.1.4b_eng.exe
+      </url>
+      <url type="http" location="us" preference="80">
+http://httpdl4.usw.nero.com/software/nero7/Nero-7.0.8.2_eng.exe
+      </url>
+    </resources>
+  </file>
+
+<file name="Nero-7.0.8.2_chs.exe">
+    <language>zh-Hans</language>
+    <os>Windows-x86</os>    
+    <size>126275528</size>
+    <verification>
+      <hash type="md5">d31587852408045e8f195c046761f66e</hash>
+    </verification>
+    <resources>
+      <url type="bittorrent" preference="100">
+http://nero-mirror.com/software/Nero7/7.0.5.4/Nero-7.0.8.2_deu.exe.torrent
+      </url>
+      <url type="ftp" location="de" preference="40">
+ftp://ftp1.usw.nero.com/software/nero7/Nero-7.0.8.2_chs.exe
+      </url>
+      <url type="http" location="us" preference="40">
+http://httpdl1.usw.nero.com/software/nero7/Nero-7.0.8.2_chs.exe
+      </url>
+    </resources>
+  </file>
+
+<file name="Nero-7.0.8.2_deu.exe">
+    <identity>Nero Ultra Edition</identity>
+    <language>de</language>
+    <os>Windows-x86</os>    
+    <size>114070088</size>
+    <verification>
+      <hash type="md5">3688310e72cb1fcb261174c2b1e4a3a1</hash>
+    </verification>
+    <resources>
+      <url type="bittorrent" preference="100">
+ftp://nero-mirror.hspeed.net/software/Nero7/Nero-7.0.1.4b_deu.exe.torrent
+      </url>
+      <url type="ftp" location="us" preference="80">
+ftp://ftp4.usw.nero.com/software/nero7/Nero-7.0.8.2_deu.exe
+      </url>
+      <url type="http" location="us" preference="80">
+http://httpdl4.usw.nero.com/software/nero7/Nero-7.0.8.2_deu.exe
+      </url>
+    </resources>
+</file>
+
+</files> 
+</metalink>

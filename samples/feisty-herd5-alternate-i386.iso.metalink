@@ -1,0 +1,442 @@
+<?xml version="1.0" encoding="utf-8"?>
+<metalink version="3.0" generator="Metalink Editor version 0.4.0" xmlns="http://www.metalinker.org/">
+  <publisher>
+    <name>package resources</name>
+    <url>http://www.packages.ro</url>
+  </publisher>
+  <identity>ubuntu</identity>
+  <version>7.04.herd5</version>
+  <files>
+    <file name="feisty-alternate-i386.iso">
+      <size>705830912</size>
+      <os>Linux-x86</os>
+      <verification>
+        <hash type="md5">8fdd14aa3a645e1391b45d3209a36d55</hash>
+        <hash type="sha1">0bdd760f2b7bbedf78b80e7668f6192c2b9a5889</hash>
+        <pieces type="sha1" length="8388608">
+          <hash piece="0">6416e1dc27f537682bc7d5cb40a8b03f6d064f2a</hash>
+          <hash piece="1">3fa318401373fbb3ea5861c4bb8d02d30f1d2dc8</hash>
+          <hash piece="2">1e3d6a1e26473aa1ffb37deaff27b9495a727e2d</hash>
+          <hash piece="3">d52faea9f566c79574a77a4451ec5db6df97c4a9</hash>
+          <hash piece="4">df147c702013211a27030c0888f580d0425dd362</hash>
+          <hash piece="5">ff68e803ee43ba73cb144ea52d69f8e9298ed254</hash>
+          <hash piece="6">d090012c2ae4d732a299d44ec117256198647001</hash>
+          <hash piece="7">3efb4b142d80279c173593429fe7ba1b9392b518</hash>
+          <hash piece="8">39ce3bfde14a2df88409d0e0e5b6c2dd74d82f21</hash>
+          <hash piece="9">21bca7dbf504b7b1368f6992c7255e087f714c7e</hash>
+          <hash piece="10">6bf73ce004aa5aca3f7f1ac118a8cb4f9c408c55</hash>
+          <hash piece="11">81d4c6b993e19876f8af77aeb8003553ac385286</hash>
+          <hash piece="12">e8f3b7557e6b4ed00ce461dd894b4b9b0a0dc3ee</hash>
+          <hash piece="13">6de695ba2608bed9058b75dfbd8375ab893e95f0</hash>
+          <hash piece="14">8733b8f1622423edd21fe053f505fb4a3ba87e08</hash>
+          <hash piece="15">707d9f257cb794bba3dad4bbd4f7fb5c84e8ce6b</hash>
+          <hash piece="16">29f8f51e78dd569b06ba27153dc9cf75176dc412</hash>
+          <hash piece="17">1c697201858a22b3ba902d7bd484bf1fcbc9258f</hash>
+          <hash piece="18">64f672ecb1f38b6d793210c7c3861aa7a729e2ba</hash>
+          <hash piece="19">2e751ee53fbb5cd9d702c1ab7fa07800b536307f</hash>
+          <hash piece="20">45be9842e64243343fbaa08a1e30f30eda1aa45f</hash>
+          <hash piece="21">2b4df76283ea4e66fd88649c771f28d644800b4e</hash>
+          <hash piece="22">9bc6c6ba375faafa714a8a76bfe5f95e39c922ad</hash>
+          <hash piece="23">0a419d96414ccc02945d4ebdc6767f5d7d0b5067</hash>
+          <hash piece="24">e287e4e6d0767377e2e0cab41ab7d28dcaf3d1f4</hash>
+          <hash piece="25">7bf2e5993333aea2a74277eb018f488785c13052</hash>
+          <hash piece="26">e805e9a32c61db82c48555ebef9f526b9acc5bb7</hash>
+          <hash piece="27">bd313145e6d93bccc1212c3937a457254f0ef965</hash>
+          <hash piece="28">8cb7b0cb61489081b2997cb7645a1623c7b323a5</hash>
+          <hash piece="29">99377804e87d11bafeb1c762df428488e19292d7</hash>
+          <hash piece="30">c347e09458067560d6f7cdc6dcb8bd21404bfcad</hash>
+          <hash piece="31">f876413fa9ea7bfc944c5ff7258d95d8e9b5cab2</hash>
+          <hash piece="32">407cd2188b1c8aa924fe33503d5ea069d0ead0b8</hash>
+          <hash piece="33">f38ed0687a4aa2ace35d61a9dfd40c3800dfb78b</hash>
+          <hash piece="34">47ba66802c77b87918079f5b123423997a79f639</hash>
+          <hash piece="35">6841edff97ef7933c2acfbe499427ea29b2d9a8c</hash>
+          <hash piece="36">67139e18642789ca4bf3206d495c29e686a30287</hash>
+          <hash piece="37">cbf56418ee9d97a56b831ad4a28ae06273918d19</hash>
+          <hash piece="38">4104e908f870a44d335b05817911eedc05cb3280</hash>
+          <hash piece="39">2eda4625c255638dc6ca3286d9dcc8dc8265ecbb</hash>
+          <hash piece="40">88933fd869ee5397d494a3016412e77f82ed8338</hash>
+          <hash piece="41">f5490558bda824cbd174c6eacc0f26b972b8af6a</hash>
+          <hash piece="42">dc4b6f03d639e951c5d6457d82b69cefa16ab81c</hash>
+          <hash piece="43">5c25656265d66c2791ffef48e5567535a008ac5a</hash>
+          <hash piece="44">bc70402d678c1537ba9c0d69a0c6bf3cf849fd56</hash>
+          <hash piece="45">21c03dd154bf024b42cd7cf1ede995d2cba93e0b</hash>
+          <hash piece="46">e9e9834f42658fbf4e30c50b43de71aada8e7fca</hash>
+          <hash piece="47">2d34174522625231fd022e8b0c29218d3628b5dc</hash>
+          <hash piece="48">2d78ab4a757bf9b136e012f9aa53da6035fcfadd</hash>
+          <hash piece="49">fcd6ec603ab3e2b105a81c14a907abe15a5c9088</hash>
+          <hash piece="50">d14e7b32eab69920b1e087731ae91a98d9e54272</hash>
+          <hash piece="51">f5d098bf15f95b8b2376655d2f6d140dedb6acca</hash>
+          <hash piece="52">733599f2167ffea87825a7398493a7aa348cf59a</hash>
+          <hash piece="53">31666ebfba2797d73e2996430ab371bc188c7575</hash>
+          <hash piece="54">84457297ae22dc883623726ed8ccb0a2fff1b425</hash>
+          <hash piece="55">f92854bf53236828475b96ce2c58f5a09d81bc6e</hash>
+          <hash piece="56">b1329d1f0634073912fd9933519657a0fdeb2c85</hash>
+          <hash piece="57">dd94829fa1a02390dec942d6dff9e453b23180b8</hash>
+          <hash piece="58">5eee45ff80f413ea7c0dc6c0d800e5e608c7a1d6</hash>
+          <hash piece="59">5627ac6f24e2d1e800a96bf388767b8499d11c0f</hash>
+          <hash piece="60">c62a6e6bea021145a5c7edf96c44d5627f0c0cc9</hash>
+          <hash piece="61">01a337a5f45fa0fb788eb0db57e451d5dd15d7a7</hash>
+          <hash piece="62">aaca879c695e82304c854517337a0507760494af</hash>
+          <hash piece="63">ad548ea74338e435b3e8c2d897756403ab93aabf</hash>
+          <hash piece="64">3fc1007c6939f16bddbefd609c15591b8513c513</hash>
+          <hash piece="65">4e9ac6dd3dd67063df47b1344581de88d31deea8</hash>
+          <hash piece="66">9f2df831934755335a4fd2a3fd2a287514d688d0</hash>
+          <hash piece="67">25afc83b027d489d2733ad84bedb0a3425fde1f7</hash>
+          <hash piece="68">7e4c5c4c18b492232b898c67546b3994a38e9b43</hash>
+          <hash piece="69">4306a4165ed8f14bad69fe2d0d98d85108475238</hash>
+          <hash piece="70">f4393df1038478cebf1c4a0deb355ff2cef3b4a2</hash>
+          <hash piece="71">9c2b950b5c63d9d1a69b1e5c9a32f269a1e2e0ec</hash>
+          <hash piece="72">405a3703f69ce5eeec7239cd8bebe93f84279f9c</hash>
+          <hash piece="73">78244d73fbc461c0bf19887955b690d8f47ec238</hash>
+          <hash piece="74">6824fbc34abb5fb4467686ba6171960fcb7e0d2c</hash>
+          <hash piece="75">cb5ed638828e07b3da57b2289fef4d59bdac5511</hash>
+          <hash piece="76">4182acf1c0c90c7949fbdd28fc3628c6e589213b</hash>
+          <hash piece="77">2d03fc0e0411116a9b8fac5cc392c776558bcebd</hash>
+          <hash piece="78">e5e023ae8f1981f47d5ef04770fe00871a29263c</hash>
+          <hash piece="79">da2921987bc77560cac3e4a84be41798644660ec</hash>
+          <hash piece="80">7368133b43c6a59a9cb5b3f016ce680c1cb8e9e0</hash>
+          <hash piece="81">82d5e873ec0655fa20a5e6bdebb9735e7a20dcd2</hash>
+          <hash piece="82">f14374626e75bf9afb8080ed4af9a1c8c9f58858</hash>
+          <hash piece="83">690273a4c550b4b3464d421dd2317c6c697e586f</hash>
+          <hash piece="84">dc79690fcf667e3ecb00e3d1fac5470bc61c3c90</hash>
+        </pieces>
+      </verification>
+      <resources>
+        <url type="http" location="ro" preference="100">http://cdimage.ubuntu.com/releases/feisty/herd-5/feisty-alternate-i386.iso</url>
+        <url type="http" location="tw" preference="10">http://apt.ubuntu.org.tw/releases/feisty/herd-5/feisty-alternate-i386.iso</url>
+        <url type="ftp" location="tw" preference="10">ftp://ftp.cse.yzu.edu.tw/Linux/Ubuntu/ubuntu-cd/.pool/feisty-alternate-i386.iso</url>
+        <url type="http" location="tw" preference="10">http://ftp.cse.yzu.edu.tw/ftp/Linux/Ubuntu/ubuntu-cd/.pool/feisty-alternate-i386.iso</url>
+        <url type="ftp" location="ch" preference="10">ftp://mirror.switch.ch/mirror/ubuntu-cdimage/.pool/feisty-alternate-i386.iso</url>
+        <url type="http" location="ch" preference="10">http://mirror.switch.ch/ftp/mirror/ubuntu-cdimage/.pool/feisty-alternate-i386.iso</url>
+        <url type="ftp" location="se" preference="10">ftp://ftp.se.linux.org/pub/Linux/distributions/ubuntu/releases/feisty/herd-5/feisty-alternate-i386.iso</url>
+        <url type="ftp" location="es" preference="10">ftp://ftp.ubuntu-es.org/ubuntu-cdimage/.pool/feisty-alternate-i386.iso</url>
+        <url type="ftp" location="es" preference="10">ftp://ftp.um.es/mirror/ubuntu-cds/.pool/feisty-alternate-i386.iso</url>
+        <url type="http" location="es" preference="10">http://sunsite.rediris.es/mirror/ubuntu-releases/feisty/herd-5/feisty-alternate-i386.iso</url>
+        <url type="http" location="es" preference="10">http://isolinux.xtec.net/ubuntu/.pool/feisty-alternate-i386.iso</url>
+        <url type="ftp" location="za" preference="10">ftp://ftp.leg.uct.ac.za/pub/linux/ubuntu-releases/feisty/herd-5/feisty-alternate-i386.iso</url>
+        <url type="ftp" location="sp" preference="10">ftp://yu.releases.ubuntu.com/releases/feisty/herd-5/feisty-alternate-i386.iso</url>
+        <url type="http" location="sp" preference="10">http://yu.releases.ubuntu.com/releases/feisty/herd-5/feisty-alternate-i386.iso</url>
+        <url type="ftp" location="ru" preference="10">ftp://debian.nsu.ru/ubuntu-releases/feisty/herd-5/feisty-alternate-i386.iso</url>
+        <url type="http" location="ru" preference="10">http://debian.nsu.ru/ubuntu-releases/feisty/herd-5/feisty-alternate-i386.iso</url>
+        <url type="ftp" location="ro" preference="10">ftp://ftp.lug.ro/ubuntu-releases/feisty/herd-5/feisty-alternate-i386.iso</url>
+        <url type="ftp" location="ro" preference="10">ftp://ftp.iasi.roedu.net/mirrors/ubuntulinux.org/releases/feisty/herd-5/feisty-alternate-i386.iso</url>
+        <url type="http" location="ro" preference="10">http://ftp.iasi.roedu.net/mirrors/ubuntulinux.org/releases/feisty/herd-5/feisty-alternate-i386.iso</url>
+        <url type="http" location="ro" preference="10">http://ftp.lug.ro/ubuntu-releases/feisty/herd-5/feisty-alternate-i386.iso</url>
+        <url type="ftp" location="pt" preference="10">ftp://neacm.fe.up.pt/pub/ubuntu/.pool/feisty-alternate-i386.iso</url>
+        <url type="ftp" location="pt" preference="10">ftp://ftp.rnl.ist.utl.pt/ubuntu-releases/feisty/herd-5/feisty-alternate-i386.iso</url>
+        <url type="http" location="pt" preference="10">http://neacm.fe.up.pt/pub/ubuntu/.pool/feisty-alternate-i386.iso</url>
+        <url type="http" location="pt" preference="10">http://glua.ua.pt/mirror/dists/ubuntu/releases/feisty/herd-5/feisty-alternate-i386.iso</url>
+        <url type="http" location="pt" preference="10">http://darkstar.ist.utl.pt/ubuntu/5.04/.pool/feisty-alternate-i386.iso</url>
+        <url type="ftp" location="pl" preference="10">ftp://ubuntu.task.gda.pl/ubuntu-releases/feisty/herd-5/feisty-alternate-i386.iso</url>
+        <url type="http" location="pl" preference="10">http://ubuntu.task.gda.pl/ubuntu-releases/feisty/herd-5/feisty-alternate-i386.iso</url>
+        <url type="http" location="pl" preference="10">http://ubuntulinux.mainseek.com/releases/feisty/herd-5/feisty-alternate-i386.iso</url>
+        <url type="ftp" location="no" preference="10">ftp://ftp.uninett.no/linux/ubuntu-iso/.pool/feisty-alternate-i386.iso</url>
+        <url type="http" location="no" preference="10">http://mirror.trivini.no/ubuntu-iso/.pool/feisty-alternate-i386.iso</url>
+        <url type="ftp" location="nl" preference="10">ftp://ilsb.il.fontys.nl/pub/linux/distr/ubuntu/.pool/feisty-alternate-i386.iso</url>
+        <url type="http" location="nl" preference="10">http://sommerville.uvt.nl/ubuntu/.pool/feisty-alternate-i386.iso</url>
+        <url type="http" location="nl" preference="10">http://nl.releases.ubuntu.com/.pool/feisty-alternate-i386.iso</url>
+        <url type="ftp" location="lt" preference="10">ftp://ftp.litnet.lt/pub/ubuntu-cd/.pool/feisty-alternate-i386.iso</url>
+        <url type="http" location="lt" preference="10">http://ftp.litnet.lt/pub/ubuntu-cd/.pool/feisty-alternate-i386.iso</url>
+        <url type="ftp" location="jp" preference="10">ftp://ftp.yz.yamagata-u.ac.jp/pub/linux/ubuntu/releases/feisty/herd-5/feisty-alternate-i386.iso</url>
+        <url type="http" location="jp" preference="10">http://ftp.yz.yamagata-u.ac.jp/pub/linux/ubuntu/releases/feisty/herd-5/feisty-alternate-i386.iso</url>
+        <url type="http" location="jp" preference="10">http://ubuntu.mithril-linux.org/releases/feisty/herd-5/feisty-alternate-i386.iso</url>
+        <url type="ftp" location="it" preference="10">ftp://na.mirror.garr.it/mirrors/ubuntu-releases/feisty/herd-5/feisty-alternate-i386.iso</url>
+        <url type="ftp" location="it" preference="10">ftp://ftp.linux.it/ubuntu/releases/feisty/herd-5/feisty-alternate-i386.iso</url>
+        <url type="http" location="it" preference="10">http://na.mirror.garr.it/mirrors/ubuntu-releases/feisty/herd-5/feisty-alternate-i386.iso</url>
+        <url type="http" location="it" preference="10">http://ftp.linux.it/ubuntu/releases/feisty/herd-5/feisty-alternate-i386.iso</url>
+        <url type="ftp" location="ie" preference="10">ftp://ftp.esat.net/mirrors/releases.ubuntu.com/.pool/feisty-alternate-i386.iso</url>
+        <url type="ftp" location="ie" preference="10">ftp://ftp.heanet.ie/pub/ubuntu-releases/feisty/herd-5/feisty-alternate-i386.iso</url>
+        <url type="http" location="ie" preference="10">http://ftp.heanet.ie/pub/ubuntu-releases/feisty/herd-5/feisty-alternate-i386.iso</url>
+        <url type="http" location="ie" preference="10">http://ftp.esat.net/mirrors/releases.ubuntu.com/.pool/feisty-alternate-i386.iso</url>
+        <url type="http" location="hu" preference="10">http://ubuntu.elasztik.hu/.pool/feisty-alternate-i386.iso</url>
+        <url type="ftp" location="hu" preference="10">ftp://ftp.fsn.hu/pub/CDROM-Images/ubuntu/releases/feisty/herd-5/feisty-alternate-i386.iso</url>
+        <url type="ftp" location="hu" preference="10">ftp://ftp.kfki.hu/pub/linux/cdimages/ubuntu/.pool/feisty-alternate-i386.iso</url>
+        <url type="http" location="hu" preference="10">http://ftp.kfki.hu/linux/cdimages/ubuntu/.pool/feisty-alternate-i386.iso</url>
+        <url type="ftp" location="gr" preference="10">ftp://ftp.ntua.gr/pub/linux/ubuntu-releases/feisty/herd-5/feisty-alternate-i386.iso</url>
+        <url type="http" location="gr" preference="10">http://ftp.ntua.gr/pub/linux/ubuntu-releases/feisty/herd-5/feisty-alternate-i386.iso</url>
+        <url type="ftp" location="de" preference="10">ftp://ftp.join.uni-muenster.de/pub/mirrors/ftp.ubuntu.com/releases/feisty/herd-5/feisty-alternate-i386.iso</url>
+        <url type="ftp" location="de" preference="10">ftp://ftp.rz.tu-bs.de/pub/mirror/ubuntu-cd-releases/feisty/herd-5/feisty-alternate-i386.iso</url>
+        <url type="ftp" location="de" preference="10">ftp://ftp.bay13.net/pub/ubuntu/.pool/feisty-alternate-i386.iso</url>
+        <url type="ftp" location="de" preference="10">ftp://ftp2.kgt.org/pub/ubuntu.com/releases/feisty/herd-5/feisty-alternate-i386.iso</url>
+        <url type="ftp" location="de" preference="10">ftp://mirror.teleport-iabg.de/mirror/releases.ubuntu.com/.pool/feisty-alternate-i386.iso</url>
+        <url type="ftp" location="de" preference="10">ftp://source.rfc822.org/pub/mirror/releases.ubuntu.com/.pool/feisty-alternate-i386.iso</url>
+        <url type="ftp" location="de" preference="10">ftp://ftp.fu-berlin.de/linux/ubuntu/releases/feisty/herd-5/feisty-alternate-i386.iso</url>
+        <url type="ftp" location="de" preference="10">ftp://debian.charite.de/releases/feisty/herd-5/feisty-alternate-i386.iso</url>
+        <url type="http" location="de" preference="10">http://ftp.join.uni-muenster.de/pub/mirrors/ftp.ubuntu.com/releases/feisty/herd-5/feisty-alternate-i386.iso</url>
+        <url type="http" location="de" preference="10">http://ftp.rz.tu-bs.de/pub/mirror/ubuntu-cd-releases/feisty/herd-5/feisty-alternate-i386.iso</url>
+        <url type="http" location="de" preference="10">http://ftp2.kgt.org/pub/ubuntu.com/releases/feisty/herd-5/feisty-alternate-i386.iso</url>
+        <url type="http" location="de" preference="10">http://source.rfc822.org/pub/mirror/releases.ubuntu.com/.pool/feisty-alternate-i386.iso</url>
+        <url type="http" location="de" preference="10">http://releases.ubuntu.mirror.at.stealer.net/.pool/feisty-alternate-i386.iso</url>
+        <url type="http" location="de" preference="10">http://debian.charite.de/releases/feisty/herd-5/feisty-alternate-i386.iso</url>
+        <url type="http" location="ge" preference="10">http://ubuntu.eriders.ge/releases/feisty/herd-5/feisty-alternate-i386.iso</url>
+        <url type="ftp" location="fr" preference="10">ftp://fr.archive.ubuntu.com/ubuntu-cd/.pool/feisty-alternate-i386.iso</url>
+        <url type="ftp" location="fr" preference="10">ftp://ftp.univ-pau.fr/pub/linux/iso/ubuntu/.pool/feisty-alternate-i386.iso</url>
+        <url type="ftp" location="fr" preference="10">ftp://mir1.ovh.net/ubuntu/releases/feisty/herd-5/feisty-alternate-i386.iso</url>
+        <url type="ftp" location="fr" preference="10">ftp://www.paulla.asso.fr/pub/Ubuntu/.pool/feisty-alternate-i386.iso</url>
+        <url type="http" location="fr" preference="10">http://fr.releases.ubuntu.com/.pool/feisty-alternate-i386.iso</url>
+        <url type="http" location="fr" preference="10">http://ftp.univ-pau.fr/linux/iso/ubuntu/.pool/feisty-alternate-i386.iso</url>
+        <url type="http" location="fr" preference="10">http://mir1.ovh.net/ubuntu/releases/feisty/herd-5/feisty-alternate-i386.iso</url>
+        <url type="ftp" location="fi" preference="10">ftp://ftp.funet.fi/pub/mirrors/releases.ubuntu.com/releases/feisty/herd-5/feisty-alternate-i386.iso</url>
+        <url type="http" location="fi" preference="10">http://www.nic.funet.fi/pub/mirrors/releases.ubuntu.com/releases/feisty/herd-5/feisty-alternate-i386.iso</url>
+        <url type="ftp" location="ee" preference="10">ftp://ftp.estpak.ee/pub/ubuntu-releases/feisty/herd-5/feisty-alternate-i386.iso</url>
+        <url type="http" location="ee" preference="10">http://ftp.estpak.ee/pub/ubuntu-releases/feisty/herd-5/feisty-alternate-i386.iso</url>
+        <url type="ftp" location="dk" preference="10">ftp://mirrors.dotsrc.org/ubuntu-cd/.pool/feisty-alternate-i386.iso</url>
+        <url type="ftp" location="dk" preference="10">ftp://mirrors.dk.telia.net/pub/mirrors/releases.ubuntu.com/.pool/feisty-alternate-i386.iso</url>
+        <url type="http" location="dk" preference="10">http://mirrors.dotsrc.org/ubuntu-cd/.pool/feisty-alternate-i386.iso</url>
+        <url type="http" location="dk" preference="10">http://mirrors.dk.telia.net/pub/mirrors/releases.ubuntu.com/.pool/feisty-alternate-i386.iso</url>
+        <url type="http" location="cz" preference="10">http://ubuntu.supp.name/releases/feisty/herd-5/feisty-alternate-i386.iso</url>
+        <url type="ftp" location="cz" preference="10">ftp://archive.ubuntu.cz/cdimage/.pool/feisty-alternate-i386.iso</url>
+        <url type="http" location="cz" preference="10">http://releases.ubuntu.cz/warty/.pool/feisty-alternate-i386.iso</url>
+        <url type="http" location="cz" preference="10">http://archive.ubuntu.cz/cdimage/.pool/feisty-alternate-i386.iso</url>
+        <url type="ftp" location="hr" preference="10">ftp://debian.carnet.hr/ubuntu-releases/feisty/herd-5/feisty-alternate-i386.iso</url>
+        <url type="http" location="hr" preference="10">http://debian.carnet.hr/ubuntu-releases/feisty/herd-5/feisty-alternate-i386.iso</url>
+        <url type="ftp" location="cr" preference="10">ftp://ftp.ucr.ac.cr/pub/ubuntu-cd/.pool/feisty-alternate-i386.iso</url>
+        <url type="http" location="cr" preference="10">http://ftp.ucr.ac.cr/ubuntu-cd/.pool/feisty-alternate-i386.iso</url>
+        <url type="http" location="cn" preference="10">http://mirror.lupaworld.com/ubuntu/.pool/feisty-alternate-i386.iso</url>
+        <url type="http" location="cn" preference="10">http://mirror.vmmatrix.net/ubuntu-cd/.pool/feisty-alternate-i386.iso</url>
+        <url type="ftp" location="ca" preference="10">ftp://mirror.arcticnetwork.ca/pub/ubuntu/releases/feisty/herd-5/feisty-alternate-i386.iso</url>
+        <url type="http" location="ca" preference="10">http://mirror.arcticnetwork.ca/pub/ubuntu/releases/feisty/herd-5/feisty-alternate-i386.iso</url>
+        <url type="ftp" location="ca" preference="10">ftp://cs.ubishops.ca/pub/iso/ubuntu/.pool/feisty-alternate-i386.iso</url>
+        <url type="ftp" location="ca" preference="10">ftp://gulus.USherbrooke.ca/ubuntu/iso/.pool/feisty-alternate-i386.iso</url>
+        <url type="http" location="ca" preference="10">http://gulus.USherbrooke.ca/pub/distro/ubuntu/iso/.pool/feisty-alternate-i386.iso</url>
+        <url type="http" location="bg" preference="10">http://ubuntu.ipacct.com/releases/feisty/herd-5/feisty-alternate-i386.iso</url>
+        <url type="http" location="br" preference="10">http://espelhos.edugraf.ufsc.br/ubuntu-releases/feisty/herd-5/feisty-alternate-i386.iso</url>
+        <url type="http" location="br" preference="10">http://ubuntu.c3sl.ufpr.br/releases/feisty/herd-5/feisty-alternate-i386.iso</url>
+        <url type="http" location="br" preference="10">http://ftp.interlegis.gov.br/pub/ubuntu/releases/feisty/herd-5/feisty-alternate-i386.iso</url>
+        <url type="http" location="be" preference="10">http://mirror.freax.be/ubuntu/.pool/feisty-alternate-i386.iso</url>
+        <url type="ftp" location="at" preference="10">ftp://ftp.uni-klu.ac.at/linux/ubuntu-cdimage/.pool/feisty-alternate-i386.iso</url>
+        <url type="ftp" location="at" preference="10">ftp://ubuntu.inode.at/cdimage/.pool/feisty-alternate-i386.iso</url>
+        <url type="ftp" location="at" preference="10">ftp://gd.tuwien.ac.at/opsys/linux/ubuntu/cdimage/.pool/feisty-alternate-i386.iso</url>
+        <url type="http" location="at" preference="10">http://gd.tuwien.ac.at/opsys/linux/ubuntu/cdimage/.pool/feisty-alternate-i386.iso</url>
+        <url type="http" location="at" preference="10">http://ubuntu.uni-klu.ac.at/ubuntu-cdimage/.pool/feisty-alternate-i386.iso</url>
+        <url type="http" location="at" preference="10">http://ubuntu.inode.at/cdimage/.pool/feisty-alternate-i386.iso</url>
+        <url type="ftp" location="au" preference="10">ftp://mirror.pacific.net.au/linux/ubuntu-releases/feisty/herd-5/feisty-alternate-i386.iso</url>
+        <url type="ftp" location="au" preference="10">ftp://ftp.filearena.net/pub/ubuntu-releases/feisty/herd-5/feisty-alternate-i386.iso</url>
+        <url type="ftp" location="au" preference="10">ftp://ftp.planetmirror.com/pub/ubuntu/releases/feisty/herd-5/feisty-alternate-i386.iso</url>
+        <url type="ftp" location="au" preference="10">ftp://mirror.isp.net.au/pub/ubuntu-releases/feisty/herd-5/feisty-alternate-i386.iso</url>
+        <url type="ftp" location="au" preference="10">ftp://ftp.iinet.net.au/pub/ubuntu-releases/feisty/herd-5/feisty-alternate-i386.iso</url>
+        <url type="http" location="au" preference="10">http://mirror.pacific.net.au/linux/ubuntu-releases/feisty/herd-5/feisty-alternate-i386.iso</url>
+        <url type="http" location="au" preference="10">http://ubuntu-releases.optus.net/.pool/feisty-alternate-i386.iso</url>
+        <url type="http" location="au" preference="10">http://www.planetmirror.com/pub/ubuntu/releases/feisty/herd-5/feisty-alternate-i386.iso</url>
+        <url type="http" location="au" preference="10">http://mirror.isp.net.au/ftp/pub/ubuntu-releases/feisty/herd-5/feisty-alternate-i386.iso</url>
+        <url type="http" location="au" preference="10">http://ftp.iinet.net.au/pub/ubuntu-releases/feisty/herd-5/feisty-alternate-i386.iso</url>
+        <url type="http" location="uz" preference="10">http://cdimage.ubuntu.com/releases/dapper/current/.pool/feisty-alternate-i386.iso</url>
+        <url type="http" location="uz" preference="10">http://cdimage.ubuntu.com/daily/current/.pool/feisty-alternate-i386.iso</url>
+        <url type="http" location="uz" preference="10">http://releases.ubuntu.com/.pool/feisty-alternate-i386.iso</url>
+        <url type="http" location="uz" preference="10">http://ubuntu.snet.uz/ubuntu/.pool/feisty-alternate-i386.iso</url>
+        <url type="ftp" location="us" preference="10">ftp://ubuntu.cs.utah.edu/pub/ubuntu/ubuntu/.pool/feisty-alternate-i386.iso</url>
+        <url type="ftp" location="us" preference="10">ftp://mirrors.cat.pdx.edu/ubuntu/.pool/feisty-alternate-i386.iso</url>
+        <url type="ftp" location="us" preference="10">ftp://mirror.mcs.anl.gov/pub/ubuntu/.pool/feisty-alternate-i386.iso</url>
+        <url type="ftp" location="us" preference="10">ftp://ubuntu.mirrors.tds.net/ubuntu/.pool/feisty-alternate-i386.iso</url>
+        <url type="ftp" location="us" preference="10">ftp://mirror.clarkson.edu/pub/distributions/ubuntu/.pool/feisty-alternate-i386.iso</url>
+        <url type="ftp" location="us" preference="10">ftp://ftp.ussg.iu.edu/linux/ubuntu/.pool/feisty-alternate-i386.iso</url>
+        <url type="ftp" location="us" preference="10">ftp://mirrors.xmission.com/ubuntu/.pool/feisty-alternate-i386.iso</url>
+        <url type="ftp" location="us" preference="10">ftp://ftp.osuosl.org/pub/ubuntu/.pool/feisty-alternate-i386.iso</url>
+        <url type="http" location="us" preference="10">http://mirrors.cs.wmich.edu/ubuntu/.pool/feisty-alternate-i386.iso</url>
+        <url type="http" location="us" preference="10">http://ftp.osuosl.org/pub/ubuntu/.pool/feisty-alternate-i386.iso</url>
+        <url type="http" location="us" preference="10">http://mirrors.xmission.com/ubuntu/.pool/feisty-alternate-i386.iso</url>
+        <url type="http" location="us" preference="10">http://ftp.ussg.iu.edu/linux/ubuntu/.pool/feisty-alternate-i386.iso</url>
+        <url type="http" location="us" preference="10">http://ubuntu.cs.utah.edu/ubuntu/.pool/feisty-alternate-i386.iso</url>
+        <url type="http" location="us" preference="10">http://mirrors.cat.pdx.edu/ubuntu/.pool/feisty-alternate-i386.iso</url>
+        <url type="http" location="us" preference="10">http://mirror.mcs.anl.gov/pub/ubuntu/.pool/feisty-alternate-i386.iso</url>
+        <url type="http" location="us" preference="10">http://ubuntu.secs.oakland.edu/.pool/feisty-alternate-i386.iso</url>
+        <url type="http" location="us" preference="10">http://ftp.ale.org/pub/mirrors/ubuntu/.pool/feisty-alternate-i386.iso</url>
+        <url type="http" location="us" preference="10">http://www.opensourcemirrors.org/ubuntu/.pool/feisty-alternate-i386.iso</url>
+        <url type="http" location="us" preference="10">http://ubuntu.mirrors.tds.net/ubuntu/.pool/feisty-alternate-i386.iso</url>
+        <url type="http" location="us" preference="10">http://mirror.clarkson.edu/pub/distributions/ubuntu/.pool/feisty-alternate-i386.iso</url>
+        <url type="http" location="us" preference="10">http://lug.mtu.edu/ubuntu/.pool/feisty-alternate-i386.iso</url>
+        <url type="http" location="us" preference="10">http://mirror.cs.umn.edu/ubuntu/.pool/feisty-alternate-i386.iso</url>
+        <url type="ftp" location="gb" preference="10">ftp://ftp.blueyonder.co.uk/sites/ubuntu/archive/.pool/feisty-alternate-i386.iso</url>
+        <url type="http" location="gb" preference="10">http://ubuntu.blueyonder.co.uk/archive/.pool/feisty-alternate-i386.iso</url>
+        <url type="ftp" location="gb" preference="10">ftp://ftp.mirror.ac.uk/mirror/archive.ubuntu.com/ubuntu/.pool/feisty-alternate-i386.iso</url>
+        <url type="http" location="gb" preference="10">http://www.mirror.ac.uk/mirror/archive.ubuntu.com/ubuntu/.pool/feisty-alternate-i386.iso</url>
+        <url type="ftp" location="gb" preference="10">ftp://ftp.mirrorservice.org/sites/archive.ubuntu.com/ubuntu/.pool/feisty-alternate-i386.iso</url>
+        <url type="http" location="gb" preference="10">http://www.mirrorservice.org/sites/archive.ubuntu.com/ubuntu/.pool/feisty-alternate-i386.iso</url>
+        <url type="ftp" location="tr" preference="10">ftp://godel.cs.bilgi.edu.tr/ubuntu/.pool/feisty-alternate-i386.iso</url>
+        <url type="http" location="tr" preference="10">http://godel.cs.bilgi.edu.tr/mirror/ubuntu/.pool/feisty-alternate-i386.iso</url>
+        <url type="ftp" location="tw" preference="10">ftp://ftp.cse.yzu.edu.tw/Linux/Ubuntu/ubuntu/.pool/feisty-alternate-i386.iso</url>
+        <url type="http" location="tw" preference="10">http://ftp.cse.yzu.edu.tw/ftp/Linux/Ubuntu/ubuntu/.pool/feisty-alternate-i386.iso</url>
+        <url type="ftp" location="tw" preference="10">ftp://ftp.ee.ncku.edu.tw/pub/ubuntu/.pool/feisty-alternate-i386.iso</url>
+        <url type="ftp" location="tw" preference="10">ftp://os.nchc.org.tw/ubuntu/.pool/feisty-alternate-i386.iso</url>
+        <url type="ftp" location="tw" preference="10">ftp://apt.nc.hcc.edu.tw/pub/ubuntu/.pool/feisty-alternate-i386.iso</url>
+        <url type="http" location="tw" preference="10">http://ubuntu.csie.ntu.edu.tw/ubuntu/.pool/feisty-alternate-i386.iso</url>
+        <url type="http" location="tw" preference="10">http://apt.nc.hcc.edu.tw/pub/ubuntu/.pool/feisty-alternate-i386.iso</url>
+        <url type="ftp" location="tw" preference="10">ftp://apt.ubuntu.org.tw/ubuntu/.pool/feisty-alternate-i386.iso</url>
+        <url type="http" location="tw" preference="10">http://apt.ubuntu.org.tw/ubuntu/.pool/feisty-alternate-i386.iso</url>
+        <url type="ftp" location="ch" preference="10">ftp://mirror.switch.ch/mirror/ubuntu/.pool/feisty-alternate-i386.iso</url>
+        <url type="http" location="ch" preference="10">http://mirror.switch.ch/ftp/mirror/ubuntu/.pool/feisty-alternate-i386.iso</url>
+        <url type="ftp" location="se" preference="10">ftp://ftp.se.linux.org/pub/Linux/distributions/ubuntu/.pool/feisty-alternate-i386.iso</url>
+        <url type="http" location="se" preference="10">http://ftp.acc.umu.se/mirror/ubuntu/.pool/feisty-alternate-i386.iso</url>
+        <url type="ftp" location="es" preference="10">ftp://ftp.ubuntu-es.org/ubuntu/.pool/feisty-alternate-i386.iso</url>
+        <url type="ftp" location="es" preference="10">ftp://ftp.um.es/mirror/ubuntu/.pool/feisty-alternate-i386.iso</url>
+        <url type="ftp" location="za" preference="10">ftp://ftp.sun.ac.za/ftp/ubuntu/.pool/feisty-alternate-i386.iso</url>
+        <url type="ftp" location="za" preference="10">ftp://ftp.leg.uct.ac.za/pub/linux/ubuntu/.pool/feisty-alternate-i386.iso</url>
+        <url type="ftp" location="za" preference="10">ftp://ubuntu.mirror.ac.za/.pool/feisty-alternate-i386.iso</url>
+        <url type="http" location="za" preference="10">http://za.archive.ubuntu.com/ubuntu/.pool/feisty-alternate-i386.iso</url>
+        <url type="ftp" location="za" preference="10">ftp://ftp.is.co.za/ubuntu/.pool/feisty-alternate-i386.iso</url>
+        <url type="ftp" location="sp" preference="10">ftp://yu.archive.ubuntu.com/ubuntu/.pool/feisty-alternate-i386.iso</url>
+        <url type="http" location="sp" preference="10">http://yu.archive.ubuntu.com/ubuntu/.pool/feisty-alternate-i386.iso</url>
+        <url type="ftp" location="ru" preference="10">ftp://debian.nsu.ru/ubuntu/.pool/feisty-alternate-i386.iso</url>
+        <url type="http" location="ru" preference="10">http://debian.nsu.ru/ubuntu/.pool/feisty-alternate-i386.iso</url>
+        <url type="ftp" location="ro" preference="10">ftp://ftp.lug.ro/ubuntu/.pool/feisty-alternate-i386.iso</url>
+        <url type="http" location="ro" preference="10">http://ftp.lug.ro/ubuntu/.pool/feisty-alternate-i386.iso</url>
+        <url type="ftp" location="ro" preference="10">ftp://ftp.iasi.roedu.net/mirrors/ubuntulinux.org/ubuntu/.pool/feisty-alternate-i386.iso</url>
+        <url type="http" location="ro" preference="10">http://ftp.iasi.roedu.net/mirrors/ubuntulinux.org/ubuntu/.pool/feisty-alternate-i386.iso</url>
+        <url type="http" location="pt" preference="10">http://ubuntu.dcc.fc.up.pt/.pool/feisty-alternate-i386.iso</url>
+        <url type="http" location="pt" preference="10">http://darkstar.ist.utl.pt/ubuntu/archive/.pool/feisty-alternate-i386.iso</url>
+        <url type="ftp" location="pt" preference="10">ftp://ftp.rnl.ist.utl.pt/ubuntu/.pool/feisty-alternate-i386.iso</url>
+        <url type="ftp" location="pl" preference="10">ftp://ubuntu.task.gda.pl/ubuntu/.pool/feisty-alternate-i386.iso</url>
+        <url type="http" location="pl" preference="10">http://ubuntu.task.gda.pl/ubuntu/.pool/feisty-alternate-i386.iso</url>
+        <url type="http" location="pl" preference="10">http://ubuntulinux.mainseek.com/ubuntu/.pool/feisty-alternate-i386.iso</url>
+        <url type="ftp" location="no" preference="10">ftp://no.archive.ubuntu.com/ubuntu/.pool/feisty-alternate-i386.iso</url>
+        <url type="http" location="no" preference="10">http://no.archive.ubuntu.com/ubuntu/.pool/feisty-alternate-i386.iso</url>
+        <url type="http" location="ni" preference="10">http://www.computacion.uni.edu.ni/iso/ubuntu/.pool/feisty-alternate-i386.iso</url>
+        <url type="ftp" location="nz" preference="10">ftp://ftp.citylink.co.nz/ubuntu/.pool/feisty-alternate-i386.iso</url>
+        <url type="ftp" location="nl" preference="10">ftp://nl.archive.ubuntu.com/ubuntu/.pool/feisty-alternate-i386.iso</url>
+        <url type="http" location="nl" preference="10">http://nl.archive.ubuntu.com/ubuntu/.pool/feisty-alternate-i386.iso</url>
+        <url type="ftp" location="na" preference="10">ftp://ftp.polytechnic.edu.na/pub/ubuntulinux/.pool/feisty-alternate-i386.iso</url>
+        <url type="ftp" location="lt" preference="10">ftp://ftp.litnet.lt/pub/ubuntu/.pool/feisty-alternate-i386.iso</url>
+        <url type="http" location="lt" preference="10">http://ftp.litnet.lt/pub/ubuntu/.pool/feisty-alternate-i386.iso</url>
+        <url type="http" location="lv" preference="10">http://ubuntu-arch.linux.edu.lv/ubuntu/.pool/feisty-alternate-i386.iso</url>
+        <url type="http" location="jp" preference="10">http://ubuntu.mithril-linux.org/archives/.pool/feisty-alternate-i386.iso</url>
+        <url type="ftp" location="it" preference="10">ftp://na.mirror.garr.it/mirrors/ubuntu-archive/.pool/feisty-alternate-i386.iso</url>
+        <url type="ftp" location="it" preference="10">ftp://ftp.linux.it/ubuntu/.pool/feisty-alternate-i386.iso</url>
+        <url type="http" location="it" preference="10">http://na.mirror.garr.it/mirrors/ubuntu-archive/.pool/feisty-alternate-i386.iso</url>
+        <url type="http" location="it" preference="10">http://ftp.linux.it/ubuntu/.pool/feisty-alternate-i386.iso</url>
+        <url type="ftp" location="ie" preference="10">ftp://ftp.heanet.ie/pub/ubuntu/.pool/feisty-alternate-i386.iso</url>
+        <url type="ftp" location="ie" preference="10">ftp://ftp.esat.net/mirrors/archive.ubuntu.com/.pool/feisty-alternate-i386.iso</url>
+        <url type="http" location="ie" preference="10">http://ftp.heanet.ie/pub/ubuntu/.pool/feisty-alternate-i386.iso</url>
+        <url type="http" location="ie" preference="10">http://ftp.esat.net/mirrors/archive.ubuntu.com/.pool/feisty-alternate-i386.iso</url>
+        <url type="http" location="is" preference="10">http://ubuntu.lhi.is/.pool/feisty-alternate-i386.iso</url>
+        <url type="http" location="is" preference="10">http://ubuntu.odg.cc/.pool/feisty-alternate-i386.iso</url>
+        <url type="http" location="id" preference="10">http://kambing.vlsm.org/ubuntu/.pool/feisty-alternate-i386.iso</url>
+        <url type="http" location="id" preference="10">http://komo.vlsm.org/ubuntu/.pool/feisty-alternate-i386.iso</url>
+        <url type="ftp" location="hu" preference="10">ftp://ftp.fsn.hu/pub/linux/distributions/ubuntu/.pool/feisty-alternate-i386.iso</url>
+        <url type="ftp" location="hu" preference="10">ftp://ftp.kfki.hu/pub/linux/ubuntu/.pool/feisty-alternate-i386.iso</url>
+        <url type="http" location="hu" preference="10">http://ftp.kfki.hu/linux/ubuntu/.pool/feisty-alternate-i386.iso</url>
+        <url type="ftp" location="gr" preference="10">ftp://ftp.ntua.gr/pub/linux/ubuntu/.pool/feisty-alternate-i386.iso</url>
+        <url type="http" location="gr" preference="10">http://ftp.ntua.gr/pub/linux/ubuntu/.pool/feisty-alternate-i386.iso</url>
+        <url type="ftp" location="de" preference="10">ftp://ftp.uni-erlangen.de/pub/mirrors/ubuntu/.pool/feisty-alternate-i386.iso</url>
+        <url type="ftp" location="de" preference="10">ftp://ftp.join.uni-muenster.de/pub/mirrors/ftp.ubuntu.com/ubuntu/.pool/feisty-alternate-i386.iso</url>
+        <url type="ftp" location="de" preference="10">ftp://ftp.rz.tu-bs.de/pub/mirror/ubuntu-packages/.pool/feisty-alternate-i386.iso</url>
+        <url type="ftp" location="de" preference="10">ftp://ftp.fu-berlin.de/linux/ubuntu/.pool/feisty-alternate-i386.iso</url>
+        <url type="ftp" location="de" preference="10">ftp://debian.charite.de/ubuntu/.pool/feisty-alternate-i386.iso</url>
+        <url type="http" location="de" preference="10">http://www.ftp.uni-erlangen.de/pub/mirrors/ubuntu/.pool/feisty-alternate-i386.iso</url>
+        <url type="http" location="de" preference="10">http://ftp.join.uni-muenster.de/pub/mirrors/ftp.ubuntu.com/ubuntu/.pool/feisty-alternate-i386.iso</url>
+        <url type="http" location="de" preference="10">http://ftp.rz.tu-bs.de/pub/mirror/ubuntu-packages/.pool/feisty-alternate-i386.iso</url>
+        <url type="http" location="de" preference="10">http://debian.charite.de/ubuntu/.pool/feisty-alternate-i386.iso</url>
+        <url type="http" location="ge" preference="10">http://ge.archive.ubuntu.com/ubuntu/.pool/feisty-alternate-i386.iso</url>
+        <url type="ftp" location="fr" preference="10">ftp://ftp.oleane.net/pub/ubuntu/.pool/feisty-alternate-i386.iso</url>
+        <url type="ftp" location="fr" preference="10">ftp://ftp.proxad.net/mirrors/ftp.ubuntu.com/ubuntu/.pool/feisty-alternate-i386.iso</url>
+        <url type="ftp" location="fr" preference="10">ftp://ftp.u-picardie.fr/pub/ubuntu/ubuntu/.pool/feisty-alternate-i386.iso</url>
+        <url type="ftp" location="fr" preference="10">ftp://fr.archive.ubuntu.com/ubuntu/.pool/feisty-alternate-i386.iso</url>
+        <url type="ftp" location="fr" preference="10">ftp://mir1.ovh.net/ubuntu/ubuntu/.pool/feisty-alternate-i386.iso</url>
+        <url type="http" location="fr" preference="10">http://ftp.oleane.net/pub/ubuntu/.pool/feisty-alternate-i386.iso</url>
+        <url type="http" location="fr" preference="10">http://ftp.u-picardie.fr/pub/ubuntu/ubuntu/.pool/feisty-alternate-i386.iso</url>
+        <url type="http" location="fr" preference="10">http://fr.archive.ubuntu.com/ubuntu/.pool/feisty-alternate-i386.iso</url>
+        <url type="http" location="fr" preference="10">http://mir1.ovh.net/ubuntu/ubuntu/.pool/feisty-alternate-i386.iso</url>
+        <url type="ftp" location="fi" preference="10">ftp://ftp.funet.fi/pub/mirrors/archive.ubuntu.com/.pool/feisty-alternate-i386.iso</url>
+        <url type="http" location="fi" preference="10">http://www.nic.funet.fi/pub/mirrors/archive.ubuntu.com/.pool/feisty-alternate-i386.iso</url>
+        <url type="ftp" location="ee" preference="10">ftp://ftp.estpak.ee/pub/ubuntu/.pool/feisty-alternate-i386.iso</url>
+        <url type="ftp" location="dk" preference="10">ftp://klid.dk/ubuntu/.pool/feisty-alternate-i386.iso</url>
+        <url type="http" location="ee" preference="10">http://ftp.estpak.ee/pub/ubuntu/.pool/feisty-alternate-i386.iso</url>
+        <url type="ftp" location="dk" preference="10">ftp://mirrors.dotsrc.org/ubuntu/.pool/feisty-alternate-i386.iso</url>
+        <url type="ftp" location="dk" preference="10">ftp://mirrors.dk.telia.net/ubuntu/.pool/feisty-alternate-i386.iso</url>
+        <url type="http" location="dk" preference="10">http://klid.dk/homeftp/ubuntu/.pool/feisty-alternate-i386.iso</url>
+        <url type="http" location="dk" preference="10">http://mirrors.dotsrc.org/ubuntu/.pool/feisty-alternate-i386.iso</url>
+        <url type="http" location="dk" preference="10">http://mirrors.dk.telia.net/ubuntu/.pool/feisty-alternate-i386.iso</url>
+        <url type="http" location="cz" preference="10">http://ubuntu.supp.name/ubuntu/.pool/feisty-alternate-i386.iso</url>
+        <url type="ftp" location="cz" preference="10">ftp://archive.ubuntu.cz/MIRRORS/archive.ubuntu.com/mirror/ubuntu/.pool/feisty-alternate-i386.iso</url>
+        <url type="http" location="cz" preference="10">http://archive.ubuntu.cz/ubuntu/.pool/feisty-alternate-i386.iso</url>
+        <url type="ftp" location="cr" preference="10">ftp://ftp.ucr.ac.cr/pub/ubuntu/.pool/feisty-alternate-i386.iso</url>
+        <url type="http" location="cr" preference="10">http://ftp.ucr.ac.cr/ubuntu/.pool/feisty-alternate-i386.iso</url>
+        <url type="http" location="cn" preference="10">http://mirror.lupaworld.com/ubuntu/.pool/feisty-alternate-i386.iso</url>
+        <url type="http" location="cn" preference="10">http://debian.cn99.com/ubuntu/.pool/feisty-alternate-i386.iso</url>
+        <url type="http" location="cn" preference="10">http://archive.ubuntu.org.cn/ubuntu/.pool/feisty-alternate-i386.iso</url>
+        <url type="ftp" location="cl" preference="10">ftp://cl.archive.ubuntu.com/ubuntu/.pool/feisty-alternate-i386.iso</url>
+        <url type="http" location="cl" preference="10">http://cl.archive.ubuntu.com/ubuntu/.pool/feisty-alternate-i386.iso</url>
+        <url type="ftp" location="ca" preference="10">ftp://gulus.USherbrooke.ca/ubuntu/.pool/feisty-alternate-i386.iso</url>
+        <url type="http" location="ca" preference="10">http://gulus.USherbrooke.ca/pub/distro/ubuntu/.pool/feisty-alternate-i386.iso</url>
+        <url type="ftp" location="ca" preference="10">ftp://mirror.arcticnetwork.ca/pub/ubuntu/packages/.pool/feisty-alternate-i386.iso</url>
+        <url type="http" location="ca" preference="10">http://mirror.arcticnetwork.ca/pub/ubuntu/packages/.pool/feisty-alternate-i386.iso</url>
+        <url type="ftp" location="ca" preference="10">ftp://mirror.cpsc.ucalgary.ca/mirror/ubuntu.com/.pool/feisty-alternate-i386.iso</url>
+        <url type="http" location="ca" preference="10">http://mirror.cpsc.ucalgary.ca/mirror/ubuntu.com/.pool/feisty-alternate-i386.iso</url>
+        <url type="ftp" location="ca" preference="10">ftp://ftp.cs.mun.ca/pub/mirror/ubuntu/.pool/feisty-alternate-i386.iso</url>
+        <url type="http" location="bg" preference="10">http://ubuntu.ipacct.com/ubuntu/.pool/feisty-alternate-i386.iso</url>
+        <url type="http" location="br" preference="10">http://ubuntu.c3sl.ufpr.br/ubuntu/.pool/feisty-alternate-i386.iso</url>
+        <url type="http" location="br" preference="10">http://ubuntu.interlegis.gov.br/archive/.pool/feisty-alternate-i386.iso</url>
+        <url type="http" location="br" preference="10">http://espelhos.edugraf.ufsc.br/ubuntu/.pool/feisty-alternate-i386.iso</url>
+        <url type="ftp" location="be" preference="10">ftp://ubuntu.mirrors.skynet.be/pub/ubuntu.com/.pool/feisty-alternate-i386.iso</url>
+        <url type="ftp" location="be" preference="10">ftp://ftp.belnet.be/pub/mirror/ubuntu.com/.pool/feisty-alternate-i386.iso</url>
+        <url type="http" location="be" preference="10">http://ubuntu.mirrors.skynet.be/pub/ubuntu.com/.pool/feisty-alternate-i386.iso</url>
+        <url type="http" location="be" preference="10">http://ftp.belnet.be/pub/mirror/ubuntu.com/.pool/feisty-alternate-i386.iso</url>
+        <url type="ftp" location="at" preference="10">ftp://gd.tuwien.ac.at/opsys/linux/ubuntu/archive/.pool/feisty-alternate-i386.iso</url>
+        <url type="ftp" location="at" preference="10">ftp://ftp.uni-klu.ac.at/linux/ubuntu/.pool/feisty-alternate-i386.iso</url>
+        <url type="ftp" location="at" preference="10">ftp://ubuntu.inode.at/ubuntu/.pool/feisty-alternate-i386.iso</url>
+        <url type="http" location="at" preference="10">http://gd.tuwien.ac.at/opsys/linux/ubuntu/archive/.pool/feisty-alternate-i386.iso</url>
+        <url type="http" location="at" preference="10">http://ubuntu.uni-klu.ac.at/ubuntu/.pool/feisty-alternate-i386.iso</url>
+        <url type="http" location="at" preference="10">http://ubuntu.inode.at/ubuntu/.pool/feisty-alternate-i386.iso</url>
+        <url type="ftp" location="au" preference="10">ftp://mirror.pacific.net.au/linux/ubuntu/.pool/feisty-alternate-i386.iso</url>
+        <url type="ftp" location="au" preference="10">ftp://ftp.iinet.net.au/pub/ubuntu/.pool/feisty-alternate-i386.iso</url>
+        <url type="ftp" location="au" preference="10">ftp://ftp.filearena.net/pub/ubuntu/.pool/feisty-alternate-i386.iso</url>
+        <url type="ftp" location="au" preference="10">ftp://ftp.planetmirror.com/pub/ubuntu/.pool/feisty-alternate-i386.iso</url>
+        <url type="ftp" location="au" preference="10">ftp://mirror.isp.net.au/pub/ubuntu/.pool/feisty-alternate-i386.iso</url>
+        <url type="http" location="au" preference="10">http://mirror.pacific.net.au/linux/ubuntu/.pool/feisty-alternate-i386.iso</url>
+        <url type="http" location="au" preference="10">http://ftp.filearena.net/pub/ubuntu/.pool/feisty-alternate-i386.iso</url>
+        <url type="http" location="au" preference="10">http://www.planetmirror.com/pub/ubuntu/.pool/feisty-alternate-i386.iso</url>
+        <url type="http" location="au" preference="10">http://mirror.isp.net.au/ftp/pub/ubuntu/.pool/feisty-alternate-i386.iso</url>
+        <url type="http" location="au" preference="10">http://mirror.optus.net/ubuntu/.pool/feisty-alternate-i386.iso</url>
+        <url type="http" location="au" preference="10">http://ftp.iinet.net.au/pub/ubuntu/.pool/feisty-alternate-i386.iso</url>
+        <url type="ftp" location="tw" preference="10">ftp://apt.ubuntu.org.tw/releases/feisty/herd-5/feisty-alternate-i386.iso</url>
+        <url type="http" location="tw" preference="10">http://apt.nc.hcc.edu.tw/pub/ubuntu-cd/.pool/feisty-alternate-i386.iso</url>
+        <url type="ftp" location="tw" preference="10">ftp://apt.nc.hcc.edu.tw/pub/ubuntu-cd/.pool/feisty-alternate-i386.iso</url>
+        <url type="ftp" location="tw" preference="10">ftp://ftp.ee.ncku.edu.tw/pub/ubuntu-cd/.pool/feisty-alternate-i386.iso</url>
+        <url type="ftp" location="ua" preference="10">ftp://ftp.linux.kiev.ua/pub/Linux/Ubuntu/.pool/feisty-alternate-i386.iso</url>
+        <url type="http" location="gb" preference="10">http://www.mirrorservice.org/sites/cdimage.ubuntu.com/cdimage/.pool/feisty-alternate-i386.iso</url>
+        <url type="http" location="gb" preference="10">http://ubuntu.blueyonder.co.uk/releases/feisty/herd-5/feisty-alternate-i386.iso</url>
+        <url type="ftp" location="gb" preference="10">ftp://ftp.mirrorservice.org/sites/cdimage.ubuntu.com/cdimage/.pool/feisty-alternate-i386.iso</url>
+        <url type="ftp" location="gb" preference="10">ftp://ftp.blueyonder.co.uk/sites/ubuntu/releases/feisty/herd-5/feisty-alternate-i386.iso</url>
+        <url type="http" location="us" preference="10">http://ftp.osuosl.org/pub/ubuntu-releases/feisty/herd-5/feisty-alternate-i386.iso</url>
+        <url type="http" location="us" preference="10">http://ftp.ussg.iu.edu/linux/ubuntu-releases/feisty/herd-5/feisty-alternate-i386.iso</url>
+        <url type="http" location="us" preference="10">http://mirrors.unrealradio.org/Ubuntu/.pool/feisty-alternate-i386.iso</url>
+        <url type="http" location="us" preference="10">http://mirror.yousendit.com/ubuntu/.pool/feisty-alternate-i386.iso</url>
+        <url type="http" location="us" preference="10">http://mirror.lunarpages.com/ubuntu/.pool/feisty-alternate-i386.iso</url>
+        <url type="http" location="us" preference="10">http://mirror.cs.umn.edu/ubuntu-releases/feisty/herd-5/feisty-alternate-i386.iso</url>
+        <url type="http" location="us" preference="10">http://linus.smenet.org/ubuntu/.pool/feisty-alternate-i386.iso</url>
+        <url type="http" location="us" preference="10">http://ubuntu.mirrors.tds.net/releases/feisty/herd-5/feisty-alternate-i386.iso</url>
+        <url type="http" location="us" preference="10">http://www.opensourcemirrors.org/ubuntu-cd/.pool/feisty-alternate-i386.iso</url>
+        <url type="http" location="us" preference="10">http://mirrors.jtlnet.com/ubuntu/.pool/feisty-alternate-i386.iso</url>
+        <url type="http" location="us" preference="10">http://ubuntu.mirrormax.net/.pool/feisty-alternate-i386.iso</url>
+        <url type="http" location="us" preference="10">http://www.nullnet.org/mirrors/ubuntu/.pool/feisty-alternate-i386.iso</url>
+        <url type="http" location="us" preference="10">http://mirror.mcs.anl.gov/pub/ubuntu-iso/.pool/feisty-alternate-i386.iso</url>
+        <url type="http" location="us" preference="10">http://mirrors.cat.pdx.edu/ubuntu-iso/.pool/feisty-alternate-i386.iso</url>
+        <url type="http" location="us" preference="10">http://ubuntu.cs.utah.edu/releases/feisty/herd-5/feisty-alternate-i386.iso</url>
+        <url type="http" location="us" preference="10">http://mirror.cc.vt.edu/pub/projects/ubuntu/.pool/feisty-alternate-i386.iso</url>
+        <url type="http" location="us" preference="10">http://san.csc.calpoly.edu/ubuntu/releases/feisty/herd-5/feisty-alternate-i386.iso</url>
+        <url type="http" location="us" preference="10">http://ftp.wayne.edu/linux_distributions/ubuntu/.pool/feisty-alternate-i386.iso</url>
+        <url type="http" location="us" preference="10">http://mirrors.tummy.com/pub/ftp.ubuntulinux.org/ubuntu/.pool/feisty-alternate-i386.iso</url>
+        <url type="ftp" location="us" preference="10">ftp://ftp.osuosl.org/pub/ubuntu-releases/feisty/herd-5/feisty-alternate-i386.iso</url>
+        <url type="ftp" location="us" preference="10">ftp://ftp.ussg.iu.edu/linux/ubuntu-releases/feisty/herd-5/feisty-alternate-i386.iso</url>
+        <url type="ftp" location="us" preference="10">ftp://mirror.dudcore.net/pub/ubuntu/.pool/feisty-alternate-i386.iso</url>
+        <url type="ftp" location="us" preference="10">ftp://ubuntu.mirrors.tds.net/releases/feisty/herd-5/feisty-alternate-i386.iso</url>
+        <url type="ftp" location="us" preference="10">ftp://mirrors.jtlnet.com/ubuntu/.pool/feisty-alternate-i386.iso</url>
+        <url type="ftp" location="us" preference="10">ftp://mirror.mcs.anl.gov/pub/ubuntu-iso/.pool/feisty-alternate-i386.iso</url>
+        <url type="ftp" location="us" preference="10">ftp://mirrors.cat.pdx.edu/ubuntu-iso/.pool/feisty-alternate-i386.iso</url>
+        <url type="ftp" location="us" preference="10">ftp://ubuntu.cs.utah.edu/pub/ubuntu/releases/feisty/herd-5/feisty-alternate-i386.iso</url>
+        <url type="ftp" location="us" preference="10">ftp://ftp.wayne.edu/linux_distributions/ubuntu/.pool/feisty-alternate-i386.iso</url>
+        <url type="ftp" location="us" preference="10">ftp://mirrors.tummy.com/pub/ftp.ubuntulinux.org/ubuntu/.pool/feisty-alternate-i386.iso</url>
+        <url type="http" location="us" preference="10">http://mirror.cs.umn.edu/ubuntu-dvd/.pool/feisty-alternate-i386.iso</url>
+        <url type="http" location="sp" preference="10">http://mirror.etf.bg.ac.yu/distributions/ubuntu/ubuntu-dvd/.pool/feisty-alternate-i386.iso</url>
+        <url type="ftp" location="sp" preference="10">ftp://mirror.etf.bg.ac.yu/distributions/ubuntu/ubuntu-dvd/.pool/feisty-alternate-i386.iso</url>
+        <url type="http" location="sp" preference="10">http://mirror2.etf.bg.ac.yu/distributions/ubuntu/ubuntu-dvd/.pool/feisty-alternate-i386.iso</url>
+        <url type="http" location="sp" preference="10">http://mirror2.etf.bg.ac.yu/distributions/ubuntu/ubuntu-dvd/.pool/feisty-alternate-i386.iso</url>
+        <url type="ftp" location="za" preference="10">ftp://ftp.leg.uct.ac.za/pub/linux/ubuntu-dvd/.pool/feisty-alternate-i386.iso</url>
+        <url type="http" location="se" preference="10">http://ftp.acc.umu.se/mirror/cdimage.ubuntu.com/releases/breezy/release/.pool/feisty-alternate-i386.iso</url>
+        <url type="http" location="tw" preference="10">http://apt.ubuntu.org.tw/releases/feisty/herd-5/feisty-alternate-i386.iso</url>
+        <url type="ftp" location="tw" preference="10">ftp://apt.ubuntu.org.tw/releases/feisty/herd-5/feisty-alternate-i386.iso</url>
+        <url type="ftp" location="pl" preference="10">ftp://ubuntu.task.gda.pl/ubuntu-dvd/releases/breezy/release/.pool/feisty-alternate-i386.iso</url>
+        <url type="http" location="pl" preference="10">http://ubuntu.task.gda.pl/ubuntu-dvd/releases/breezy/release/.pool/feisty-alternate-i386.iso</url>
+      </resources>
+    </file>
+  </files>
+</metalink>

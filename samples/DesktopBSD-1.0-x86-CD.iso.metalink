@@ -1,0 +1,28 @@
+<?xml version="1.0" encoding="utf-8"?>
+<metalink version="3.0" generator="Metalink Generator v1.00.0034" xmlns="http://www.metalinker.org/">
+  <publisher>
+    <name>DesktopBSD</name>
+    <url>http://www.desktopbsd.net/</url>
+  </publisher>
+  <description>DesktopBSD aims at being a stable and powerful operating system for desktop users.</description>
+  <files>
+    <file name="DesktopBSD-1.0-x86-CD.iso">
+      <version>1.0</version>
+      <verification>
+        <hash type="md5">7ff251224798fc8b3996d37f5f1c5f25</hash>
+      </verification>
+      <resources>
+        <url type="ftp" location="us" preference="100">ftp://desktopbsd.mirrors.tds.net/pub/desktopbsd/DesktopBSD-1.0-x86-CD.iso</url>
+        <url type="ftp" location="jp" preference="100">ftp://ftp.allbsd.org/pub/desktopbsd/DesktopBSD-1.0-x86-CD.iso</url>
+        <url type="ftp" location="tw" preference="100">ftp://ftp.cs.pu.edu.tw/BSD/DesktopBSD/pub/DesktopBSD-1.0-x86-CD.iso</url>
+        <url type="ftp" location="no" preference="100">ftp://ftp.netrunner.nu/pub/desktopbsd/DesktopBSD-1.0-x86-CD.iso</url>
+        <url type="ftp" location="gr" preference="100">ftp://ftp.ntua.gr/pub/DesktopBSD/DesktopBSD-1.0-x86-CD.iso</url>
+        <url type="ftp" location="de" preference="100">ftp://ftp.plusline.de/pub/desktopbsd/DesktopBSD-1.0-x86-CD.iso</url>
+        <url type="ftp" location="ch" preference="100">ftp://ftp.solnet.ch/mirror/DesktopBSD/pub/DesktopBSD-1.0-x86-CD.iso</url>
+        <url type="ftp" location="us" preference="100">ftp://ftp.ussg.iu.edu/pub/DesktopBSD/DesktopBSD-1.0-x86-CD.iso</url>
+        <url type="ftp" location="us" preference="100">ftp://ftp.xenophase.net/mirrors/DesktopBSD/DesktopBSD-1.0-x86-CD.iso</url>
+        <url type="ftp" location="ch" preference="100">ftp://ftp2.genotec.ch/pub/DesktopBSD/DesktopBSD-1.0-x86-CD.iso</url>
+      </resources>
+    </file>
+  </files>
+</metalink>

@@ -1,0 +1,113 @@
+<?xml version="1.0" encoding="utf-8"?>
+<metalink version="3.0" generator="Metalink Editor version 1.1.0" xmlns="http://www.metalinker.org/">
+  <publisher>
+    <name>Momonga Linux</name>
+    <url>http://www.momonga-linux.org/</url>
+  </publisher>
+  <identity>Momonga Linux</identity>
+  <version>4-rc1</version>
+  <description>Momonga Linux is a Linux distribution developed in a "bazaar" model style among its user community.</description>
+  <files>
+    <file name="Momonga-4-rc1-everything-i686.iso">
+      <size>5363435520</size>
+      <verification>
+        <hash type="md5">ca7056ac6843f3c8e3153de2d303f67a</hash>
+        <hash type="sha1">78653335aacbacae6d909142ebcdd8a6f10fd930</hash>
+        <hash type="sha256">25310c3b57c61bb0e1fd871e71206971b5de623bad91cb1040fad5ab1ee4c0c4</hash>
+        <pieces type="sha1" length="67108864">
+          <hash piece="0">356e0412a1016d2bbb7b21c84d8b109d3079a8cf</hash>
+          <hash piece="1">ec1fa255a391b6a8f65bff9b92099be9464a13f4</hash>
+          <hash piece="2">53dd4a3fb8f838a3ec9abb0874e38a98a8882e3d</hash>
+          <hash piece="3">b1b3a4496ffa5933c57676d2f0cc975ba6eccd9c</hash>
+          <hash piece="4">97d1dadb2068a3de412b34df67b9c6758804ccfe</hash>
+          <hash piece="5">9d58264106e55f9bbd317ab0494ba701a48486d9</hash>
+          <hash piece="6">2b9f6191bb62e7c5d8e1451194d06344ef4243df</hash>
+          <hash piece="7">1b6b423fd9b4ad06b1f7947704e9157687de87b2</hash>
+          <hash piece="8">9b136b7c90068dc0250280f47f4ebc8f1c9f0552</hash>
+          <hash piece="9">8445d9627ca491753067679209daba7a64220a90</hash>
+          <hash piece="10">3fac018926dc1a6a3c56a17a535bd0903d11bcca</hash>
+          <hash piece="11">8e0b2ddbfbdb2838f81c8f6a4064e4b682f758fd</hash>
+          <hash piece="12">4f1714cef4e7dc73a903ae2c9000d2c71e696d75</hash>
+          <hash piece="13">dd7fa053f431af1834ba0f6bc26b376a3e24f7c9</hash>
+          <hash piece="14">68ade4ea805e2c39e542d5036471ae738bf1821d</hash>
+          <hash piece="15">66c676b037231b463f5b9d6d8f10bd6e0f13ee38</hash>
+          <hash piece="16">c178243e2a475ba4408c813ef1337dfbf1f6edb7</hash>
+          <hash piece="17">3f835159c34a39252a11d874f1bb803ecda083c3</hash>
+          <hash piece="18">ef8b714add377a3db7e3f6d5ec50e4003bb29e4a</hash>
+          <hash piece="19">d7dbb92161519293f836dfc03528066c1961b810</hash>
+          <hash piece="20">f91b118e5ffc1913fd701ff6bf309a7c220868c9</hash>
+          <hash piece="21">28483aee304b125dafae3956cbd2e5cfc791725e</hash>
+          <hash piece="22">cd15d4ec1d36405b276a7a8726d39e526b17d1d1</hash>
+          <hash piece="23">21f4477fde074df43ca4d31605c75f4a0fe7a420</hash>
+          <hash piece="24">308a223fa139c88fd48d504dbb078c8cf3b55afb</hash>
+          <hash piece="25">b7d309e8837bbd3e59c9c0b6a1350de6e6cb422a</hash>
+          <hash piece="26">cea1c28fc11764be2dce0cd301a6ab8f6a2f267e</hash>
+          <hash piece="27">429d819e1eb4377b87cf4fc3b2df6fb58846ee5e</hash>
+          <hash piece="28">8b486bc643ba99358d9835519932df7f387f088e</hash>
+          <hash piece="29">42dbe420834414bd02914c1e5903c7cc6d105d3d</hash>
+          <hash piece="30">f1a86d55be1fba76e9103da8f7d950677d6109d8</hash>
+          <hash piece="31">3244c764c4f5cc95e6975e1dccd1ef0dea42fb66</hash>
+          <hash piece="32">c5867b6325ecefc0ee8b0249647953484c8511ec</hash>
+          <hash piece="33">3d5762ae8e09e60ac7b03b5744ac2f52e3a85ae5</hash>
+          <hash piece="34">8c57738d96433dcfb5519fb06c53417255758fa9</hash>
+          <hash piece="35">cb528ec21b4aed8f9d0914502968c6baf303a6f7</hash>
+          <hash piece="36">dd6519d1ad7cc55dd9dd3ff112ba68916d0cd3b7</hash>
+          <hash piece="37">6bd04cc7a172c1ec3ce6af05c0bb37e4f1347d56</hash>
+          <hash piece="38">1ef880f7e0e1b089bb3f99988e171e358a731efa</hash>
+          <hash piece="39">09338a0b3a54157c57682e8f68a16e968f4129cd</hash>
+          <hash piece="40">bbfcea3bce5bd1a004dde93cd5f0fe3abcb0a2b8</hash>
+          <hash piece="41">94187079c45fc6100b03fc9c7083cb281db49ab7</hash>
+          <hash piece="42">8b9f6d10058aae82bb85917d3f901aa82b2e9152</hash>
+          <hash piece="43">3a8bcc7f280d7d1e38ae18af55c24d938c3a2ec5</hash>
+          <hash piece="44">fb9a81bbd1a08bfafabd962afbf98fc6eb23631f</hash>
+          <hash piece="45">7405d45ff8a4463d099b63ec0e9dbed8c517f38a</hash>
+          <hash piece="46">1e9aba7caa0a70674d4b66085e7ebfd0f21a28f6</hash>
+          <hash piece="47">7b3a2ce5290109618f42a58570b980959816370d</hash>
+          <hash piece="48">34575e6cad28907c632536d7996a6892717cf1f6</hash>
+          <hash piece="49">efbf2d03a9868ee651cfdcc5cd6c0b83f6a16318</hash>
+          <hash piece="50">8c72913deb7ce59a43055eddf254b579b7b27623</hash>
+          <hash piece="51">49b48d3e112b42d9b9ae83d106aed38adf49a4a8</hash>
+          <hash piece="52">fd8bef2062c9615f6e9916a8ed35f62c4e580ee5</hash>
+          <hash piece="53">79dbffd3155a157971e9318ec4b6e0943ec01c6a</hash>
+          <hash piece="54">4b42a041c25985d686a8e2084329e02e8abe7fb5</hash>
+          <hash piece="55">355b7da915fdf3a9a6713b2c168f12cedb56e597</hash>
+          <hash piece="56">e82cff12acb03d15559ecb4632f4cb322a54a83d</hash>
+          <hash piece="57">f0851c50585a0cbd4f6e28084e22738f21d0ffe9</hash>
+          <hash piece="58">de1100c362ef0dd7c819983f1ee7b6ab6c6b790b</hash>
+          <hash piece="59">858986fef8588348b03b9341bdac6c73d9c00476</hash>
+          <hash piece="60">640548ef51120c217bff99f95961ab69fcb1884d</hash>
+          <hash piece="61">7c3bf2cea244e15b0722da6aeada52ec85293b4d</hash>
+          <hash piece="62">456fc1a155e8ce108752e85113c3b636729ac385</hash>
+          <hash piece="63">d2a2049391753c7cb30b228ae982dd4ae57f9a49</hash>
+          <hash piece="64">33fc07fc1d1617ba8feeceeee0003387a99ced5c</hash>
+          <hash piece="65">07e7cea6f0f505bd82ca8da8ce76a95ba00f9191</hash>
+          <hash piece="66">a6d07b1c689555c38cd94418b8ff6d896571c171</hash>
+          <hash piece="67">7370332e24c5e29419a3c46e5eafc757ef25007b</hash>
+          <hash piece="68">52d07f2ce0ef613db355f6448be84ca4c59727cb</hash>
+          <hash piece="69">06eaf44c3cb90dd48b42949f4180848d21c856ea</hash>
+          <hash piece="70">877817a05c0aded81570562532445ac839dccfd3</hash>
+          <hash piece="71">bf37c4649e4c2499478ee32860d189a4f9c67ace</hash>
+          <hash piece="72">c7736eb947db416719b63acaf98fe5b228969755</hash>
+          <hash piece="73">26d85d03a5f130b2b2da9e320e989d44cb763a9e</hash>
+          <hash piece="74">6a71cfb62017612a0856bef82ed66911fe2b3169</hash>
+          <hash piece="75">b11b01303fd3cdeefada70f5cfdb900b52d7ef12</hash>
+          <hash piece="76">5909e48cb3de9ce8b5e0ab6c14ec31f8bf35bb40</hash>
+          <hash piece="77">14364c1d36a58c4169b8b9965e9a9d54d4134913</hash>
+          <hash piece="78">7d4afd64051f74c005778a178dc822efbcdd077f</hash>
+          <hash piece="79">06950e020ce1eea2a0538bca4527e3ac77601dd4</hash>
+        </pieces>
+      </verification>
+      <resources>
+        <url type="ftp" location="jp" preference="90">ftp://ftp.yz.yamagata-u.ac.jp/pub/linux/momonga/test/3.92/i686/iso/Momonga-4-rc1-everything-i686.iso</url>
+        <url type="http" location="jp" preference="100">http://dist.momonga-linux.org/pub/momonga/test/3.92/i686/iso/Momonga-4-rc1-everything-i686.iso</url>
+        <url type="ftp" location="jp" preference="100">ftp://dist.momonga-linux.org/pub/momonga/test/3.92/i686/iso/Momonga-4-rc1-everything-i686.iso</url>
+        <url type="ftp" location="jp" preference="90">ftp://ftp.iij.ad.jp/pub/linux/momonga/test/3.92/i686/iso/Momonga-4-rc1-everything-i686.iso</url>
+        <url type="ftp" location="jp" preference="90">ftp://ftp.kddilabs.jp/Linux/packages/momonga/test/3.92/i686/iso/Momonga-4-rc1-everything-i686.iso</url>
+        <url type="ftp" location="jp" preference="90">ftp://ftp.nara.wide.ad.jp/pub/Linux/momonga/test/3.92/i686/iso/Momonga-4-rc1-everything-i686.iso</url>
+        <url type="ftp" location="jp" preference="90">ftp://ftp.jaist.ac.jp/pub/Linux/Momonga/test/3.92/i686/iso/Momonga-4-rc1-everything-i686.iso</url>
+        <url type="http" location="fr" preference="90">http://distrib-coffee.ipsl.jussieu.fr/pub/linux/momonga/test/3.92/i686/iso/Momonga-4-rc1-everything-i686.iso</url>
+        <url type="ftp" location="fr" preference="90">ftp://distrib-coffee.ipsl.jussieu.fr/pub/linux/momonga/test/3.92/i686/iso/Momonga-4-rc1-everything-i686.iso</url>		
+      </resources>
+    </file>
+  </files>
+</metalink>

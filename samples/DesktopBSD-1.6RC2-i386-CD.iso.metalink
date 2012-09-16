@@ -1,0 +1,111 @@
+<?xml version="1.0" encoding="utf-8"?>
+<metalink version="3.0" generator="Metalink Editor version 0.4.1" xmlns="http://www.metalinker.org/">
+  <publisher>
+    <name>DesktopBSD</name>
+    <url>http://www.desktopbsd.net/</url>
+  </publisher>
+  <version>1.6RC2</version>
+  <description>DesktopBSD aims at being a stable and powerful operating system for desktop users.</description>
+  <files>
+    <file name="DesktopBSD-1.6RC2-i386-CD.iso">
+      <size>693016576</size>
+      <os>BSD-x86</os>
+      <verification>
+        <hash type="md5">8ff9ba0f925099573cee37a97cdbdf4e</hash>
+        <hash type="sha1">9f16d7dbfd361ad24a2c165b7d8722e23d5b93f2</hash>
+        <pieces type="sha1" length="8388608">
+          <hash piece="0">814e8cc6eb58e37a9a0d60a941e17a1a33ba5235</hash>
+          <hash piece="1">6178cc56ec5ac68caa09db58b4c626917c4f1c88</hash>
+          <hash piece="2">61d65eb07ce743ee5a2dfa920cc0c21ad3c14357</hash>
+          <hash piece="3">3b6e7a5738cbc00d629791165bc67d5ec1eed883</hash>
+          <hash piece="4">98a31b22c56a2f97ca1dfb539a4317645c2b7c5a</hash>
+          <hash piece="5">b7e18f7310bd91074f9956be42e1491def14f9f4</hash>
+          <hash piece="6">97ec3f6ea818662a03a9e006fb86bbebf06607f1</hash>
+          <hash piece="7">a9930bb2d1fc037b3ee501f3cc3ed2e35d215395</hash>
+          <hash piece="8">02a9d6d0cb98dd0c5bb84249cec3c5804232cdc9</hash>
+          <hash piece="9">4aef579f288428b5f460d4b3df91ce5ec8d4152d</hash>
+          <hash piece="10">0b879701255d406cfcd6b65fc9b7f4a944ce7bdb</hash>
+          <hash piece="11">d39beccf74365b632211b13497f9bb21b2ea9264</hash>
+          <hash piece="12">131a293f7695852272864d0e0cfa9ce20255adb1</hash>
+          <hash piece="13">e90334c51406fda7a89913aa2f52073309817d5f</hash>
+          <hash piece="14">6050f0af72fb175dce00b486b16cca9b8a6a9ee5</hash>
+          <hash piece="15">9861b6f9d349c021a8b8972a501ba619267f6984</hash>
+          <hash piece="16">6bba9712582f3fc7639017145f52249c0b9fff3b</hash>
+          <hash piece="17">35170e4ef96dc73ba18f8c451c0c6225ea6612bd</hash>
+          <hash piece="18">1a7a2f710b61d9c998a3af79e24bc35bc465fb0f</hash>
+          <hash piece="19">fd321d61562623c8fbf3adc16e158b09affffa32</hash>
+          <hash piece="20">ea96544868fd9dc8ce99a87d9fd68a3c5830b9df</hash>
+          <hash piece="21">31cfe834080de99d5caae767e6a147e3125079db</hash>
+          <hash piece="22">61660490cb40f86fa9e484050f8dbebe3f3517d1</hash>
+          <hash piece="23">05859bba2a0dcdd5a4f2619abbaceed4b7c9e180</hash>
+          <hash piece="24">67fd55ac32a28d9e07a5aadf7214c703b197d81a</hash>
+          <hash piece="25">d02983477669ab5184f99d0f7f794ae7d8d31465</hash>
+          <hash piece="26">98a3cb92f25807b0f7f7b25ea5ce31bf26ce00c3</hash>
+          <hash piece="27">3212444510ae44c5b923950322e8865927f7ad63</hash>
+          <hash piece="28">04c0760f6ea8929094dc82df979b4d31eb0212ae</hash>
+          <hash piece="29">219c88ad3165e216d45920917d95db467ead14eb</hash>
+          <hash piece="30">86c8ad31c53805ebf5250f7fcaac00302e943020</hash>
+          <hash piece="31">9e62a1183a8cac92ab7ffa81b381776312612956</hash>
+          <hash piece="32">f172a4c5dc964c284640a2ab9ee6681c9d526fac</hash>
+          <hash piece="33">ab84819876be656308fcd9318c59eb00641f42ca</hash>
+          <hash piece="34">94618b1f099e77365cec0fc12c2f278e67f8a8f6</hash>
+          <hash piece="35">d1025460e566165ac0abd54429cbd9d4a506a21b</hash>
+          <hash piece="36">b0ec44c1adc8d09a3c3b6429b8f64cfe860a3922</hash>
+          <hash piece="37">29cc6a408cc98e2a816607180f5bae5fd0ffa852</hash>
+          <hash piece="38">9479ed4c2a7c250a3af36fc918d2f92b13c14ace</hash>
+          <hash piece="39">6f22b7796139166c88b075f5b7e9a20b72ca6148</hash>
+          <hash piece="40">bb770d530359b935cddcc47e72b76c7b0708aab3</hash>
+          <hash piece="41">513e1eb746824cc2ac7bcccfd098425fbb93a84e</hash>
+          <hash piece="42">d5eaaf4c2856014cc9387bae3a3c64774aaa1560</hash>
+          <hash piece="43">051ceffbc1262000a8841a0175f4bcf955e4c084</hash>
+          <hash piece="44">da162bf1dbfe06f8ff35bd8507774cefc1a50521</hash>
+          <hash piece="45">39ab523ffc5d42782e1232ce0a7c7ef7d912cfb8</hash>
+          <hash piece="46">fe1fdc9df79dee286dea57d7510ff7c0d6384709</hash>
+          <hash piece="47">75042e30de2e694f80e4e27e3cf3ef6c86eca4a3</hash>
+          <hash piece="48">af8371d96e529263894e11f978b1a2d7bb433421</hash>
+          <hash piece="49">4285e49b70162a928c97b704428f1ff5c83ec84f</hash>
+          <hash piece="50">38622df936cae3771529dee9195cb320930bf194</hash>
+          <hash piece="51">4e2533854271b3b43ff3ad23cead5504b0e2b4bd</hash>
+          <hash piece="52">4bfb55db7219c04f7a0b6b22cd27a98611230b1e</hash>
+          <hash piece="53">eafaf44c06a58beb50df95c64b3a31ac9d7d4f98</hash>
+          <hash piece="54">99016953d01e23d925f68fe112ea447fb290ec2d</hash>
+          <hash piece="55">5e0d6e0f32552fa7989c4e1b2ccb56dca843357c</hash>
+          <hash piece="56">432edf12bcfe59d830ffb023f1a7841483cc01fd</hash>
+          <hash piece="57">b62fd23f7079ded93198f812c1020319811d0faa</hash>
+          <hash piece="58">2be68e549ea220513b7e252da97a721518c4d02b</hash>
+          <hash piece="59">677c12a4a254dad45ab3b836a441400b09633c83</hash>
+          <hash piece="60">8fca4af40cacd46ee5b195f2570151a2f1e90982</hash>
+          <hash piece="61">39fd4b0bca4dcedb13eee91caa0d7b80ffb35dbd</hash>
+          <hash piece="62">4b3558e8e1a6b9f5548e5a401b4c69bd6501ae8d</hash>
+          <hash piece="63">3c565345bf25a06d5e44d96e0ffa026bfc1c5122</hash>
+          <hash piece="64">8dd26fba19e80c0d258a9b2ad06f2c2bbece4e96</hash>
+          <hash piece="65">c8a721a90b4f32328cfd9ff6729bdb30555c766e</hash>
+          <hash piece="66">8590c39fb7812b797605c1606b98659e447da99e</hash>
+          <hash piece="67">5fc823cadb4d6437b3e21f67a5efeb38845e5fa9</hash>
+          <hash piece="68">07b7f800a8c114deb280646c2dfb54bae83f80c8</hash>
+          <hash piece="69">8a3e24ba72da01b609f1649c94e34b21f1ae3163</hash>
+          <hash piece="70">32cc40e067978b37b6e738b6a7a98e1af228bf9c</hash>
+          <hash piece="71">1d34f65540d097a7457c724ecbb5c0147ab5e3ff</hash>
+          <hash piece="72">26f9f0a9e0928fa82c8b78251fd4bf811ca1eb14</hash>
+          <hash piece="73">71011f650866af399afdb0c2647277b8f3faa229</hash>
+          <hash piece="74">2ef24e9a997efb7d93fde1c022d60c7e0824cdb2</hash>
+          <hash piece="75">c8ec746f783e12abc555664994d430def1f89e0b</hash>
+          <hash piece="76">ee92f2ffd69c10ab3b38ed98c2d5470b8dff83c0</hash>
+          <hash piece="77">e90fb12272c22c52d3d7277c1d8d1d664d08ec85</hash>
+          <hash piece="78">070b5dc3c4d1f916aa06d285a473766d39058219</hash>
+          <hash piece="79">93ffe82a8f787329f9aa52355e5a997842180c4f</hash>
+          <hash piece="80">889b03c87bf4d04f3698b2aff1365d7a610b5e35</hash>
+          <hash piece="81">931c82a3c43c5e91280d3996a6eceec439785ba7</hash>
+          <hash piece="82">a408a5745f12fd15c84a4f4927a1bb8b77e9f68c</hash>
+        </pieces>
+      </verification>
+      <resources>
+        <url type="ftp" location="cz" preference="100">ftp://ftp.sh.cvut.cz/MIRRORS/desktopbsd/pub/DesktopBSD/Releases/1.6/DesktopBSD-1.6RC2-i386-CD.iso</url>
+        <url type="ftp" location="de" preference="100">ftp://ftp.desktopbsd.net/pub/DesktopBSD/Releases/1.6/DesktopBSD-1.6RC2-i386-CD.iso</url>
+        <url type="ftp" location="de" preference="100">ftp://segglsranch.org/pub/RC2/DesktopBSD-1.6RC2-i386-CD.iso</url>
+        <url type="ftp" location="no" preference="100">ftp://jane.tihlde.org/pub/DesktopBSD/pub/DesktopBSD/Releases/1.6/DesktopBSD-1.6RC2-i386-CD.iso</url>
+        <url type="ftp" location="ch" preference="100">ftp://ftp.solnet.ch/mirror/DesktopBSD/pub/DesktopBSD/Releases/1.6/DesktopBSD-1.6RC2-i386-CD.iso</url>
+      </resources>
+    </file>
+  </files>
+</metalink>

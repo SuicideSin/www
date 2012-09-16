@@ -1,0 +1,29 @@
+<?xml version="1.0" encoding="utf-8"?>
+<metalink version="3.0" generator="Metalink Generator v1.00.0037" xmlns="http://www.metalinker.org/">
+  <publisher>
+    <name>GoboLinux</name>
+    <url>http://www.gobolinux.org/</url>
+  </publisher>
+  <description>GoboLinux is an alternative Linux distribution which redefines the entire filesystem hierarchy.</description>
+  <files>
+    <file name="GoboLinux-013-i686.iso">
+      <version>13</version>
+      <os>Linux-x86</os>
+      <verification>
+        <hash type="md5">382abb49939c4ea910003b56acd82d1e</hash>
+      </verification>
+      <resources>
+        <url type="ftp" location="us" preference="100">ftp://ibiblio.org/pub/Linux/distributions/gobolinux/iso/GoboLinux-013-i686.iso</url>
+        <url type="ftp" location="pl" preference="100">ftp://sunsite.icm.edu.pl/pub/Linux/dist/gobolinux/iso/GoboLinux-013-i686.iso</url>
+        <url type="http" location="us" preference="100">http://gobo.calica.com/gobolinux-iso/GoboLinux-013-i686.iso</url>
+        <url type="http" location="de" preference="100">http://gobolinux.europnews.de/GoboLinux-013-i686.iso</url>
+        <url type="http" location="uk" preference="100">http://gobolinux.mirrors.ttllp.co.uk/GoboLinux-013-i686.iso</url>
+        <url type="http" location="us" preference="100">http://gobolinux.org/iso/GoboLinux-013-i686.iso</url>
+        <url type="http" location="us" preference="100">http://iso.gobolinux.org/GoboLinux-013-i686.iso</url>
+        <url type="http" location="au" preference="100">http://public.planetmirror.com/pub/gobolinux/GoboLinux-013-i686.iso</url>
+        <url type="http" location="se" preference="100">http://www.midgard.liu.se/~n02jonka/gobolinux/gobolinux-iso/GoboLinux-013-i686.iso</url>
+        <url type="http" location="us" preference="100">http://www.software-mirror.com/GoboLinux/GoboLinux-013-i686.iso</url>
+      </resources>
+    </file>
+  </files>
+</metalink>

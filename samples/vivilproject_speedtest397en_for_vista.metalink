@@ -1,0 +1,51 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<metalink version="3.0"
+  xmlns="http://www.metalinker.org/"
+  generator="http://metalinks.sourceforge.net/"
+  >
+<files>
+	<file name="vivilproject_speedtest397en_for_vista.exe">
+		<size>4960302</size>
+		<verification>
+			<hash type="md4">caffbc500d456cb0f12c9e9d3093eea7</hash>
+			<hash type="md5">ae0610d9d31c643f4fededc133bd13f5</hash>
+			<hash type="sha1">45c8f9b35e4991c66e60e7ef63f52e82a4f272d9</hash>
+			<hash type="sha256">2bb60aa818630e5ee1aa0100db56442691ea97e8f02e443928dbb3e7beb579b6</hash>
+			<hash type="sha384">a275ae0527eeadf6ac31d6ff8bf01ffc7cc5573b40d9cbe5976275c89cc583b4719f444c758bed91e23b36d0f9079447</hash>
+			<hash type="sha512">99be40cedab830adcbaf98970d91f7dbe818f54809a33605546400db9054b8c9a8a68a3863be2a17bbd62ffa74a6ccc7c5414200a46eeb43517f944b2ddb6b34</hash>
+			<hash type="ripemd160">0355fa0964422e18f60a0c358b26afea00e7ae3b</hash>
+			<hash type="tiger192">9dc0541cef8b7e417ebf188b06d2160eefc9374b01036084</hash>
+			<hash type="crc32">23a90543</hash>
+			<hash type="ed2k">caffbc500d456cb0f12c9e9d3093eea7</hash>
+			<pieces length="262144" type="sha1">
+				<hash piece="0">df589b59af2775f6161d60b245e20975ba77cf30</hash>
+				<hash piece="1">e87c10ab109b2420ea2b079a7ff3ae311c7969b8</hash>
+				<hash piece="2">1c069152b399925b410da290ea079378da9839b3</hash>
+				<hash piece="3">0ff577bbb54815cbf091c86f2f21ca459ce451f0</hash>
+				<hash piece="4">71e9f03be9e9846b1eb6f3e9665b61cb8ca49b2e</hash>
+				<hash piece="5">f3353fa3a4b798848a1a5124097ca6cd148b9f86</hash>
+				<hash piece="6">c570b3c4cb001d46ffa945b20ad3247801dfa0ce</hash>
+				<hash piece="7">40a64a9930fedecb99d5bbbed5e6a27b5027905e</hash>
+				<hash piece="8">f6e1bf9e914c5c69f211c7e7d35051f7183a3433</hash>
+				<hash piece="9">ff2389167dabf7b2faa8e93df6268543a8734de8</hash>
+				<hash piece="10">a16d306d8a8418fcc54ac6459e66b256bdcbebbd</hash>
+				<hash piece="11">419c6e7a39268fbee9fa310d27fe295ae31305af</hash>
+				<hash piece="12">88015a42d6813c70ecc3d1a930a12af7f26171ad</hash>
+				<hash piece="13">b1191bfb3150957284319e46d4585880d1d8252e</hash>
+				<hash piece="14">d6613ca64c6d4e6ba387d2b1fe0f9453a39e0158</hash>
+				<hash piece="15">669da2d360cd336ab8ae48bce428f018ce8fdde1</hash>
+				<hash piece="16">96bd2ec88f9856212a50e1e602ea9c37602f616e</hash>
+				<hash piece="17">30779d836d8e32c9f19859f74e5614ec576eb6e5</hash>
+				<hash piece="18">be81c135c0b5ce245af5709b3b67fd318d4302b9</hash>
+			</pieces>
+		</verification>
+		<resources>
+			<url preference="98" location="fr" type="http">http://www.willemijns.com/speedtest/vivilproject_speedtest397en_for_vista.exe</url>
+			<url preference="99" location="fr" type="http">http://vivil.free.fr/speedtest/vivilproject_speedtest397en_for_vista.exe</url>
+			<url type="magnet">magnet:?xt=urn:sha1:45c8f9b35e4991c66e60e7ef63f52e82a4f272d9&amp;dn=vivilproject_speedtest397en_for_vista.exe</url>
+			<url type="ed2k">ed2k://|file|vivilproject_speedtest397en_for_vista.exe|4960302|caffbc500d456cb0f12c9e9d3093eea7|/</url>
+			<url type="gnunet">gnunet://ecrs/chk/COALL5GLVO2JTRQJM429ARK7SQFP167IUIH2GCTUPHI8UTNUHB91V2PN66JKE6O31JVDO4D7AO8RJ7MU8LJPM5117TCDUBFTL8MCA10.U03DISR9U98S9S87ULEDLQV0E692GQDP6BD7HA0JLVTPRCSD5I1PICJUANUO3BJN5I298VS4MJAOF78JC4ELME3HHUQBT03KR0G19E0.4960302</url>
+		</resources>
+	</file>
+</files>
+</metalink>

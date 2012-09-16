@@ -1,0 +1,43 @@
+<?xml version="1.0" encoding="utf-8"?>
+<metalink version="3.0" generator="Metalink Generator v1.00.0034" xmlns="http://www.metalinker.org/">
+
+<!--
+	Metalink, an Open Standard, makes downloading easier by
+	bundling the various ways (FTP/HTTP/P2P) to get files into
+	one format for easier downloads, as well as bundling
+	checksums to automatically verify completed downloads.
+	
+	Currently the following applications support this file:
+
+    - aria2 (Linux) [ http://aria2.sourceforge.net/ ]
+	- GetRight 6 (Windows) [ http://www.getright.com/ ]
+	        
+	For further information please visit http://www.metalinker.org/
+-->
+
+  <files>
+    <file name="KNOPPIX_V5.0.1DVD-2006-06-01-EN.iso">
+      <version>5.0.1</version>
+      <language>en-US</language>
+      <os>Linux-x86</os>
+      <verification>
+        <hash type="md5">91dc0829ec6bce1caabe8bf52c3590b6</hash>
+      </verification>
+      <resources>
+        <url type="ftp" location="ro" preference="100">ftp://ftp.iasi.roedu.net/pub/mirrors/knopper.net/knoppix-dvd/KNOPPIX_V5.0.1DVD-2006-06-01-EN.iso</url>
+        <url type="ftp" location="us" preference="100">ftp://ftp.kernel.org/pub/dist/knoppix/knoppix-dvd/KNOPPIX_V5.0.1DVD-2006-06-01-EN.iso</url>
+        <url type="ftp" location="us" preference="100">ftp://ftp.kernel.org/pub/dist/knoppix-dvd/KNOPPIX_V5.0.1DVD-2006-06-01-EN.iso</url>
+        <url type="ftp" location="nl" preference="100">ftp://ftp.knoppix.nl/pub/os/Linux/distr/knoppix/DVD/KNOPPIX_V5.0.1DVD-2006-06-01-EN.iso</url>
+        <url type="ftp" location="nl" preference="100">ftp://ftp.knoppix.nl/pub/os/Linux/distr/knoppix/knoppix-dvd/KNOPPIX_V5.0.1DVD-2006-06-01-EN.iso</url>
+        <url type="ftp" location="gr" preference="100">ftp://ftp.ntua.gr/pub/linux/knoppix/DVD/KNOPPIX_V5.0.1DVD-2006-06-01-EN.iso</url>
+        <url type="ftp" location="de" preference="100">ftp://ftp.tu-ilmenau.de/Mirrors/knoppix/DVD/KNOPPIX_V5.0.1DVD-2006-06-01-EN.iso</url>
+        <url type="ftp" location="de" preference="100">ftp://ftp.uni-kl.de/pub/linux/knoppix/DVD/KNOPPIX_V5.0.1DVD-2006-06-01-EN.iso</url>
+        <url type="ftp" location="be" preference="100">ftp://ftp2.skynet.be/pub/knoppix/DVD/KNOPPIX_V5.0.1DVD-2006-06-01-EN.iso</url>
+        <url type="ftp" location="tw" preference="100">ftp://ftp4.tnc.edu.tw/pub2/KNOPPIX/knoppix-dvd/KNOPPIX_V5.0.1DVD-2006-06-01-EN.iso</url>
+        <url type="ftp" location="ch" preference="100">ftp://mirror.switch.ch/mirror/knoppix/DVD/KNOPPIX_V5.0.1DVD-2006-06-01-EN.iso</url>
+        <url type="ftp" location="de" preference="100">ftp://sunsite.informatik.rwth-aachen.de/pub/Linux/knoppix/knoppix-dvd/KNOPPIX_V5.0.1DVD-2006-06-01-EN.iso</url>
+        <url type="http" location="us" preference="100">http://www.kernel.org/pub/dist/knoppix/knoppix-dvd/KNOPPIX_V5.0.1DVD-2006-06-01-EN.iso</url>
+      </resources>
+    </file>
+  </files>
+</metalink>

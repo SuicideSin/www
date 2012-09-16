@@ -1,0 +1,372 @@
+<?xml version="1.0" encoding="utf-8"?>
+<metalink version="3.0" origin="http://download.eclipse.org/eclipse/downloads/drops/R-3.3.2-200802211800/eclipse-SDK-3.3.2-linux-gtk.tar.gz.metalink" pubdate="Fri, 29 Feb 2008 06:55:34 GMT" generator="Metalink Library 1.2" xmlns="http://www.metalinker.org/">
+  <publisher>
+    <name>Eclipse Foundation</name>
+    <url>http://www.eclipse.org/</url>
+  </publisher>
+  <license>
+    <name>Eclipse Public License</name>
+    <url>http://www.eclipse.org/legal/epl-v10.html</url>
+  </license>
+  <identity>Eclipse SDK</identity>
+  <version>3.3.2</version>
+  <description>Eclipse SDK Linux (x86/GTK 2)</description>
+  <logo>http://www.eclipse.org/artwork/images/eclipse_pos_logo_fc_sm.jpg</logo>
+  <changelog>http://www.eclipse.org/eclipse/development/readme_eclipse_3.3.2.html</changelog>
+  <files>
+    <file name="eclipse-SDK-3.3.2-linux-gtk.tar.gz">
+      <size>144571482</size>
+      <verification>
+        <hash type="ed2k">9df07c5ce4ef559e47dd8d8e7f11b96e</hash>
+        <hash type="md5">a59b9e8911e59da4cf7a5c5fc6a178e4</hash>
+        <hash type="sha1">686f6a7a8e3a85f1ec0bdb36d307ccd0cc0446b7</hash>
+        <hash type="sha256">624460c87f763b855fcddca86d969f2e4c730e654fe1a0dd69624afe576b13c8</hash>
+        <pieces type="sha1" length="524288">
+          <hash piece="0">3d0d6bd27f3bae5be0adf044be026c736a1d00bf</hash>
+          <hash piece="1">955631b66d9d06d275beaf8a59afa0dcbafc2b8f</hash>
+          <hash piece="2">735263d9aa7fa0b84c683e0b9524a1208eaa9ce2</hash>
+          <hash piece="3">64b381a6432924061e3aeffb09a6f0fea3f82b29</hash>
+          <hash piece="4">334f629b240ac81f1f0799b5f66696ca5341199b</hash>
+          <hash piece="5">5bcd42fee5eaa300c36a4033678553b7ac7ed9b8</hash>
+          <hash piece="6">2eb77b6fa2b9f87698cafeee04d97ef346df03a1</hash>
+          <hash piece="7">fd1f45729fd8ff402dac8ef1e6f6bce0580b2303</hash>
+          <hash piece="8">ece0aee889ac38fe6bc8234e29360c35be342fb2</hash>
+          <hash piece="9">f3fe188fb67483d6d6e103f4e1af0f6a3e823ff4</hash>
+          <hash piece="10">c2bd46e0cbca4fdbbb381b3183994ac07b893f05</hash>
+          <hash piece="11">43f6daef2566099308c2b53db91f0bd85a2d2d9f</hash>
+          <hash piece="12">ed7958101843e4f7c334146fc0e9d82ba2ced6ef</hash>
+          <hash piece="13">f356a6c73f9b269b9b23de0baeffedb76c953cfd</hash>
+          <hash piece="14">8e9e4fab430cf95f55832bb19dbcf315be046866</hash>
+          <hash piece="15">47e751607ffcfe7d9725e82481ebe7d4eaf56b46</hash>
+          <hash piece="16">ba65dd0bf56f7779fea56697241907aa9aebeb97</hash>
+          <hash piece="17">46929150241dc26ac359d620b949ab57eb827e92</hash>
+          <hash piece="18">d99184df4994380becd2b6f9699f72894b93f81b</hash>
+          <hash piece="19">12b8aa228f2260bba88e85f672954206e5ca28a1</hash>
+          <hash piece="20">eb803c03725752e0bd912c9676b27afd6ca6fd9b</hash>
+          <hash piece="21">bf92d58a8c32515bc5dbb110f5b42382ddd51b80</hash>
+          <hash piece="22">18a408df079522ea559e723abec50120a070e5f1</hash>
+          <hash piece="23">2159a2db01c75b912cd07369039a03d18a4bbca9</hash>
+          <hash piece="24">09356e8c295b967824dd63607d0fde4ca0468ba5</hash>
+          <hash piece="25">728f53ab240e5579b35aa16bd87c36af394b0bef</hash>
+          <hash piece="26">d3c179316ca97f8457adb48f4a975e88fc75c108</hash>
+          <hash piece="27">f17b0d65e612d3a6700bf15b7c470af67333dc8a</hash>
+          <hash piece="28">6ada39dee952e3c9c10af590357907749952a765</hash>
+          <hash piece="29">87d9ae6a05f29dca696e0dc547211f199fd9e8ad</hash>
+          <hash piece="30">85e3dc94544112a26aba19445c90ff23c0e08ed3</hash>
+          <hash piece="31">2dc4536324a99ea41a28090b2b292022bc55a258</hash>
+          <hash piece="32">e63c079e37213a70cf3b0d4df2b353e23bca6f13</hash>
+          <hash piece="33">8806d1deb33e76abaab4f463c984b01dac10c859</hash>
+          <hash piece="34">defebe2cfde82b59fdedcd4355dcc94144641662</hash>
+          <hash piece="35">912e74ecb88764db1f2f270b1b18461df389c95f</hash>
+          <hash piece="36">f46860d99432e4ff74b7b9033d1d854544f71623</hash>
+          <hash piece="37">64846e28129e21099d6d037011b82cff769916ec</hash>
+          <hash piece="38">93f9678435310c4a03d1dcd897508b3d606aaf70</hash>
+          <hash piece="39">f8a66ee9268763cf02e356d8cc033fc89ba793e8</hash>
+          <hash piece="40">2efe245d24a3b7f644d689cc0dcf5c1ec1cce857</hash>
+          <hash piece="41">7a80ecb964d2b8ac5718a1e7c2bd416c10aa4490</hash>
+          <hash piece="42">571c22c68fc0fb7a300144377e568e4313a1c0fb</hash>
+          <hash piece="43">50d3c24299cc4e158096fe441e94d3f21fe2bf8d</hash>
+          <hash piece="44">421243e9e445e6b190495e34c9397952fcafcb0b</hash>
+          <hash piece="45">7cae65891c66d0d7c0c918dcdaa6c0d138760425</hash>
+          <hash piece="46">5032fd7a050486dacc765cc7016224b539ba6695</hash>
+          <hash piece="47">550ad5695278972992c8794e710e0b255cb1634f</hash>
+          <hash piece="48">739b8ce4ee0f7babe9ac872a0d61e2bc477e15ab</hash>
+          <hash piece="49">3942ad8954a61d9a3e027bcecb6a384bf894af3f</hash>
+          <hash piece="50">922645a8c3222bae3238fc31691e6753bfabe235</hash>
+          <hash piece="51">7677b8e8f68be384a13eaa54e6707d35617b1e5a</hash>
+          <hash piece="52">a9bf3056fe84a8576d688bd3b4215c340e68323b</hash>
+          <hash piece="53">e2470e27034b4d9464e1de62136d4c51109b6339</hash>
+          <hash piece="54">ee4a27a04f8be0f4dc2c417e0fe5d0601394a319</hash>
+          <hash piece="55">776892938fd7d40ac3315fc1761172e242422d88</hash>
+          <hash piece="56">dd55e274ab897424707dadb12ed5fc5263e84641</hash>
+          <hash piece="57">7d0d1f23c247cc01e5c29baae60ae5e5e4ccddac</hash>
+          <hash piece="58">4156130f7e54cf217c4cc43d9960f80793795005</hash>
+          <hash piece="59">46dd1c4ba1996d30f9a1da6b12f66fd33e9a65f5</hash>
+          <hash piece="60">b6e52e9b24067a29abe11f022ca590acbe6c0d0b</hash>
+          <hash piece="61">ec24093903527ed5c53f97f30d7de4eeaae90a63</hash>
+          <hash piece="62">5b3736d8bbb1929be67c7a396fc3db91c808d3d4</hash>
+          <hash piece="63">715156ab3b64467ab1463ea400f26695d3ab9959</hash>
+          <hash piece="64">6a630c61ed235a66eedaa62ad4e51b8a3d221197</hash>
+          <hash piece="65">fef28049ff60b889d4b4c2246712b7bb5849b8c6</hash>
+          <hash piece="66">42dae6c5c0759eda2eb56179dd2fc3ac1b30c237</hash>
+          <hash piece="67">f30e0d522dacc90d7ebdbdfe304af221bc38b5de</hash>
+          <hash piece="68">7be14a84cc77d7fe3f88a0566dfb72011b08efe4</hash>
+          <hash piece="69">2e9c3450f8afd0eda71134be96b2937f53ce6b00</hash>
+          <hash piece="70">4738ae1a3d480e1a41b06b99ce9202e48779244d</hash>
+          <hash piece="71">339ae8c7a320120bb413b3c9ed4d20f2c427154a</hash>
+          <hash piece="72">398d2f541977d7446d241e6181fa31dd4b598b71</hash>
+          <hash piece="73">1de1194ed07083d53f7118bdfd27014556186284</hash>
+          <hash piece="74">8e5f07af122ada6b12491fb85d15daa74781751c</hash>
+          <hash piece="75">a8d339ab30110605ae23f41e5a0c45545b6ec01b</hash>
+          <hash piece="76">3949c1b3031f601a9df60df17989f0ce0a01dea4</hash>
+          <hash piece="77">e174e5c6a9aab51d34702a692bcb04c604a1bb84</hash>
+          <hash piece="78">9ea7a82febb43d5772e4aa17d8b839913fef7ca4</hash>
+          <hash piece="79">2c8ff4fc6c4cca0c3d3a4773175df628aa5f6521</hash>
+          <hash piece="80">95ead62a355aad7ac521f5f454136253cab590ef</hash>
+          <hash piece="81">82756d5a0c3ef3b536fa0f8160c0a5a41f5f198a</hash>
+          <hash piece="82">2bdeea321e04489cf09db8697d49ba2baba67e18</hash>
+          <hash piece="83">87e460991f7d5ee35191e81d50cfe8e51b591ce3</hash>
+          <hash piece="84">040cb9f2d0b62387f6cba4c42beaa2e6e6d6db64</hash>
+          <hash piece="85">b95496fc6cd74ac2eb3baa6d10cc6eb65025b700</hash>
+          <hash piece="86">1c364f95b3c32a6d1a43a71360db1206be7ce429</hash>
+          <hash piece="87">b573fcea22353520f4bd523c8d46aef21617aaa4</hash>
+          <hash piece="88">83bc667cd984c20b5fd5683a47461fd1500081b2</hash>
+          <hash piece="89">98a703c0b44088f62fe9769aa76b83c04001acb1</hash>
+          <hash piece="90">246634bdcb955b0426f57a809c79e83733749235</hash>
+          <hash piece="91">2da4be940dd8980e1593046bbd9fb66a3c22435e</hash>
+          <hash piece="92">944b210e174d38eec39ab2cf9d855bf17a304b03</hash>
+          <hash piece="93">e45473eaed83f5689363152675a559deedfe3f79</hash>
+          <hash piece="94">19c6565bd819960e076fcc05f854b961ba4b3fe4</hash>
+          <hash piece="95">73a7f7de21d59263f28ff5ecd616eeacc01943a4</hash>
+          <hash piece="96">52efc97173e82869847a356dfe724edc72c948af</hash>
+          <hash piece="97">152db2bb7a8896660a616da021d904f46a18833a</hash>
+          <hash piece="98">4b9b5b9d3bfb064ca64d97b029e28df931d8e4c0</hash>
+          <hash piece="99">d1b8cba14fc0ba94d1e2c5e0fe054c9644e60f1f</hash>
+          <hash piece="100">f39411dad9132c0ed7d3c88c4a62db2da2880c15</hash>
+          <hash piece="101">3fed593afaf0ded7879574d9b0eddc5ce9be071e</hash>
+          <hash piece="102">2d128d0964f626cbbc45a964fbee8769c5b0df5e</hash>
+          <hash piece="103">455389ebf4c9ff1b13a9263a4318eddead945ac1</hash>
+          <hash piece="104">d99828bbb13a9d095ce0a04f006cffaacb1e31b6</hash>
+          <hash piece="105">0438e90772cf5201faea1e797688e9a45651f337</hash>
+          <hash piece="106">fd00121b0d7452bc833572bc15d60e9c93e407eb</hash>
+          <hash piece="107">8744ed23351afa091ba94db5cb30225ff4996bc8</hash>
+          <hash piece="108">689e6d321723c3e87297188b60dbbcbe476dbac9</hash>
+          <hash piece="109">557d2750154ada87c0d70ce1378a2c42eb7acddb</hash>
+          <hash piece="110">19cc63e17f42348807a323ee3657b80216773f57</hash>
+          <hash piece="111">5d8fadc6de53f3f279ff44a2b4a1dd9976ac2bb0</hash>
+          <hash piece="112">a4ae659929d0f96ad9e2fc80acd89914b80d2986</hash>
+          <hash piece="113">da5d5aee9e690ff1491780eca0f59930e46d3c1b</hash>
+          <hash piece="114">61893d8393c4ad4b2371d600b35a590d6c37350f</hash>
+          <hash piece="115">2cbe2ba497c3ef87ea73b0ebba5eed12368a171e</hash>
+          <hash piece="116">52d078e6337cbece782d29a0f7a12905d8281068</hash>
+          <hash piece="117">ce0f304a664c7e7f4af4c2ae349e3799e553bae8</hash>
+          <hash piece="118">011c43d8db4f4f2a507ddb8c9e9b25e92d5938d8</hash>
+          <hash piece="119">db89a48ebdd05745e6ae2ffb0d80d5139a8f07df</hash>
+          <hash piece="120">d3fbadc7c0864a6f1efecf8be48421b5ff68c35e</hash>
+          <hash piece="121">ce18db92a5be071157703415d92972e263fe9a6b</hash>
+          <hash piece="122">42711e34cfb9c3b2bf386807d63531c3e13d0dec</hash>
+          <hash piece="123">673fdda227106a4175561982a6b51430e78e28e5</hash>
+          <hash piece="124">3455c86d452ace758503b7d91bf55e3f89ba8648</hash>
+          <hash piece="125">fae666b1bd4c48b842ebce1a65a91ef86a7f7774</hash>
+          <hash piece="126">b16de94d048ade8f615db319780478903aa68f8c</hash>
+          <hash piece="127">eeb279dd9f4a5c469cfdf4fab67f9260babb8105</hash>
+          <hash piece="128">2ed3e879e4b0d7cb6b673b00a7b0800b82f75168</hash>
+          <hash piece="129">3a9d737ad9493dc78f48ebed3be6023272c133ed</hash>
+          <hash piece="130">ce38341999b4fcce549f3dbfbc6e95346b88f5a3</hash>
+          <hash piece="131">fe9d66aff0b3219b335468b9280eb09725148525</hash>
+          <hash piece="132">672d946b09e55ebeb979036e539f6c4a0f2009ee</hash>
+          <hash piece="133">95e359127407e4f8d8f3b44bbf8221821d24b339</hash>
+          <hash piece="134">dde4c1a760d88cf9ccbc9076ab6a0c5180381d20</hash>
+          <hash piece="135">9fa80e3f05e460b5f7fd6cb803888f872780ea6a</hash>
+          <hash piece="136">008863710229ca117358b0affbfb2d2b8da3598d</hash>
+          <hash piece="137">286511a53708e02f65d4cbd5b6bdcf103237eb45</hash>
+          <hash piece="138">dfbccc021bc894fce79b5bdf26b7c76c86b6d714</hash>
+          <hash piece="139">4e6465cbcab4be103ee1cdb679cf37b41c3536f0</hash>
+          <hash piece="140">cb529c3457eb8c1aa750105d1153c9e44bd35e29</hash>
+          <hash piece="141">ca7ef29c49559d6cee0f1e669ee64f5a72e89af2</hash>
+          <hash piece="142">5c67a61eb0b764c103379e00819feac69aae59cb</hash>
+          <hash piece="143">92b36b6d3b0222c207173d2dc251fc590cb11564</hash>
+          <hash piece="144">e49d374668d6757b5bff42972c4980499d72ea91</hash>
+          <hash piece="145">f42f90f4d4f964327b402fb8f2b3eeb9507aaa1f</hash>
+          <hash piece="146">3b54089301d72bd00940d24a20d629a90d883f91</hash>
+          <hash piece="147">5d6af676d1709278a2efbf22f5e5ba6f65f6ead9</hash>
+          <hash piece="148">c855827ca40ef8c1e56737529bff9e7b9302fe6a</hash>
+          <hash piece="149">a983e70227a4ae04ee436e51befc6c423ca40c51</hash>
+          <hash piece="150">cc64e70186e881ab29fd6ca1e5dcaa30fa5be335</hash>
+          <hash piece="151">dfefab1c7975c2fa1bc54124df7547b6c786198a</hash>
+          <hash piece="152">486c57fdf173eb7c9d79f692e3d738e3f10cb048</hash>
+          <hash piece="153">60da567c7cf293100982b5585d3aef408d818f12</hash>
+          <hash piece="154">ce03e4a958e02fb1a939557971c1ce11a6cdaaa7</hash>
+          <hash piece="155">7d68a19acbaf5f0ca83119aef28b525858d34b1e</hash>
+          <hash piece="156">5ffa68a273e2afdffe872d121f48837d9e6e5b89</hash>
+          <hash piece="157">b276b019705308ac4adcde6fa742a2c8d73c101a</hash>
+          <hash piece="158">b3ed9e950a2a0f103e3a763c40befff461467ba4</hash>
+          <hash piece="159">dfc5f632c6010e018b0545f3634670e264e53964</hash>
+          <hash piece="160">65abc634b501428deb3f938eb6b82af35098690c</hash>
+          <hash piece="161">7f02299a1fa5e8f6b47adf89d8fffb6721b5d9b7</hash>
+          <hash piece="162">ca05ad6c0095d3ae2b4b1c0e2c27fb59f5722fb8</hash>
+          <hash piece="163">e9a64c82a94fc9e55f2f7186cd7a570d4fd67599</hash>
+          <hash piece="164">979fbc289567a610730cdc14763b5d537d7db9d6</hash>
+          <hash piece="165">27fc62a95995a1bce4676fb73b8032cfde7fd64f</hash>
+          <hash piece="166">9287aa65b3500f73f3cbdd5653efa541ce8e1126</hash>
+          <hash piece="167">57c19f14bf2ee2f7c4100819491e77f811b95760</hash>
+          <hash piece="168">065b586cf7a8a5e587aa25b124cd36387b656b84</hash>
+          <hash piece="169">8806ea87d60f9bf957abc4df79d626a28202c56d</hash>
+          <hash piece="170">39dd63dcb164f2b051a114d1bb09a8405d6e351a</hash>
+          <hash piece="171">20e786b6fea604a17253b5e2e5a303f028eab523</hash>
+          <hash piece="172">d30c5dd261fb10fa022dd1a6440a4315775e4869</hash>
+          <hash piece="173">42bdf86d0809f337718004bb42e4e22e3e668f9e</hash>
+          <hash piece="174">4d7e49591e1ab08929a0b2f7075a5d768cc46f55</hash>
+          <hash piece="175">d4757c78319fb254d07ce4b2d7c101b002406bba</hash>
+          <hash piece="176">4ff5532fb59c58d4aec2d88a4e525f0dd4b02eb8</hash>
+          <hash piece="177">68e5ceedfaf8028c31d0fe2c47f88f43b12ee622</hash>
+          <hash piece="178">acaaca0c813563b3d7fcdda12a43a4ff17e630fe</hash>
+          <hash piece="179">6e6459821c817eef477901914f29f020591fa10a</hash>
+          <hash piece="180">acd8380ff2fc7739333325329f9b76b71e0aab01</hash>
+          <hash piece="181">70da2908c2ebb70ab2fdc1de15d0840565972f8c</hash>
+          <hash piece="182">726ace1f501a1d5052414555012c911288581db5</hash>
+          <hash piece="183">b203a4b27bf6773830f2731f585c01e62b39480f</hash>
+          <hash piece="184">07c825cd35af2c8a9dffc9e47ff48bc3a8781a67</hash>
+          <hash piece="185">1f7bc7322530101f9c8e355f9cc00140687216ac</hash>
+          <hash piece="186">d244c0439abfacfe9b7e86d675fdea23c65e2b3b</hash>
+          <hash piece="187">c47ac71cba6c6672f70cf8d946c0a3931140e8d7</hash>
+          <hash piece="188">59438a193716f119bd76a951586e8bb426d5090d</hash>
+          <hash piece="189">1312aaea99dbba6e0168886a4d5ba9f9fc5b96e0</hash>
+          <hash piece="190">cc3ce9e9a3ab60dfaa3bd6e3002a2463ad021038</hash>
+          <hash piece="191">bfbacd1f50318b07e960287b9df5b8a5e12c3d6c</hash>
+          <hash piece="192">13373a276cb04a1a980a57044b17cb5638879abc</hash>
+          <hash piece="193">8b6f407d4dc4a5a59a46ccf4cdff3bded2761725</hash>
+          <hash piece="194">7f3e9753c192cf447d12f12dfe30ac041f29e2eb</hash>
+          <hash piece="195">c8f8e68579c9b1e2962c8d8a77c04bae95972287</hash>
+          <hash piece="196">b585063294843f1c6db75ac8cf983c30f485325a</hash>
+          <hash piece="197">fb09813bd460038824c5ea41385fc64f6514af74</hash>
+          <hash piece="198">d644ec710bf43968f3f4afb605d45d3a649f4da8</hash>
+          <hash piece="199">d8b640f60c77a8aaf26ecf7720a7ce29c4263312</hash>
+          <hash piece="200">87132c1dd2c9a2e893e0d36be68759d0c56995d3</hash>
+          <hash piece="201">02732cab9172c4755df3a4ea9c606213e74ec0fc</hash>
+          <hash piece="202">abdfb2dc58fe4a84fb79c256baf86276a70a659a</hash>
+          <hash piece="203">d400bf1fc1eac692005750bfe8cbcf17d3cfc8b9</hash>
+          <hash piece="204">cc71459a2ca5cfea315d52e524953efa1954c98a</hash>
+          <hash piece="205">eddab4e052a4460127c29d419fba4dd308554962</hash>
+          <hash piece="206">8f09520cafa875fc825e0037917f8371c9b44c26</hash>
+          <hash piece="207">6d3ee9f07836c21d843b0a145a180c6d6d1af300</hash>
+          <hash piece="208">2cec6c276dab15392d07f81840c784a0c4e34f20</hash>
+          <hash piece="209">2df3736d8bfb79d1f8d16207cd617de9656f257a</hash>
+          <hash piece="210">f071a881100c13b08564db19410699bb6124c1e1</hash>
+          <hash piece="211">b112c81cfc6404cb8b5f709679614e66b6cbfe7d</hash>
+          <hash piece="212">48585245dcabeef8a9f2a0f317266959e5d254c9</hash>
+          <hash piece="213">53dd31fbac10cdb92844c5ff162a57d7208fe32d</hash>
+          <hash piece="214">56d5c6da131405c94cfe5b741214c79e19b52549</hash>
+          <hash piece="215">5269bf714e414eaa9cc6b108f62461f66b684681</hash>
+          <hash piece="216">c09e73fe9f6da03703d9bc45e3577120349589d7</hash>
+          <hash piece="217">58fee51f09576421ead8c2c99f312af7a8a0e155</hash>
+          <hash piece="218">55f70f700acbc9858d3611e40e95a48df6cd5cfb</hash>
+          <hash piece="219">975e0af216116ef227293c8ce1293eff86e33b8b</hash>
+          <hash piece="220">60d8780a1e7fd81647125e65b296c994b149ec69</hash>
+          <hash piece="221">c12f46d5ca482e891bd118a4b5642e539a964bec</hash>
+          <hash piece="222">49bad607fe437840e0f0db91f18a3b7e69905b10</hash>
+          <hash piece="223">f70247728e3157ce2f4469b7d42ca6aac02a06f5</hash>
+          <hash piece="224">581e940566708c477a45795c085fe1e6a122f184</hash>
+          <hash piece="225">6aeda062ce4bb6c9b208d406bf8ea8b9b7887307</hash>
+          <hash piece="226">1a2f46b9702a3c0fec990138a600eb550b3d5deb</hash>
+          <hash piece="227">2ea1995012cd21ca2b73a57ac1b13015abb7238a</hash>
+          <hash piece="228">e711c11aaa19e933e57d76235a251afc8177ed2b</hash>
+          <hash piece="229">973e9598bdaa9b5baa96af45e1ed378f2774b90a</hash>
+          <hash piece="230">2cd4faa0705a32fcbff83d76e3adadd339fab1f6</hash>
+          <hash piece="231">7189a0c9461741f22318f7fbf60725e2841bafc5</hash>
+          <hash piece="232">6fdbf4bee5170607d3ba1be7343e7cb402095cee</hash>
+          <hash piece="233">bf9c105134424551c8f4c82cb529ca257a5408ed</hash>
+          <hash piece="234">21db67495206db40a7f694ffac496ad32f386d72</hash>
+          <hash piece="235">01d3471f9ede91447ba38f34adff66be1568f213</hash>
+          <hash piece="236">d10e76b0f16ab34d075e15441e31c7eba9a6a900</hash>
+          <hash piece="237">28deae399878115a4d31210a67dc9d47f155530f</hash>
+          <hash piece="238">ef0ceee9a65c15acbbf27349a39bd81ee6f14ad6</hash>
+          <hash piece="239">4f7878bbac131dbb87cec04d14d1b9c11817c624</hash>
+          <hash piece="240">8fa4797efae097d40e8057429b1422ff549ed472</hash>
+          <hash piece="241">e9cde0efe74f4a1e5ecf2d2dad0e56fa19616aea</hash>
+          <hash piece="242">2b445acddc062c6e5e20dea18c12b36f52e6ec59</hash>
+          <hash piece="243">ddc9fefe2cbc7ee8e8b7a5c869aed687ad496786</hash>
+          <hash piece="244">7d960e5c435b735138b1593db983d3144b7160d5</hash>
+          <hash piece="245">0c5c25d33bde1380912927bd496533df1b31a035</hash>
+          <hash piece="246">d94c4baa7cf29a625f0a82812209efc7425e2b80</hash>
+          <hash piece="247">ecf27867ffe928f05237da7993f4642f6c029b87</hash>
+          <hash piece="248">6350b7c8c43bcaad677f1f6e1e64b2a87ded29b7</hash>
+          <hash piece="249">e6dafad68f72485fe23d72800b235201e190285d</hash>
+          <hash piece="250">078c48f231468f7455998ef3e600cb10bd6b247a</hash>
+          <hash piece="251">e6882fcde6ffd174ea0e16947f51af84de5997da</hash>
+          <hash piece="252">773e1c7c4a9c09f5c09ecc90f995eee858ce270f</hash>
+          <hash piece="253">3eec03eb23ef11d5adc74193a8c41b97f47b0929</hash>
+          <hash piece="254">5a59807b4079828417b825e9ea2728d5cbb764e6</hash>
+          <hash piece="255">28fea05b6243f5e5db30f52e5fbc9380e1ec67dc</hash>
+          <hash piece="256">7ac6b114feb5536a331d53cc9d773d03c48c476a</hash>
+          <hash piece="257">a0d640d770492bf8eb9889e999e4412b37059bff</hash>
+          <hash piece="258">5f1a2ce9ff7441d90a1adddede89f67bd7c49747</hash>
+          <hash piece="259">620f09645a192a7df68cc71812a4bb261d5b29a5</hash>
+          <hash piece="260">31f8a3da49a9ef362da2884289f4bc9235e66b5f</hash>
+          <hash piece="261">1ed755f2a7e47760eaef39af01498d68f0aef0c1</hash>
+          <hash piece="262">6c2290be3ba8a17e76d0c06f46553acaf8f803f7</hash>
+          <hash piece="263">52a5ab3921d4d99525adf33d718ea6fe1a491748</hash>
+          <hash piece="264">08dac5643d3e70acf3320e19a86f40cf6010b70d</hash>
+          <hash piece="265">67cd21878ce00f4e436f24a6ef1d055a0df1781f</hash>
+          <hash piece="266">21b207de199d44c735066abbcd9cae972d8b32de</hash>
+          <hash piece="267">eebb49b8524b39646079384363ff9e6c1a5fe98c</hash>
+          <hash piece="268">a159b4901e061b329deebaa372b87d30247a0943</hash>
+          <hash piece="269">b66f81c8076563b834c96305a65da0e796a9d5fa</hash>
+          <hash piece="270">77e45ee13e3abc9caf3cfba4c5d2d66ae5d9711b</hash>
+          <hash piece="271">77887d45ec25e67cd296dc01cdc3b60aa1d5c279</hash>
+          <hash piece="272">55e9728cc1d289ad29572fe439bd32fcc3e1e37c</hash>
+          <hash piece="273">0ea115889a116f2679372e5169aa9893b3578526</hash>
+          <hash piece="274">d8e983b4a5a6fdb195c43bc2c230b5f51d300e2d</hash>
+          <hash piece="275">b68bdb5bce325b77e165df98f7e24c1c4e6b0dcf</hash>
+        </pieces>
+      </verification>
+      <resources>
+        <url type="http" location="de" preference="10">http://sunsite.informatik.rwth-aachen.de/eclipse/downloads/drops/R-3.3.2-200802211800/eclipse-SDK-3.3.2-linux-gtk.tar.gz</url>
+        <url type="http" location="de" preference="10">http://ftp-stud.fht-esslingen.de/pub/Mirrors/eclipse/eclipse/downloads/drops/R-3.3.2-200802211800/eclipse-SDK-3.3.2-linux-gtk.tar.gz</url>
+        <url type="http" location="de" preference="10">http://ftp.wh2.tu-dresden.de/pub/mirrors/eclipse/eclipse/downloads/drops/R-3.3.2-200802211800/eclipse-SDK-3.3.2-linux-gtk.tar.gz</url>
+        <url type="http" location="de" preference="10">http://mirror.yoxos-eclipse-distribution.de/eclipse.org/eclipse/downloads/drops/R-3.3.2-200802211800/eclipse-SDK-3.3.2-linux-gtk.tar.gz</url>
+        <url type="ftp" location="de" preference="10">ftp://ftp.wh2.tu-dresden.de/pub/mirrors/eclipse/eclipse/downloads/drops/R-3.3.2-200802211800/eclipse-SDK-3.3.2-linux-gtk.tar.gz</url>
+        <url type="ftp" location="de" preference="10">ftp://sunsite.informatik.rwth-aachen.de/pub/mirror/eclipse/R-3.3.2-200802211800/eclipse-SDK-3.3.2-linux-gtk.tar.gz</url>
+        <url type="http" location="ch" preference="10">http://mirror.switch.ch/eclipse/eclipse/downloads/drops/R-3.3.2-200802211800/eclipse-SDK-3.3.2-linux-gtk.tar.gz</url>
+        <url type="http" location="gb" preference="10">http://www.mirrorservice.org/sites/download.eclipse.org/eclipseMirror/eclipse/downloads/drops/R-3.3.2-200802211800/eclipse-SDK-3.3.2-linux-gtk.tar.gz</url>
+        <url type="http" location="tr" preference="10">http://eclipse.ulak.net.tr/eclipseMirror/eclipse/downloads/drops/R-3.3.2-200802211800/eclipse-SDK-3.3.2-linux-gtk.tar.gz</url>
+        <url type="http" location="fr" preference="10">http://eclipse.linuxant.fr/eclipse/downloads/drops/R-3.3.2-200802211800/eclipse-SDK-3.3.2-linux-gtk.tar.gz</url>
+        <url type="http" location="se" preference="10">http://eclipse.comactivity.net/eclipse/downloads/drops/R-3.3.2-200802211800/eclipse-SDK-3.3.2-linux-gtk.tar.gz</url>
+        <url type="http" location="it" preference="10">http://rm.mirror.garr.it/mirrors/eclipse/eclipse/downloads/drops/R-3.3.2-200802211800/eclipse-SDK-3.3.2-linux-gtk.tar.gz</url>
+        <url type="http" location="ie" preference="10">http://ftp.heanet.ie/pub/eclipse//eclipse/downloads/drops/R-3.3.2-200802211800/eclipse-SDK-3.3.2-linux-gtk.tar.gz</url>
+        <url type="http" location="gr" preference="10">http://ftp.ntua.gr/mirror/eclipse/eclipse/downloads/drops/R-3.3.2-200802211800/eclipse-SDK-3.3.2-linux-gtk.tar.gz</url>
+        <url type="http" location="be" preference="10">http://eclipse.a3-system.be/eclipse/downloads/drops/R-3.3.2-200802211800/eclipse-SDK-3.3.2-linux-gtk.tar.gz</url>
+        <url type="http" location="pl" preference="10">http://www.eclipse.ps.pl/downloads/drops/R-3.3.2-200802211800/eclipse-SDK-3.3.2-linux-gtk.tar.gz</url>
+        <url type="http" location="hu" preference="10">http://eclipse.i-logic.hu//eclipse/downloads/drops/R-3.3.2-200802211800/eclipse-SDK-3.3.2-linux-gtk.tar.gz</url>
+        <url type="http" location="pl" preference="10">http://ftp.man.poznan.pl/eclipse/eclipse/downloads/drops/R-3.3.2-200802211800/eclipse-SDK-3.3.2-linux-gtk.tar.gz</url>
+        <url type="http" location="pt" preference="10">http://eclipse.dcc.fc.up.pt/eclipse/downloads/drops/R-3.3.2-200802211800/eclipse-SDK-3.3.2-linux-gtk.tar.gz</url>
+        <url type="http" location="at" preference="10">http://gd.tuwien.ac.at/softeng/eclipse/R-3.3.2-200802211800/eclipse-SDK-3.3.2-linux-gtk.tar.gz</url>
+        <url type="http" location="cz" preference="10">http://ftp.sh.cvut.cz/MIRRORS/eclipse/eclipse/downloads/drops/R-3.3.2-200802211800/eclipse-SDK-3.3.2-linux-gtk.tar.gz</url>
+        <url type="http" location="se" preference="10">http://ftp.ing.umu.se/mirror/eclipse/eclipse/downloads/drops/R-3.3.2-200802211800/eclipse-SDK-3.3.2-linux-gtk.tar.gz</url>
+        <url type="ftp" location="no" preference="10">ftp://ftp.uninett.no/pub/eclipse/eclipse/downloads/drops/R-3.3.2-200802211800/eclipse-SDK-3.3.2-linux-gtk.tar.gz</url>
+        <url type="ftp" location="it" preference="10">ftp://rm.mirror.garr.it/mirrors/eclipse/eclipse/downloads/drops/R-3.3.2-200802211800/eclipse-SDK-3.3.2-linux-gtk.tar.gz</url>
+        <url type="ftp" location="cz" preference="10">ftp://ftp.sh.cvut.cz/MIRRORS/eclipse/eclipse/downloads/drops/R-3.3.2-200802211800/eclipse-SDK-3.3.2-linux-gtk.tar.gz</url>
+        <url type="ftp" location="gr" preference="10">ftp://ftp.ntua.gr/mirror/eclipse/eclipse/downloads/drops/R-3.3.2-200802211800/eclipse-SDK-3.3.2-linux-gtk.tar.gz</url>
+        <url type="ftp" location="ie" preference="10">ftp://ftp.heanet.ie/pub/eclipse//eclipse/downloads/drops/R-3.3.2-200802211800/eclipse-SDK-3.3.2-linux-gtk.tar.gz</url>
+        <url type="ftp" location="gb" preference="10">ftp://ftp.mirrorservice.org/sites/download.eclipse.org/eclipseMirror/eclipse/downloads/drops/R-3.3.2-200802211800/eclipse-SDK-3.3.2-linux-gtk.tar.gz</url>
+        <url type="ftp" location="pl" preference="10">ftp://ftp.man.poznan.pl/pub/eclipse/eclipse/downloads/drops/R-3.3.2-200802211800/eclipse-SDK-3.3.2-linux-gtk.tar.gz</url>
+        <url type="ftp" location="pt" preference="10">ftp://ftp.inescn.pt/pub/util/eclipse/eclipse/downloads/drops/R-3.3.2-200802211800/eclipse-SDK-3.3.2-linux-gtk.tar.gz</url>
+        <url type="ftp" location="se" preference="10">ftp://ftp.ing.umu.se/mirror/eclipse/eclipse/downloads/drops/R-3.3.2-200802211800/eclipse-SDK-3.3.2-linux-gtk.tar.gz</url>
+        <url type="ftp" location="at" preference="10">ftp://gd.tuwien.ac.at/softeng/eclipse/R-3.3.2-200802211800/eclipse-SDK-3.3.2-linux-gtk.tar.gz</url>
+        <url type="ftp" location="tr" preference="10">ftp://ftp.ulak.net.tr/eclipse/eclipseMirror/eclipse/downloads/drops/R-3.3.2-200802211800/eclipse-SDK-3.3.2-linux-gtk.tar.gz</url>
+        <url type="http" location="cn" preference="10">http://download.actuatechina.com/eclipse/eclipse/downloads/drops/R-3.3.2-200802211800/eclipse-SDK-3.3.2-linux-gtk.tar.gz</url>
+        <url type="http" location="id" preference="10">http://anak.kambing.vlsm.org/eclipse/eclipse/downloads/drops/R-3.3.2-200802211800/eclipse-SDK-3.3.2-linux-gtk.tar.gz</url>
+        <url type="ftp" location="id" preference="10">ftp://anak.kambing.vlsm.org/eclipse/eclipse/downloads/drops/R-3.3.2-200802211800/eclipse-SDK-3.3.2-linux-gtk.tar.gz</url>
+        <url type="http" location="jp" preference="10">http://ftp.jaist.ac.jp/pub/eclipse/eclipse/downloads/drops/R-3.3.2-200802211800/eclipse-SDK-3.3.2-linux-gtk.tar.gz</url>
+        <url type="ftp" location="jp" preference="10">ftp://ftp.jaist.ac.jp/pub/eclipse/eclipse/downloads/drops/R-3.3.2-200802211800/eclipse-SDK-3.3.2-linux-gtk.tar.gz</url>
+        <url type="ftp" location="jp" preference="10">ftp://ftp.u-aizu.ac.jp/pub/eclipse/eclipse/downloads/drops/R-3.3.2-200802211800/eclipse-SDK-3.3.2-linux-gtk.tar.gz</url>
+        <url type="http" location="kr" preference="10">http://eclipse.areum.biz/downloads/drops/R-3.3.2-200802211800/eclipse-SDK-3.3.2-linux-gtk.tar.gz</url>
+        <url type="http" location="kr" preference="10">http://ftp.daum.net/eclipse/eclipse/downloads/drops/R-3.3.2-200802211800/eclipse-SDK-3.3.2-linux-gtk.tar.gz</url>
+        <url type="ftp" location="kr" preference="10">ftp://ftp.daum.net/eclipse/eclipse/downloads/drops/R-3.3.2-200802211800/eclipse-SDK-3.3.2-linux-gtk.tar.gz</url>
+        <url type="http" location="kr" preference="10">http://ftp.kaist.ac.kr/pub/eclipse/eclipse/downloads/drops/R-3.3.2-200802211800/eclipse-SDK-3.3.2-linux-gtk.tar.gz</url>
+        <url type="ftp" location="kr" preference="10">ftp://ftp.kaist.ac.kr/eclipse/eclipse/downloads/drops/R-3.3.2-200802211800/eclipse-SDK-3.3.2-linux-gtk.tar.gz</url>
+        <url type="http" location="tw" preference="10">http://eclipse.stu.edu.tw/eclipse/downloads/drops/R-3.3.2-200802211800/eclipse-SDK-3.3.2-linux-gtk.tar.gz</url>
+        <url type="ftp" location="tw" preference="10">ftp://eclipse.stu.edu.tw/eclipse/eclipse/downloads/drops/R-3.3.2-200802211800/eclipse-SDK-3.3.2-linux-gtk.tar.gz</url>
+        <url type="http" location="tw" preference="10">http://eclipse.cdpa.nsysu.edu.tw/downloads/drops/R-3.3.2-200802211800/eclipse-SDK-3.3.2-linux-gtk.tar.gz</url>
+        <url type="http" location="ca" preference="10">http://gulus.USherbrooke.ca/pub/appl/eclipse/eclipse/downloads/drops/R-3.3.2-200802211800/eclipse-SDK-3.3.2-linux-gtk.tar.gz</url>
+        <url type="http" location="us" preference="10">http://mirror.calvin.edu/eclipse/downloads/drops/R-3.3.2-200802211800/eclipse-SDK-3.3.2-linux-gtk.tar.gz</url>
+        <url type="http" location="us" preference="10">http://mirrors.cat.pdx.edu/eclipse/eclipse/downloads/drops/R-3.3.2-200802211800/eclipse-SDK-3.3.2-linux-gtk.tar.gz</url>
+        <url type="http" location="us" preference="10">http://mirrors.ibiblio.org/pub/mirrors/eclipse/eclipse/downloads/drops/R-3.3.2-200802211800/eclipse-SDK-3.3.2-linux-gtk.tar.gz</url>
+        <url type="http" location="us" preference="10">http://ftp.ussg.iu.edu/eclipse/eclipse/downloads/drops/R-3.3.2-200802211800/eclipse-SDK-3.3.2-linux-gtk.tar.gz</url>
+        <url type="ftp" location="us" preference="10">ftp://ftp.ussg.iu.edu/pub/eclipse/eclipse/downloads/drops/R-3.3.2-200802211800/eclipse-SDK-3.3.2-linux-gtk.tar.gz</url>
+        <url type="http" location="us" preference="10">http://ftp.osuosl.org/pub/eclipse/eclipse/downloads/drops/R-3.3.2-200802211800/eclipse-SDK-3.3.2-linux-gtk.tar.gz</url>
+        <url type="ftp" location="us" preference="10">ftp://ftp.osuosl.org/pub/eclipse/eclipse/downloads/drops/R-3.3.2-200802211800/eclipse-SDK-3.3.2-linux-gtk.tar.gz</url>
+        <url type="http" location="us" preference="10">http://eclipse.mirrors.tds.net/downloads/drops/R-3.3.2-200802211800/eclipse-SDK-3.3.2-linux-gtk.tar.gz</url>
+        <url type="ftp" location="us" preference="10">ftp://eclipse.mirrors.tds.net/pub/eclipse.org/eclipse/downloads/drops/R-3.3.2-200802211800/eclipse-SDK-3.3.2-linux-gtk.tar.gz</url>
+        <url type="ftp" location="us" preference="10">ftp://ftp.cse.buffalo.edu/pub/Eclipse/eclipse/downloads/drops/R-3.3.2-200802211800/eclipse-SDK-3.3.2-linux-gtk.tar.gz</url>
+        <url type="http" location="us" preference="10">http://mirror.uta.edu/eclipse/eclipse/downloads/drops/R-3.3.2-200802211800/eclipse-SDK-3.3.2-linux-gtk.tar.gz</url>
+        <url type="http" location="us" preference="10">http://eclipse.unixheads.org/eclipse/downloads/drops/R-3.3.2-200802211800/eclipse-SDK-3.3.2-linux-gtk.tar.gz</url>
+        <url type="ftp" location="us" preference="10">ftp://eclipse.unixheads.org/eclipse/eclipse/downloads/drops/R-3.3.2-200802211800/eclipse-SDK-3.3.2-linux-gtk.tar.gz</url>
+        <url type="http" location="us" preference="10">http://www.software-mirror.com/eclipse/eclipse/downloads/drops/R-3.3.2-200802211800/eclipse-SDK-3.3.2-linux-gtk.tar.gz</url>
+        <url type="http" location="br" preference="10">http://mirrors.uol.com.br/pub/eclipse.org/eclipse/downloads/drops/R-3.3.2-200802211800/eclipse-SDK-3.3.2-linux-gtk.tar.gz</url>
+        <url type="ed2k" preference="95">ed2k://|file|eclipse-SDK-3.3.2-linux-gtk.tar.gz|144571482|9DF07C5CE4EF559E47DD8D8E7F11B96E|/</url>
+        <url type="magnet" preference="90">magnet:?dn=eclipse-SDK-3.3.2-linux-gtk.tar.gz&amp;xl=144571482&amp;xt=urn:sha1:686F6A7A8E3A85F1EC0BDB36D307CCD0CC0446B7&amp;xt=urn:ed2k:9df07c5ce4ef559e47dd8d8e7f11b96e</url>
+      </resources>
+    </file>
+  </files>
+</metalink>

@@ -1,0 +1,39 @@
+<?xml version="1.0" encoding="utf-8"?>
+<metalink version="3.0" generator="Metalink Generator v1.00.0034" xmlns="http://www.metalinker.org/">
+
+<!--
+	Metalink, an Open Standard, makes downloading easier by
+	bundling the various ways (FTP/HTTP/P2P) to get files into
+	one format for easier downloads, as well as bundling
+	checksums to automatically verify completed downloads.
+	
+	Currently the following applications support this file:
+	        
+	- GetRight 6.0 (http://www.getright.com/)
+	        
+	For further information please visit http://www.metalinker.org/
+-->
+
+  <publisher>
+    <name>Berkeley Open Infrastructure for Network Computing</name>
+    <url>http://boinc.berkeley.edu</url>
+  </publisher>
+  <description>BOINC lets you donate computing power to scientific research projects.</description>
+  <files>
+    <file name="boinc_5.4.11_windows_intelx86.exe">
+      <version>5.4.11</version>
+      <language>en-US</language>
+      <os>Windows-x86</os>
+      <verification>
+        <hash type="md5">56d4ce0f821284bee56c7c9a619f4dce</hash>
+      </verification>
+      <resources>
+        <url type="http" location="us" preference="100">http://boinc.berkeley.edu/dl/boinc_5.4.11_windows_intelx86.exe</url>
+        <url type="http" location="de" preference="100">http://einstein.aei.mpg.de/download/boinc/dl/boinc_5.4.11_windows_intelx86.exe</url>
+        <url type="http" location="us" preference="100">http://einstein.aset.psu.edu/download/boinc/dl/boinc_5.4.11_windows_intelx86.exe</url>
+        <url type="http" location="uk" preference="100">http://einstein.astro.gla.ac.uk/download/boinc/dl/boinc_5.4.11_windows_intelx86.exe</url>
+        <url type="http" location="us" preference="100">http://morel.mit.edu/download/boinc/dl/boinc_5.4.11_windows_intelx86.exe</url>
+      </resources>
+    </file>
+  </files>
+</metalink>

@@ -1,0 +1,138 @@
+<?xml version="1.0" encoding="utf-8"?>
+<metalink version="3.0" generator="Metalink Editor version 0.4.1" xmlns="http://www.metalinker.org/">
+  <publisher>
+    <name>Ubuntu Studio</name>
+    <url>http://www.ubustu.com/</url>
+  </publisher>
+  <identity>Ubuntu Studio</identity>
+  <version>7.04</version>
+  <files>
+    <file name="ubuntustudio-7.04-alternate-i386.iso">
+      <size>909676544</size>
+      <os>Linux-x86</os>
+      <verification>
+        <hash type="md5">3f17b4cc73ab315e4f9d1be675a8f7b0</hash>
+        <hash type="sha1">af4aa22494df569be01fa9b54666c3fdbec902a6</hash>
+        <pieces type="sha1" length="8388608">
+          <hash piece="0">be37cf911b6d70b51bfc375aae6cef568b1d8f62</hash>
+          <hash piece="1">8e74ca37b47e7f5057456ddfee4f71746641654b</hash>
+          <hash piece="2">a7a9eb76b5205735938d0e15515d7a5992301394</hash>
+          <hash piece="3">c1ac59aa47f0d782706c30158bba372d31cb46b3</hash>
+          <hash piece="4">6dcc4155b73b7b9465f4519d638224683dc59743</hash>
+          <hash piece="5">d04031263aec192c206c89261db52694acdfdb9d</hash>
+          <hash piece="6">ebd9f5a03500b92e437e582303c1baa65ae904a3</hash>
+          <hash piece="7">98e58f21c9b92bad766bad45968ad177554d88d0</hash>
+          <hash piece="8">0e05f1dfae328bbf797ba6ab7ff52fb692680f19</hash>
+          <hash piece="9">0456c7407e72d5f4588fceec71cea968ed8de853</hash>
+          <hash piece="10">3894ddfa3ffeacf72104c4e693898b3ce2358502</hash>
+          <hash piece="11">ba9bade47d3742eb32c4ceb5d45310ae3cd5782a</hash>
+          <hash piece="12">cadb9d36362e97a089fb04aef9515945dec00531</hash>
+          <hash piece="13">5f6b4daaf44b35261ccd9a3ff9a8a19e2d32ab72</hash>
+          <hash piece="14">a52303690050d5e3f139fd79e6b27e19207b425a</hash>
+          <hash piece="15">fc4cb8d91414a48f5f7a3344707712cbcb7fc689</hash>
+          <hash piece="16">d49fafc5197dcf1ab7f6daeb771f1d74883e2f66</hash>
+          <hash piece="17">e1ffea3340bddb976961e1949a9ab20da2471c67</hash>
+          <hash piece="18">91fe6dc6b0d2d67f6f9f8f198f11831216dcd1bc</hash>
+          <hash piece="19">73d94f6668586607aa2b56ba3b43ac83bb7a571b</hash>
+          <hash piece="20">afc1671680f7c3f8089545825bfd7ea0daeb389c</hash>
+          <hash piece="21">3dd53d9275c00841ea930b509dddede126ee0bad</hash>
+          <hash piece="22">48accde849206f1b31c8069e5d3d1e97a338b980</hash>
+          <hash piece="23">0a744837e39d2bbb28d5bf3d1d2367013f9502cf</hash>
+          <hash piece="24">b1553f7d21fc1ff189f951b33e3f0f44d111230d</hash>
+          <hash piece="25">e42eec61bee2d669c574d7b5bea4bfbd9c41a868</hash>
+          <hash piece="26">6e63a3a050ab4d19fcf29524789406bde02c2eeb</hash>
+          <hash piece="27">d6df25c3a4d4b22783a6204fce418117fb2977d3</hash>
+          <hash piece="28">43cd87d81270f03a1514302c6bbdb0632182080a</hash>
+          <hash piece="29">e49d7aafb6657df065eb8382c2103caa18d510bc</hash>
+          <hash piece="30">6a1ddf2e86d9fbd729c7f0c32c134ca3f9f05184</hash>
+          <hash piece="31">7e4f88e7b222294b201af3af25528ddf62a431e6</hash>
+          <hash piece="32">97b2eed77275470e637b49b02bfc1ac4c4e4ad5b</hash>
+          <hash piece="33">02982e1d35662f25f14a07bcb7eb62d3440508f7</hash>
+          <hash piece="34">a713a4abc2a432c49ea762d980ee1590512f5393</hash>
+          <hash piece="35">d2a34f3fa70eb4fda27f343ffc1f925602111df6</hash>
+          <hash piece="36">25aaadeafb8aa5683c0f2e28622e964c9b3b0607</hash>
+          <hash piece="37">3dc13172e1032c66dff71def92240840db94a184</hash>
+          <hash piece="38">bee2cb09bf8345827b281a574b8b23aa0d9540a1</hash>
+          <hash piece="39">a377ac4a84c5dd7a86e9b0ca79b33d072b6ebd8b</hash>
+          <hash piece="40">ed264a39dcca73232a7a1096a9651b2394fb7091</hash>
+          <hash piece="41">d97b7bbd2d63a5d18addd4e512709e00502186d5</hash>
+          <hash piece="42">6472db58b27ff1610cd130245ffed5a9bf391328</hash>
+          <hash piece="43">7a5eb4a8b74c1a02c5edb8491144c094980a9fba</hash>
+          <hash piece="44">09b0481601131baa53923b6157c25d5d5a6f6515</hash>
+          <hash piece="45">ad64ead6be0039ecc33a9f1090cc1da71277fad7</hash>
+          <hash piece="46">a83480c8f85aa548fc1021980cf5c01e6c00aa2f</hash>
+          <hash piece="47">3af622417f338d286659cf23c0f01846728be915</hash>
+          <hash piece="48">77aca7733db70c289bf17399944d8b7b2319a49a</hash>
+          <hash piece="49">e3e64c0cb394a22583f2177441de1ff33c63e90a</hash>
+          <hash piece="50">beefddbfefe52c8c9ee9473b83df92635d54beaa</hash>
+          <hash piece="51">dd450e737f20ab76cf18295eb52242b877398152</hash>
+          <hash piece="52">5c05039599124f1d3a7fa323e6827d0bbda7d758</hash>
+          <hash piece="53">6b97fbdf43d0b947de0f34a674c04998ab04d83d</hash>
+          <hash piece="54">e55da108c621154689a05dc468adce6be56129da</hash>
+          <hash piece="55">80c64e1041a904055aa7594ffb18b0dfdb452f8a</hash>
+          <hash piece="56">039cbf4dc7acaf4d5696a7aa9ebdfc2452bd02c9</hash>
+          <hash piece="57">ab23b5d6942e631fa8d15ee272478167fbae1150</hash>
+          <hash piece="58">a4ae52735c9f493c7ea75e975aacd3250f506690</hash>
+          <hash piece="59">311c67e3dc682aa5b254ea615509cb6fe56f56a0</hash>
+          <hash piece="60">f6c41a622364536acbe5c9f62ddf8dc83e93fab9</hash>
+          <hash piece="61">160987c7c13bc5488fecd5f06bcd1d02ca4ba2ee</hash>
+          <hash piece="62">5732dc96db99e8c8a14726ed4e4446278fc002a6</hash>
+          <hash piece="63">f77edd6162c3aa20f95eb4be8fe6cf790ae59189</hash>
+          <hash piece="64">5fc70d2958915b3c6298520377704ce1cb0b7a80</hash>
+          <hash piece="65">a4cfc62c0fc9449a59758e1c3b804fe7d5c1f292</hash>
+          <hash piece="66">c08156a124d3437679be790496d72c2c2db9565a</hash>
+          <hash piece="67">22e64cb353cc4c33bab56c2045755a2fb34a10a4</hash>
+          <hash piece="68">7986371af6bb96870c1822c204b1dcc965e04cbe</hash>
+          <hash piece="69">af58ce660a8292357f49775bbd594ca603ef8daf</hash>
+          <hash piece="70">c0e2c63370b7af97fc5305a037c4e9b3f9c39a5c</hash>
+          <hash piece="71">5f00ab947b7b686e8222fa1d20fd2f4673a0f91a</hash>
+          <hash piece="72">645afc945e939f1c2cb1dc5420d1419b133039ea</hash>
+          <hash piece="73">26f3c5bd8722aa4e2e09d1a725562c7b97b00f5a</hash>
+          <hash piece="74">7f8e04273d24086d2642d93951d1246043544bec</hash>
+          <hash piece="75">71e1163c8d72047e57f8398e0a9afe23052cec94</hash>
+          <hash piece="76">93faac16eb78752b94df98cd71ad477a2808127a</hash>
+          <hash piece="77">b593bc6553ac4bf2e759b760238d60ce1b90cc93</hash>
+          <hash piece="78">e913dd1db7d144c0aecbbc987210c567bdb26231</hash>
+          <hash piece="79">09c2f7769d622fa66a2492eefc1082a948cede52</hash>
+          <hash piece="80">679ff992fdb26e7285b8145f174e67156239d1a7</hash>
+          <hash piece="81">fec8f9448fe51423d8a319f891ac2ff19afe2f59</hash>
+          <hash piece="82">e63b57c03dcbdb54e1e0ec53e703490621cfe277</hash>
+          <hash piece="83">36ae035f1047a631eaa90c28c37c2cc19d04bdf5</hash>
+          <hash piece="84">518ecb2f580b458103f910f5f01828d6d265a409</hash>
+          <hash piece="85">7a130971619607f0f322bcd11b25b329f0ed2e88</hash>
+          <hash piece="86">94ff5d755cbd3c5e5d5d7e2d5efc60705dedbc32</hash>
+          <hash piece="87">d236858bb8d54d66e1879bddf5fc9af3e6ac2b16</hash>
+          <hash piece="88">46eda7a7996f445a697b07590c1008a0d605848b</hash>
+          <hash piece="89">57007df02284d62cc86e850521e5fbcd6bf17f45</hash>
+          <hash piece="90">ed3ee1acd34f1ffedd586a0d833919a65ee21e89</hash>
+          <hash piece="91">da37e9f361e56c9784cb47b175a43d2eba4636f3</hash>
+          <hash piece="92">161cd973df3985a7bef87387ac6a56c5af388345</hash>
+          <hash piece="93">b33b7887870fc017e3ecb94fddc6443bedf5ae8e</hash>
+          <hash piece="94">acf4374b5fc941ced469696c7d962d819bc8a468</hash>
+          <hash piece="95">f7e0377d110be0406bb7ed60e9db75353427fa64</hash>
+          <hash piece="96">a8d2043638bc506624537b1ec5d04bd870bef24c</hash>
+          <hash piece="97">6365e98195940bbd24bdad1213b1a71e5baed7a4</hash>
+          <hash piece="98">85aefc25d89c8da0ad6c9475223feda8ff819051</hash>
+          <hash piece="99">52a55817063036a6ff4e923cef6bd78af41bdf80</hash>
+          <hash piece="100">e7fc06313ac38fbec8a5e4f0988786be9fc124f9</hash>
+          <hash piece="101">14aa8427593414c1178f462c056bbb84bee0aa91</hash>
+          <hash piece="102">99ad63ca5ec6e15ea2196aa06ce2fd186c1d0f97</hash>
+          <hash piece="103">44b5c08ba665f7e1ce8fc8a75aa9a4673ef083c5</hash>
+          <hash piece="104">d6fb7bd62dbe562864e9db27019106d41054d980</hash>
+          <hash piece="105">eb1667a310ed6fc19efa792e377cb3caf7d20766</hash>
+          <hash piece="106">b9dab7ecaf38587ec907ba6d9a341c5e91c39861</hash>
+          <hash piece="107">33acaf3f5ec9aa6fd197e87be1c6a292dd87223c</hash>
+          <hash piece="108">25224a6f805040a211655941c514a64dbbef3b97</hash>
+        </pieces>
+      </verification>
+      <resources>
+        <url type="http" location="uk" preference="100">http://download.linuxaudio.org/ubuntustudio/ubuntustudio-7.04-alternate-i386.iso</url>
+        <url type="http" location="us" preference="100">http://mirror.imbrandon.com/ubuntustudio/7.04/ubuntustudio-7.04-alternate-i386.iso</url>
+        <url type="http" preference="100">http://intelligentdancemusic.com/ubuntustudio/ubuntustudio-7.04-alternate-i386.iso</url>
+        <url type="http" location="us" preference="100">http://aehunter.net/Files/UbuntuStudio/ubuntustudio-7.04-alternate-i386.iso</url>
+        <url type="http" location="fr" preference="100">http://mir.zyrianes.net/ubuntustudio/7.04/ubuntustudio-7.04-alternate-i386.iso</url>
+        <url type="http" preference="100">http://proyectos.pixelamigo.com/software/Ubuntu/ubuntustudio/7.04/ubuntustudio-7.04-alternate-i386.iso</url>
+      </resources>
+    </file>
+  </files>
+</metalink>

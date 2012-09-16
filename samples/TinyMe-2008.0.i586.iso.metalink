@@ -1,0 +1,126 @@
+<?xml version="1.0" encoding="utf-8"?>
+<metalink version="3.0" generator="Metalink Editor version 1.1.0" xmlns="http://www.metalinker.org/">
+  <identity>TinyMe</identity>
+  <version>2008.0</version>
+  <files>
+    <file name="TinyMe-2008.0.i586.iso">
+      <size>209713152</size>
+      <verification>
+        <hash type="md5">51aedee88474b981ae0980d8c67ee829</hash>
+        <hash type="sha1">9a4db864499db4a2c9c35cbb5b55b076bbc921a4</hash>
+        <hash type="sha256">6426505b2d8cd8e47662928bae1e98dfa79f96aa34bb8a64bdb9c3203f7f5f6b</hash>
+        <pieces type="sha1" length="2097152">
+          <hash piece="0">632dbfa042f62943ade3802ca75386ce294949d1</hash>
+          <hash piece="1">705881e8f670748e56bce700e660e97a89cc5796</hash>
+          <hash piece="2">30fcff36643c0bf6208620e570cac8a9a2ecd9a0</hash>
+          <hash piece="3">6595a4204a1ae06c71bac24c4c73deca210cb3ec</hash>
+          <hash piece="4">14b296c2feab335e772985f5279683a53552c5c7</hash>
+          <hash piece="5">63897a295552d0e81fe24f7c0543437a9fc1278b</hash>
+          <hash piece="6">eec979cf373400b787f97fd438397fdbb21962be</hash>
+          <hash piece="7">157a72bfbb5fd1dcd39490e3cec3b7aaafde7764</hash>
+          <hash piece="8">eaa0ee09102a75e2aad34e1e0353e5b981aa3bdc</hash>
+          <hash piece="9">f2f837325b9b97221d807f696c662d419f4285fa</hash>
+          <hash piece="10">ff5600652ba77c3eff3b95ee05d0744c47cc8ef3</hash>
+          <hash piece="11">a2378b606cf9db6d6ae64c9ac51e17076d3385bf</hash>
+          <hash piece="12">d05b7b9b981ef21cfee62f9ea4d2391319de8098</hash>
+          <hash piece="13">81b1f455a05ee5d42c26da55e31cc1eca481885b</hash>
+          <hash piece="14">79bd48701c8643b5b880ac30da54253f6349c4f6</hash>
+          <hash piece="15">f19c5ef7df1f56d4c47219f2de903865d24a50ff</hash>
+          <hash piece="16">70ab5ff6fb38439a9e3b491279221a396dd55d2d</hash>
+          <hash piece="17">fb8795938a3c0c87c4c8e508360487841c03fac7</hash>
+          <hash piece="18">a6e48421aae61843fdfc5e1274d9cb09c958d213</hash>
+          <hash piece="19">e8621c582a5a6fa17d77deafda15d37ba76f6a55</hash>
+          <hash piece="20">3d64e1f3762592458758fdbf1c292caebfc4b0f2</hash>
+          <hash piece="21">93799a5a01507ffeb7a6826357560227e4ff6c02</hash>
+          <hash piece="22">c7483e76c5179298a705b90b071db53d07c30f88</hash>
+          <hash piece="23">80e826f3b142769dc3101a47040cd90c8779dd33</hash>
+          <hash piece="24">73501932c8dfca47971b71b028b03a9e34488a61</hash>
+          <hash piece="25">580cbd9b4a3223f232a7319b2d9e083e96c06902</hash>
+          <hash piece="26">2f9fd23d7f996dabb0060ff8620da29612e64bf9</hash>
+          <hash piece="27">f8148105a5c1781b8ac174b833e71d4907c1a715</hash>
+          <hash piece="28">6c85030bcf5a33b4b46c2fd85c574c8fc806bec0</hash>
+          <hash piece="29">70a3afe34a24a03c533ad3b59cc9b860d956252d</hash>
+          <hash piece="30">b5b3d8aafe090ae97931d0218aa2844dc13085ca</hash>
+          <hash piece="31">374eab28af3c4455e8bda8a6d5840611b0491ddb</hash>
+          <hash piece="32">d52003683b747e7e9ac10a217462373a89af08b6</hash>
+          <hash piece="33">ac2ae1d5d9c81ecb232627b9a14d37d9c162e15a</hash>
+          <hash piece="34">80ee3fe876d61b531f60e0f03ae2eff236b7749e</hash>
+          <hash piece="35">6de8f28f5ae12dbfe50c23d2512d40934b27b723</hash>
+          <hash piece="36">335dea4a486875af4b5687a5cb24176b95190527</hash>
+          <hash piece="37">2f712e29ee90362809d8e3d96dde2aca44289ba8</hash>
+          <hash piece="38">9628a2b2526b9886ad1da7483ae26279595b4929</hash>
+          <hash piece="39">f49653479fde43f492800d6d53431254f5927850</hash>
+          <hash piece="40">87ea343ebe12434fe23f6f3b8a37b48e8be82b04</hash>
+          <hash piece="41">e277878ea55df94bcd9474c675ae86327570a07d</hash>
+          <hash piece="42">21c53316d9d3ab4751e11894fbe46f6a043d912d</hash>
+          <hash piece="43">48b800bdd676121e61ae91152143ef7a8d45fe64</hash>
+          <hash piece="44">4033346838ce0999fe7d1822f5ba8ad8fa8e5dda</hash>
+          <hash piece="45">a6fd9bfb76d360184c4f715a171e4cce12e97eda</hash>
+          <hash piece="46">ed121d9b4779275132e89cfe9d088c33e2bb25f0</hash>
+          <hash piece="47">e530fdf03d4b9f294201c50bb89990af41c058c9</hash>
+          <hash piece="48">22368069cf58c92593fbbffd352a13e97016f985</hash>
+          <hash piece="49">51696a36bec0b42fb12b2884d6c61726edab38a4</hash>
+          <hash piece="50">88ba5316e2b06f76131c98848963fc5faf73c38f</hash>
+          <hash piece="51">8dfdb19efac48a2f6148bb89623c9ca8d5ec3b57</hash>
+          <hash piece="52">921acf9441a0ffd19e31d694fce8cef6d1935823</hash>
+          <hash piece="53">419da211780acdb55ca0dcc9f12d09a796368788</hash>
+          <hash piece="54">482a75f74acd6c7c1b57a3852757fcb0be0b822f</hash>
+          <hash piece="55">ad854868fb83716f8bf734eae7a8a872423c0e96</hash>
+          <hash piece="56">824cf2d1753122cd881d1d00c11640ddcdc57f42</hash>
+          <hash piece="57">fc9746116da5973920b30915de7eb1b3e7817d4b</hash>
+          <hash piece="58">8ffa5267c90bc4e562f37a8ae68fe9f366b6402e</hash>
+          <hash piece="59">d10a591c0b4dd595df19c2ffac524ebe624817b8</hash>
+          <hash piece="60">a684289d73fa112f22cd52c507e6f16ad92d80fc</hash>
+          <hash piece="61">fe93764c5928886d1e9f7f90d972a0750cbac51a</hash>
+          <hash piece="62">002bab45218629060ec0a29bf0f290f34d7a04d7</hash>
+          <hash piece="63">8237ac1b97fe85e8ee85aea6492dffc75e1b7bd5</hash>
+          <hash piece="64">2d234dc75bfa243427fcde7d380c993eb0445139</hash>
+          <hash piece="65">8636b6d3be27c908f4b97ad07a55d904bbe6357c</hash>
+          <hash piece="66">609afa9101a571eddeec0a5da2c596342bf57930</hash>
+          <hash piece="67">12910ef87caa00e845c9241a508c94348d61992f</hash>
+          <hash piece="68">dfb9d1d872f6f0d912b505e1e4acc9e9810e895a</hash>
+          <hash piece="69">130743d3c5d613d8a621f72500daf5142cd6de26</hash>
+          <hash piece="70">43e57dd872c90a3495d8a10ce72d8852f38f4060</hash>
+          <hash piece="71">311278d63c44f9d2ab905d0ddccb1ad8d2a2cb04</hash>
+          <hash piece="72">db2052b8526d4c57a320565d0dc263ed54e4097a</hash>
+          <hash piece="73">0763b270f0b4506b82c036bfb68ee2e554aef717</hash>
+          <hash piece="74">65283b27d006c21ad4df4c6548888983bac80bf0</hash>
+          <hash piece="75">9d222baa9df512306ee3d5d77076a8192ef36788</hash>
+          <hash piece="76">07d2dd1380a2d828bbcecee971e955c0d39bd5c2</hash>
+          <hash piece="77">bb5886d8e5c109c8ceb70114bd5c021f10075a51</hash>
+          <hash piece="78">f8a4f8af2a70ed9d6d567e5b8664bdd793726f27</hash>
+          <hash piece="79">1f1b3b8cd89efd2a89b46578f4a924ae84c89fb3</hash>
+          <hash piece="80">51c361f628e6dcdb7b91a277da036840e0f00fa0</hash>
+          <hash piece="81">ff5ad0320c7275b2599f3f04a2471b2a81a5215a</hash>
+          <hash piece="82">85418bfb05bc6cba08f7afb307ee1bc1d4acceb3</hash>
+          <hash piece="83">7d07e5e9c9c9ae823d6f58909c78e3a870f003f5</hash>
+          <hash piece="84">b3e8c392a5fb1aac2ef458a5528a70e523a01833</hash>
+          <hash piece="85">3c3f4a4e86d62cf77f02e49faa7e52e259e9d1ae</hash>
+          <hash piece="86">18bf111b1d0d5976bb0ba360e4a159133aec26b6</hash>
+          <hash piece="87">823449ee7cf08e015d501f190f13294211437628</hash>
+          <hash piece="88">fd5f0604dbc138513bbece7fa2827dc44e5dd78a</hash>
+          <hash piece="89">8b9ab0cd05c8dcaed179ea9fc3118989b3f1f2ad</hash>
+          <hash piece="90">e9f41d0f5511a2409d9fdd9c0d546029d4c2b918</hash>
+          <hash piece="91">710f2fa7295fde9b0c981ff635b9b3f57199c37d</hash>
+          <hash piece="92">c6a705c38449320f63c8349ef9f7500ebfe74d73</hash>
+          <hash piece="93">50c287b975fbd67ecc561df1919b0beb89c43d07</hash>
+          <hash piece="94">6e14f23cb0da33c37f16c0ef918ec845e1339d0a</hash>
+          <hash piece="95">e976017f6353850007e5aeb2f2c7043b5458699a</hash>
+          <hash piece="96">9fcb5d0a75aedb5664a9aef993694351201473f9</hash>
+          <hash piece="97">d8e1ca6a38c5e9153522403e9464430f997e7b87</hash>
+          <hash piece="98">3e278e98f6058567885342cd29d9e7e96cd4f9ad</hash>
+          <hash piece="99">3e888357b2b19efff61f312c5e4e333c3df3306c</hash>
+        </pieces>
+      </verification>
+      <resources>
+        <url type="http" location="us">http://www.gtlib.gatech.edu/pub/metalab/distributions/tinyme/livecd/TinyMe-2008.0.i586.iso</url>
+        <url type="http" location="us">http://distro.ibiblio.org/pub/linux/distributions/tinyme/livecd/TinyMe-2008.0.i586.iso</url>
+        <url type="ftp" location="us">ftp://anonymous%40setbit%2Eorg@ftp.setbit.org/TinyMe-2008.0.i586.iso</url>
+        <url type="http" location="nl">http://ftp.nluug.nl/pub/os/Linux/distr/tinyme/livecd/TinyMe-2008.0.i586.iso</url>
+        <url type="http" location="nl">http://ftp.nl.freebsd.org/os/Linux/distr/tinyme/livecd/TinyMe-2008.0.i586.iso</url>
+        <url type="http" location="nl">http://ftp.nl.freesbie.org/ftp/pub/os/Linux/distr/tinyme/livecd/TinyMe-2008.0.i586.iso</url>
+        <url type="http" location="nl">http://ftp.surfnet.nl/ibiblio/distributions/tinyme/livecd/TinyMe-2008.0.i586.iso</url>
+      </resources>
+    </file>
+  </files>
+</metalink>

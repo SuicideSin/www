@@ -1,0 +1,150 @@
+<?xml version="1.0" encoding="utf-8"?>
+<metalink version="3.0" generator="Metalink Editor version 1.1.0" xmlns="http://www.metalinker.org/">
+  <publisher>
+    <name>Momonga Linux</name>
+    <url>http://www.momonga-linux.org/</url>
+  </publisher>
+  <identity>Momonga Linux</identity>
+  <version>3</version>
+  <description>Momonga Linux is a Linux distribution developed in a "bazaar" model style among its user community.</description>
+  <files>
+    <file name="MomongaLinux3-i686-dvd.iso">
+      <size>3842168832</size>
+      <verification>
+        <hash type="md5">1d66200711aee331a5913f072251c5d4</hash>
+        <hash type="sha1">1116699ee1e71fe0aab8616d9b601a06d81fe769</hash>
+        <hash type="sha256">7d760c9cf7419c4c01f03af88c9206586f2822842fd41385a94a122af456c863</hash>
+        <pieces type="sha1" length="33554432">
+          <hash piece="0">64230c7dc94c76371236ecb9353b091c8b0eccba</hash>
+          <hash piece="1">b51e6cf5d433fed1b0315fa83193c56dfd802193</hash>
+          <hash piece="2">f16618303a4587310ffd4d5737b3e0b40d5e8ff4</hash>
+          <hash piece="3">7a02d3ab47aae9a0c53b7031605478f4b5ad6ec3</hash>
+          <hash piece="4">3e9a7dea21ebf875927da5b32a9ab2c4e62bcd0e</hash>
+          <hash piece="5">c9c4810fc0ce504569f108551ec7b85ea30d6e09</hash>
+          <hash piece="6">ae5e03626f65af20b953d52dbb0f6a61d1c3c05a</hash>
+          <hash piece="7">2915195ebb8732efadf2547a411abc31465ab128</hash>
+          <hash piece="8">aa9c14209379ea98b1215d9d11dc06c2ccb14f1a</hash>
+          <hash piece="9">f779cddc74980a010afb74908a66942918f62102</hash>
+          <hash piece="10">a5b8608c67d8476bec268759acc4aff2df2f324b</hash>
+          <hash piece="11">96bff6f1f4cf5dda476fe43155e4be73166a38d1</hash>
+          <hash piece="12">1587cc23eed178f04cf0d09e99cb9ab2bb27f46c</hash>
+          <hash piece="13">7c9c10ebca2cabc4ac8fee6acea3c5f2f123967c</hash>
+          <hash piece="14">3107df221841950af2ab2622d151407cff2eef6b</hash>
+          <hash piece="15">a308221b5a8c5aedd3194e1a641269881ec0961f</hash>
+          <hash piece="16">57bfdade14ec556bcd8aec5120a6f27cef361fd1</hash>
+          <hash piece="17">afdcae60eaf99254e71d1f45ab2553a91f34758d</hash>
+          <hash piece="18">358004d809aa955d11869f3e45c8dad143467352</hash>
+          <hash piece="19">f74d6ab4098da234b8174be84508b84a536d78b8</hash>
+          <hash piece="20">abd563de49c3370a52c84142357988cb3e29829d</hash>
+          <hash piece="21">bc0196b91befcaa316817adc06f304a10932d81e</hash>
+          <hash piece="22">71fb99f2d86122a533f873bfef1164b707dbf7e1</hash>
+          <hash piece="23">96a94f3ee360d51452b3551ca1118d245f9cb7ce</hash>
+          <hash piece="24">069ed91d4c973428f9a1391662792e01f241bbaa</hash>
+          <hash piece="25">c8ca5c0a2b018c53c27ae31a160fafaf2532eced</hash>
+          <hash piece="26">5145b060c78f3832e338527e45a2b1847d59d2bd</hash>
+          <hash piece="27">dac289c9ce6ecf6c0a8d4ed2917046385bc0f1e3</hash>
+          <hash piece="28">a3d29590ff8878ee2f50a7e978f7c24904dcbf56</hash>
+          <hash piece="29">459813506cc649065b1453626af54db6a93f00b7</hash>
+          <hash piece="30">c2032af4855cabd4dbce4b73600acfd65b8ea7a7</hash>
+          <hash piece="31">3bda0776cdf9f0e605a6c3aa12a83351fb987e78</hash>
+          <hash piece="32">84a64849bac4d24b798d8d54916b56099111d7f4</hash>
+          <hash piece="33">9c2903f3b459bc3e4c3853f80a1bcbfbac6a4d19</hash>
+          <hash piece="34">59b09be932ba79a9b6cbd8d02f94215b8cfc0d49</hash>
+          <hash piece="35">d1943aa57001c3171bf6f3e02f658cb44a43862e</hash>
+          <hash piece="36">e41d98545305ac48bd7a6c319704efc05e96e9fd</hash>
+          <hash piece="37">e695d03b2c3ec80cc8458977702f6c1a8824c4df</hash>
+          <hash piece="38">8bd731fd4a1eb937f899115546eb138cbe593403</hash>
+          <hash piece="39">20ba08fb8e64f41c4f564584dfafed3b705c9724</hash>
+          <hash piece="40">88462fe73a380a0a01eb6060c27be9a805f50bf2</hash>
+          <hash piece="41">cdb9ebcb7e0c78c1d7056ade10767bb00a1e4504</hash>
+          <hash piece="42">a60ee26e3193340bac1d4a11d2aa122da2855673</hash>
+          <hash piece="43">d8ee213603a487e62544e8c443f58135ae1ec1a1</hash>
+          <hash piece="44">b4716b7dab27e96f5cabe980819ddf94bcf55df3</hash>
+          <hash piece="45">ba7bbf52869b5ccc8817882622b2ebcb557f76e4</hash>
+          <hash piece="46">df47b76a0ae1a71f41f7d296f4720474b5440a7d</hash>
+          <hash piece="47">82931b1e33a60a81017434c7fed9a1875111d6c2</hash>
+          <hash piece="48">35a769d62e4f1c836d30c98e6fbd7590aa5f665c</hash>
+          <hash piece="49">7a78203a1a91d1101a2098a1d0a66008e0a359ec</hash>
+          <hash piece="50">7f832dffc78f8538264db68054c110a11bd142c0</hash>
+          <hash piece="51">cabb14ca9045c33ed1d8e736cf14a3d3169d392a</hash>
+          <hash piece="52">d7aba24ce56a7abede7aec06391da94c0a94766f</hash>
+          <hash piece="53">7232d90573b3ddadc24a52b4057118d2e6d38ebd</hash>
+          <hash piece="54">ccac934199af19ca87be37d675d52e88f229e5d3</hash>
+          <hash piece="55">091d56ba8c7fd124ea2d3f68e42b9d1f966e0f59</hash>
+          <hash piece="56">5929ba3fb7cc84269ed0e9819ce1c5dede4d0508</hash>
+          <hash piece="57">bccb9e2d4903350e154df3ecc3e2a6e71cc1a4b3</hash>
+          <hash piece="58">44dfc5759a0f4011c946bc39c5e5c8d331c516d4</hash>
+          <hash piece="59">8a13fd270bb9cadb835e269c3014725120b904fc</hash>
+          <hash piece="60">b76bc73c3190991224b3f79018113be0ca1999f5</hash>
+          <hash piece="61">81001daf06e4d33508335acacd1809181e8582ff</hash>
+          <hash piece="62">63367d7eeb1e57552270fd7a55ead14b188626b8</hash>
+          <hash piece="63">cc7f37ee21bfa3a790efe32852833a0b7207e3cc</hash>
+          <hash piece="64">7ff939c9437d910b30df744fcd8466940b1497ec</hash>
+          <hash piece="65">b1e149938c569258a248ea7dd5f207848881a142</hash>
+          <hash piece="66">c0ce02b425ed09ab1bf4e204a1e90ccbe13ac51e</hash>
+          <hash piece="67">eb01a24feb6f697de198b82c6f84d196ad578acb</hash>
+          <hash piece="68">82bfbf731c7cba235f1a58e6029a441e870d9edb</hash>
+          <hash piece="69">c22b9e6c6fecb58453ea75d499f32028fcc5fd18</hash>
+          <hash piece="70">762f479a2065058c1b057da6635e46b07734dd1c</hash>
+          <hash piece="71">080c4d320a9efd1d4cd7d6d7cb75e07975691c82</hash>
+          <hash piece="72">a45f126f92f78c0f9dfaee5a9c82195f60531cae</hash>
+          <hash piece="73">e51a2d41aa9045f07f4107372dbeab03160c16c8</hash>
+          <hash piece="74">a9b2ec2bbbb69185c82e7383a914ac1313a5e23e</hash>
+          <hash piece="75">71fa253d437b845205a19233b88fdf61f3127e85</hash>
+          <hash piece="76">543435701e4307efe3064c56e69c11c055596e7f</hash>
+          <hash piece="77">6879b15e0c2d4221883766308e561ed167641a10</hash>
+          <hash piece="78">8a1c272cf86da96e834c0eae94bb7ccbfc41f884</hash>
+          <hash piece="79">311bd2f6dc4d02d3d449a7e7a680412abe209a13</hash>
+          <hash piece="80">b0d688d46196fd50ff036388be4b980f8eba32e7</hash>
+          <hash piece="81">884341ae8141de153e590df235b1fea932ebe281</hash>
+          <hash piece="82">11fe81e963b835b4bfe16e1e301c2a60c93c4d87</hash>
+          <hash piece="83">5f3cdff711d72015b3d4923f80c76db715b412aa</hash>
+          <hash piece="84">69bbca5bac01e4e3ab8a3615929c6c54b446037f</hash>
+          <hash piece="85">d6572bee1bad9598dcd21089113d8c274d53d1c6</hash>
+          <hash piece="86">c1d371109ea4eab1ce3674e1fc5fb31160ada9f4</hash>
+          <hash piece="87">a36e663e0d9a018e1de1b0cbedaeb093c7cb305a</hash>
+          <hash piece="88">87e5a53ba80a31cc6edcecb03b8567d1c83f09c8</hash>
+          <hash piece="89">9375b3bff1c84d3cea06f69f8d3d233e95066074</hash>
+          <hash piece="90">95eefaa78b22a64c7ad1938c0290cfb0ba0fb243</hash>
+          <hash piece="91">2fff3c6850e231d7e0a293468fbe204eb45eec63</hash>
+          <hash piece="92">59eeeac463196f89f8d2613dfeaee5f9ede68e02</hash>
+          <hash piece="93">4c6080a753b06a956741114ec96ffd1b094a2f11</hash>
+          <hash piece="94">08ff646c1b7f4274360e7fe6a1c56bbec675b3ef</hash>
+          <hash piece="95">26535408559a7526ae7476c5b2dd83920c61cdf9</hash>
+          <hash piece="96">860a35f551469e8ea3af643dcdc4f5db6e21e5b3</hash>
+          <hash piece="97">3abd1ccc7431a3d371d41e04043160da5e5ec644</hash>
+          <hash piece="98">0f8d04c8979e348cf19c1c48161313cf866cf1bd</hash>
+          <hash piece="99">e95fd13c41976c0449e61699da928d3943df0e62</hash>
+          <hash piece="100">c502dec31a29e98397591248b22e9141543582f8</hash>
+          <hash piece="101">c9a6f7bc334a202c0534506e7aec1e11c0395fa8</hash>
+          <hash piece="102">005cb621113c7d0187444eefe21a6111c0bf042c</hash>
+          <hash piece="103">681f573a884dcdfe64e3c3ba781f2324be9a59bf</hash>
+          <hash piece="104">c07901910ea855b89809505a0931e8519d5af7b1</hash>
+          <hash piece="105">1c812ff0c06010b18991168ed3a92299c347161b</hash>
+          <hash piece="106">e317d93ec06f68d2a1827e66ee4d27ecc07d7abd</hash>
+          <hash piece="107">40cd12b0bcafceb1047e3ba399d36ad95ee21b8a</hash>
+          <hash piece="108">f6c1d0794c0af26f74cf767e9dc570391f916eaa</hash>
+          <hash piece="109">ed3cfed542ac58b74531031238c562bfa320c032</hash>
+          <hash piece="110">5c27ce2c114fef52f5e7c1f4f0875cffb21e8653</hash>
+          <hash piece="111">da31673586fa8c60afaf4b971bfc39b9edee3843</hash>
+          <hash piece="112">0f237667fa9f68df06376a1071f81ec9114f8157</hash>
+          <hash piece="113">8be6802c2e9059d86082d255efe3978fbe332cbe</hash>
+          <hash piece="114">fcdb8b6386f543a73f574055bde708d185df4c38</hash>
+        </pieces>
+      </verification>
+      <resources>
+        <url type="http" preference="100">http://dist.momonga-linux.org/pub/momonga/3/i686/iso/MomongaLinux3-i686-dvd.iso</url>
+
+        <url type="ftp" location="jp" preference="90">ftp://ftp.yz.yamagata-u.ac.jp/pub/linux/momonga/3/i686/iso/MomongaLinux3-i686-dvd.iso</url>
+        <url type="http" location="jp" preference="100">http://dist.momonga-linux.org/pub/momonga/3/i686/iso/MomongaLinux3-i686-dvd.iso</url>
+        <url type="ftp" location="jp" preference="100">ftp://dist.momonga-linux.org/pub/momonga/3/i686/iso/MomongaLinux3-i686-dvd.iso</url>
+        <url type="ftp" location="jp" preference="90">ftp://ftp.iij.ad.jp/pub/linux/momonga/3/i686/iso/MomongaLinux3-i686-dvd.iso</url>
+        <url type="ftp" location="jp" preference="90">ftp://ftp.kddilabs.jp/Linux/packages/momonga/3/i686/iso/MomongaLinux3-i686-dvd.iso</url>
+        <url type="ftp" location="jp" preference="90">ftp://ftp.nara.wide.ad.jp/pub/Linux/momonga/3/i686/iso/MomongaLinux3-i686-dvd.iso</url>
+        <url type="ftp" location="jp" preference="90">ftp://ftp.jaist.ac.jp/pub/Linux/Momonga/3/i686/iso/MomongaLinux3-i686-dvd.iso</url>
+        <url type="http" location="fr" preference="90">http://distrib-coffee.ipsl.jussieu.fr/pub/linux/momonga/3/i686/iso/MomongaLinux3-i686-dvd.iso</url>
+        <url type="ftp" location="fr" preference="90">ftp://distrib-coffee.ipsl.jussieu.fr/pub/linux/momonga/3/i686/iso/MomongaLinux3-i686-dvd.iso</url>				
+      </resources>
+    </file>
+  </files>
+</metalink>

@@ -1,0 +1,107 @@
+<?xml version="1.0" encoding="utf-8"?>
+<metalink version="3.0" generator="Metalink Editor version 0.4.1" xmlns="http://www.metalinker.org/">
+  <publisher>
+    <name>binner</name>
+    <url>http://home.kde.org/~binner/kde-four-live/</url>
+  </publisher>
+  <identity>KDE Four Live</identity>
+  <version>0.0.12</version>
+  <description>Live CD with a preview of KDE 4.0</description>
+  <files>
+    <file name="KDE4-liveCD.i686-0.0.12.iso">
+      <size>686317568</size>
+      <os>Linux-x86</os>
+      <verification>
+        <hash type="md5">50a7c5a7b6744e35871bb9f24f6cdfdf</hash>
+        <hash type="sha1">972ccf425b5c36e8d71895d15d065c32d8bae615</hash>
+        <pieces type="sha1" length="8388608">
+          <hash piece="0">c85f5fa09bc476898848ffdf2eb077e0db45f3aa</hash>
+          <hash piece="1">e80be55dd3d3dfbfae3b96d1d6c90d7a83471a6b</hash>
+          <hash piece="2">ec97556ea7391ec0a06acb1f3c0f1e7358235eba</hash>
+          <hash piece="3">f42d33c43700af849bc4a56e286b0d4ba6a8a50c</hash>
+          <hash piece="4">25ed30cbe371db89ced0d1354757c18fc364b859</hash>
+          <hash piece="5">23f0cfa3cc309d2bbdcdeaabfcaa4f322ff2e8cb</hash>
+          <hash piece="6">3f6fdbfe441b4cec05be5815cf274e88fe0ea212</hash>
+          <hash piece="7">c03ec187442e406162067ba6229a4d0ffa92431a</hash>
+          <hash piece="8">a915fce213de26166d402ac20d0e5f1c5b9d9030</hash>
+          <hash piece="9">9b831e7ad0daef0a3ffeb70dced8fe71219a762c</hash>
+          <hash piece="10">9b9c859493c2ccab393bf972ff6174bd571de177</hash>
+          <hash piece="11">011f4fafb19b74fd51af38232b68afd6487bede7</hash>
+          <hash piece="12">788d952c70bbce0d1ca3831be39158fd0d2383fd</hash>
+          <hash piece="13">f9e54a8f26822b869393cb0fcbf3a924d1425707</hash>
+          <hash piece="14">3b1e2e9323b499f81610354da9e4cc67a9ed3a48</hash>
+          <hash piece="15">09e972a0e8f0879f1d6599f179f83f4005b0839e</hash>
+          <hash piece="16">82235422c78d84dd3876f0d2816cc88bf60a5ea9</hash>
+          <hash piece="17">dbf6a8f74e8996a002d0c1c8b62d75e69cbb00de</hash>
+          <hash piece="18">f9c97702e15d86eda194fc94ddd21c56577ef28e</hash>
+          <hash piece="19">e0b8689523736b6cb9bceebdaa6f05ce5e5de8ed</hash>
+          <hash piece="20">6e8ef0e6cc4aa923be19a528f6e48c647e7598c7</hash>
+          <hash piece="21">cd244491397de30bdefe2a61a85321648f2f16ca</hash>
+          <hash piece="22">dba61181efa93d637b92bfceb9c73a82858f7b1e</hash>
+          <hash piece="23">8da689ed3580e62bb29beb6a6d5794b6ad51c659</hash>
+          <hash piece="24">f03f4142f288adbb2e35e01deec02d15daab3b3d</hash>
+          <hash piece="25">91ecb3a6174f2a9473e74549e5bc4f09c97a2909</hash>
+          <hash piece="26">5f7d829313b4ddde8596f10edf72f1b23a7436ec</hash>
+          <hash piece="27">b4e3c37da92340c901dde325fc82ca17f3ea86f1</hash>
+          <hash piece="28">4b2120d1cdbadee5776cfa6742ee15b3416ec0ec</hash>
+          <hash piece="29">f5f1af048c8e4cc77ae2b467515de3adff79a82a</hash>
+          <hash piece="30">998b4a4b0544b3c54157a442af626fe32b81322f</hash>
+          <hash piece="31">6152107d78262dedcab57ad8d2d1af102c5e2dee</hash>
+          <hash piece="32">6328d2ff4f65e798a3b81bc5fc90b32b7d424943</hash>
+          <hash piece="33">c7be73a79a39c6789322191695ee94da5cfefcb2</hash>
+          <hash piece="34">6e2642360c3a6571c681e3826453cdc0e4390b95</hash>
+          <hash piece="35">4bd3fb321ae141b71c5fe830be6a6f39d8551386</hash>
+          <hash piece="36">6fde265905049614a9ed0cdcdb234892338e54f0</hash>
+          <hash piece="37">06afe0f2eb688560bb1f93603fb5375a4e3db093</hash>
+          <hash piece="38">3d897485d0d50ede3a2ecaa575fe49bce5795973</hash>
+          <hash piece="39">f4b4d2870912f30abca4061dc351921c2e1a9732</hash>
+          <hash piece="40">7cc5e3b27b38e813623caee1f6d10b44574076af</hash>
+          <hash piece="41">32c754d0c710071a9980be5750c1f8fb2871a792</hash>
+          <hash piece="42">3e2e12b73b5a07b2fb36550d3ed9123df06e739f</hash>
+          <hash piece="43">da23b927b6f9f6935d4dc43776b9626de9c04acb</hash>
+          <hash piece="44">6f7a3b673540147da6fd5e46c05a616f04474ea9</hash>
+          <hash piece="45">36767c6afed1952552eef88409a49b2215e9b337</hash>
+          <hash piece="46">80933a1e4ccb3426ae758eee55147510aa76bc5b</hash>
+          <hash piece="47">b28330ada9744c1ec656a26356dcc15ba9ebb21d</hash>
+          <hash piece="48">01ad78bbb900f91801619b3b28204f6b1690a536</hash>
+          <hash piece="49">d93b7b977e096a4af87761dc3c5169d6f0d16485</hash>
+          <hash piece="50">c046af7a0047535e6a498cedc7c74cf3f3e67284</hash>
+          <hash piece="51">51c6b6ca55dc2ec2340afacacd6c4bec3c160f4b</hash>
+          <hash piece="52">9446a471f7f3135dbbd13eb0458feef6da7b3a29</hash>
+          <hash piece="53">c1362761abaee99c3e31e8db5d9ed08bc5b5ec63</hash>
+          <hash piece="54">c63bbd11304c1c28e00333947be0d7b97ae1ed31</hash>
+          <hash piece="55">8ebe67ed078441d9738c7e6b79b3aa07e5d86431</hash>
+          <hash piece="56">a5d2a36b5bef2304ce5c7df5035d813876f68389</hash>
+          <hash piece="57">6c5f027bb371e479e6e989ab18ee1ee56d0cc38b</hash>
+          <hash piece="58">c0093049d785ce988d9e68b02261bdd9159f4fce</hash>
+          <hash piece="59">461a3b7e8136c94fa0c013e5a09454630b17aeab</hash>
+          <hash piece="60">46c56c34a85e9737ed643f8e06461103a16eca3d</hash>
+          <hash piece="61">fe01afcb55a119978e87f18be9cdefbb153fc76c</hash>
+          <hash piece="62">bbaf3997eaa0c1b8139395d52430f81eb54bfc63</hash>
+          <hash piece="63">063949ef9e120d16bebacd61ca22ecafc8ff3212</hash>
+          <hash piece="64">f7a774b5f4e0684d7f233f87b8c594f41300f12c</hash>
+          <hash piece="65">cd25b08aa25b48b411ff744f6cfc81e5f3baccd5</hash>
+          <hash piece="66">02f10f8aba2a7e12304bcc3cd81ccbd6a282e3bd</hash>
+          <hash piece="67">2908371f06cf98e2c5b3ad76671a52913c8853c2</hash>
+          <hash piece="68">5e4e47fd6df2fb29ff57c891b3f837dae4cad099</hash>
+          <hash piece="69">0edcbe15f9ba1806365cdce4730ad598095a2952</hash>
+          <hash piece="70">18230a9cf0a3a46c431f34318c460a07d23210bd</hash>
+          <hash piece="71">004165e201430f41f0035bf634b5d759331b22c8</hash>
+          <hash piece="72">42cca6d46d2e5ddda8b0ca20163ee7dc5bccef68</hash>
+          <hash piece="73">0d1b36c52b6b6a15bde5c5e458e2a9010217cfd1</hash>
+          <hash piece="74">98124a0496a7cca1f394b9a4bd3c1e9be99b3f8e</hash>
+          <hash piece="75">3bdc068ffae099ebaf5725824b2a44f211a1d141</hash>
+          <hash piece="76">492c6b956f472c161c476ea86982673208f88a5f</hash>
+          <hash piece="77">6c64f0079fdfa6bb46e43631d04b2162d2cf7609</hash>
+          <hash piece="78">f1966f72abddf1b9cc3e3bf51273ce64b148ea39</hash>
+          <hash piece="79">de82ef7e747ad84639ee7b41c6fc9d9f57bb75cc</hash>
+          <hash piece="80">3a81b40396aa09131e39eedd03f81b72413bf881</hash>
+          <hash piece="81">326b28d21b09ae81831e7665a017842c8d3587bf</hash>
+        </pieces>
+      </verification>
+      <resources>
+        <url type="http">http://home.kde.org/~binner/kde-four-live/KDE4-liveCD.i686-0.0.12.iso</url>
+      </resources>
+    </file>
+  </files>
+</metalink>

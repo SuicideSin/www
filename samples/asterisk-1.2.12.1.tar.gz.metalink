@@ -1,0 +1,22 @@
+<?xml version="1.0" encoding="utf-8"?>
+<metalink version="3.0" generator="Metalink Generator v1.00.0034" xmlns="http://www.metalinker.org/">
+  <publisher>
+    <name>Asterisk</name>
+    <url>http://www.asterisk.org/</url>
+  </publisher>
+  <description>Asterisk The Open Source PBX</description>
+  <files>
+    <file name="asterisk-1.2.12.1.tar.gz">
+      <version>1.2.12.1</version>
+      <os>source</os>
+      <verification>
+        <hash type="md5">9c0d427f96c740163a22f5e0dbcb101d</hash>
+      </verification>
+      <resources>
+        <url type="ftp" preference="100">http://ftp.digium.com/pub/asterisk/releases/asterisk-1.2.12.1.tar.gz</url>
+        <url type="ftp" preference="100">http://ftp1.digium.com/pub/asterisk/asterisk-1.2.12.1.tar.gz</url>
+        <url type="ftp" preference="100">http://ftp2.digium.com/pub/asterisk/asterisk-1.2.12.1.tar.gz</url>
+      </resources>
+    </file>
+  </files>
+</metalink>

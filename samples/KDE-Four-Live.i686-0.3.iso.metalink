@@ -1,0 +1,231 @@
+<?xml version="1.0" encoding="utf-8"?>
+<metalink version="3.0" generator="Metalink Editor version 1.0.0" xmlns="http://www.metalinker.org/">
+  <publisher>
+    <name>binner</name>
+    <url>http://home.kde.org/~binner/kde-four-live/</url>
+  </publisher>
+  <identity>KDE Four Live</identity>
+  <version>0.2</version>
+  <description>Live CD with a preview of KDE 4.0 Beta 1</description>
+  <logo>http://en.opensuse.org/skins/opensuse/opensuse.gif</logo>
+
+  <files>
+    <file name="KDE-Four-Live.i686-0.3.iso">
+      <size>666228736</size>
+      <os>Linux-x86</os>
+      <verification>
+        <hash type="md5">7661cc21b9bd473be79368f75f8d716e</hash>
+        <hash type="sha1">1a62b04af19f74741364a3d8bb4f4c6125e19256</hash>
+        <pieces type="sha1" length="8388608">
+          <hash piece="0">b0d0bb790df74f4ea66c7b1d16ed3848a149eb1e</hash>
+          <hash piece="1">42f6531a6fd9c1fd8eac8f931d6efbb7c6e42b2c</hash>
+          <hash piece="2">2fe5254455e5f19199b13567d3afb8340b4196bd</hash>
+          <hash piece="3">ba89b425b27fd55387c59a0ce3f54e8fbf91260b</hash>
+          <hash piece="4">b5cdd7facdfa374bf9519ff34da6cd78d0d3cac0</hash>
+          <hash piece="5">28cab629a5f77d1c250205cbe23fef821cc63cfb</hash>
+          <hash piece="6">74e60cea81260f82ba8c8f2e6ba96b5eb5f80097</hash>
+          <hash piece="7">28cc81f60870c59ef74ab9d7b8edfeb59c65ff58</hash>
+          <hash piece="8">1d355568551cad9732531ba31bfa5c31ae99876d</hash>
+          <hash piece="9">e2aaa0192d0078924800ca76d4f721632985c355</hash>
+          <hash piece="10">eaeead107571171bdaa9e5bfc981050dd52051a2</hash>
+          <hash piece="11">6c6fc6012451106f4ea37670984e5caa59c01bd3</hash>
+          <hash piece="12">a4bddbc16c3b0c515cda04e49f310b069ea53a31</hash>
+          <hash piece="13">5325c0fa645da026fd2bed9be66abdd64e4c5753</hash>
+          <hash piece="14">d78a0be96ff53a36d5a07b81c455defc1fc52be2</hash>
+          <hash piece="15">e8061ef3a56b7f47e5f8d7ad6e254b073a5b5674</hash>
+          <hash piece="16">a86e08460fdee6ae7e863b45b29c381dcf9901c6</hash>
+          <hash piece="17">27333b80f18534701cec947879e5987762307952</hash>
+          <hash piece="18">48384e55c71dca559da61bb94c4616c48de783b1</hash>
+          <hash piece="19">a5967106f9b1b38c832a92b1803b797cdde04554</hash>
+          <hash piece="20">f5f6665f33ee00144b112836161e0f99f61caa4a</hash>
+          <hash piece="21">30cff127832b5f40ce74831b3f355d5d99636e82</hash>
+          <hash piece="22">cd5deba6567ffb0b9593bc7d0de217149dc2d3b5</hash>
+          <hash piece="23">8e930cb3d3dc51fcde75446fd829c872be854885</hash>
+          <hash piece="24">acd330786bd7f03b754792b999957c54eecac307</hash>
+          <hash piece="25">3220031e41797a9b9fdc32d7620e18ec4597625b</hash>
+          <hash piece="26">0c74355f8febeac415fc6233fc9a0709da695796</hash>
+          <hash piece="27">a2adb48701aa2319e8b6281296b7a8a3ea87fbba</hash>
+          <hash piece="28">c58310177ab27b6fb36dfe0eccee2e57b2fa4972</hash>
+          <hash piece="29">c8063495ce6fcc2c0b3f7eb6475233a6c9c148aa</hash>
+          <hash piece="30">b0a48eb002db4ab3948466d3cf1382fe5348952a</hash>
+          <hash piece="31">d159c2bade5f4a0194e0f10bb00d0cc273a7bfda</hash>
+          <hash piece="32">6066c760f5de99ad5b6be699eb90d2d3b9f9fff1</hash>
+          <hash piece="33">a6a5f0e449c31ed0455213d8f78124fcc2b89b67</hash>
+          <hash piece="34">c5e3f10bc77376de14d424e2a8dbde6cacf33ac9</hash>
+          <hash piece="35">f9d9644219bcaa7376a89d8945dbe48ee46427c4</hash>
+          <hash piece="36">1cf6dd982041e497e8cb0f8777e783bacadb93de</hash>
+          <hash piece="37">350813ef4fdeb83029eadcb4be4ed46a7f208251</hash>
+          <hash piece="38">a017acff4c45fffc27525a5eeb7b0cdddaa365e7</hash>
+          <hash piece="39">dc5286e1264a095da3afe5e0cbd06822edeab1ae</hash>
+          <hash piece="40">327c475a05b406536704ab145a1640b0fc8ad107</hash>
+          <hash piece="41">d84909f3545382ef0c33d717513fec9d97a30059</hash>
+          <hash piece="42">15d9bc98f5764311ec25da1baff8f6302be3b550</hash>
+          <hash piece="43">e4f04b2e33a0d8f60a3ee9294fb6b2c87813bd22</hash>
+          <hash piece="44">333b788e778406013d198d601be23251a7ea1ecf</hash>
+          <hash piece="45">13a44a23bb1b597c75027008f1b5e7fb867f7590</hash>
+          <hash piece="46">da4e36a33793b1e17e80ac42b7ef60965f6055ab</hash>
+          <hash piece="47">c33d325376ffdca4010cbdbadaa28244f3803a1c</hash>
+          <hash piece="48">f2a0ef1d615f79d1742a146ad306f3426f4320f9</hash>
+          <hash piece="49">1f903c2d1cfddc94c22a42e8acaac147543dc03d</hash>
+          <hash piece="50">9b6c1c8f5838aa5d0a235409adca3be3d5824af9</hash>
+          <hash piece="51">f473b02becc250fd4e3022f37530b7b9239ce468</hash>
+          <hash piece="52">5c347213743b2b9f2d30d3f21eb42d0d512a6c6b</hash>
+          <hash piece="53">3d12df68df15fa77b0aa2628b60fce963fb739f9</hash>
+          <hash piece="54">feccac383435248c758a569a7cc5e41331aeabf9</hash>
+          <hash piece="55">f58904ade05c3087ec042462df3f70168f5f8d37</hash>
+          <hash piece="56">60ac8aa7980b265c0c1b3379ef670461cc8d203b</hash>
+          <hash piece="57">1391e2ec8d7eaf3bbe6ce0180870eda571323402</hash>
+          <hash piece="58">cd79f2a491b3b613c809c88355f1a67ba17bc1c9</hash>
+          <hash piece="59">f73a75279f2971bbcb87c218d7dc28a20e7811bd</hash>
+          <hash piece="60">d7e76d8d0487c9863497ad097bf42571ca35c97e</hash>
+          <hash piece="61">b5e0368218fddee2a07743522b5c182eae9b9e5e</hash>
+          <hash piece="62">9f9140c8a38865e4c0871da96fee108620609752</hash>
+          <hash piece="63">855c4d12f2711923a7c0ae90a9a878d0b10ed8bd</hash>
+          <hash piece="64">6ec3cf28568b072d3643bdf300bae43821ea09b6</hash>
+          <hash piece="65">37fc854734def6ab20525c8a6e44ff9b59521d39</hash>
+          <hash piece="66">964fdf16c75aa4090754a9df14a377f195c436f7</hash>
+          <hash piece="67">9450bac1a85b3b17d26851c0f1e2edb96e79827e</hash>
+          <hash piece="68">d4c53354aca602bceec2e1f468a0e4860a85e2af</hash>
+          <hash piece="69">d79fa6f356b23c29195de604097e49c941460df1</hash>
+          <hash piece="70">f11199064437fa1b721fedcc54f45280ff5de463</hash>
+          <hash piece="71">05dd799231e7a64082bd4ce86cf23c297147cd43</hash>
+          <hash piece="72">bc9745e9a9cc30611fd357dc0057e4d139f08b6c</hash>
+          <hash piece="73">ef684aaa7bd6f3bee657b5d19257b9879382a877</hash>
+          <hash piece="74">3edc96e22de3b467833b78f5e26590a46afd0589</hash>
+          <hash piece="75">47b9b3f4ec3970f759ddc4d98fe8fc432b6a65d9</hash>
+          <hash piece="76">010ec08dc0f5ac673e5c827fea2c29b5a97b1a94</hash>
+          <hash piece="77">4aa7ef49cbaaa2feaf8729c9a6f32d1634f62e81</hash>
+          <hash piece="78">ea49baa16b9d42773ce66abea70f4811d86d4113</hash>
+          <hash piece="79">61c7b79d7634c23d720ac137a084a70ef3a53784</hash>
+        </pieces>
+      </verification>
+      <resources>
+        <url type="ftp">ftp://ftp.kde.org/pub/kde/unstable/3.92/KDE-Four-Live/KDE-Four-Live.i686-0.3.iso</url>
+        <url type="http">http://mirrors.isc.org/pub/kde/unstable/3.92/KDE-Four-Live/KDE-Four-Live.i686-0.3.iso</url>
+        <url type="ftp">ftp://ftp.oregonstate.edu/pub/kde/unstable/3.92/KDE-Four-Live/KDE-Four-Live.i686-0.3.iso</url>
+        <url type="ftp">ftp://ftp.gtlib.cc.gatech.edu/pub/kde/unstable/3.92/KDE-Four-Live/KDE-Four-Live.i686-0.3.iso</url>
+        <url type="http">http://ftp.gtlib.cc.gatech.edu/pub/kde/unstable/3.92/KDE-Four-Live/KDE-Four-Live.i686-0.3.iso</url>
+        <url type="ftp">ftp://kde.mirrors.tds.net/pub/kde/unstable/3.92/KDE-Four-Live/KDE-Four-Live.i686-0.3.iso</url>
+        <url type="http">http://kde.mirrors.tds.net/pub/kde/unstable/3.92/KDE-Four-Live/KDE-Four-Live.i686-0.3.iso</url>
+        <url type="ftp">ftp://gd.tuwien.ac.at/kde/unstable/3.92/KDE-Four-Live/KDE-Four-Live.i686-0.3.iso</url>
+        <url type="http">http://gd.tuwien.ac.at/kde/unstable/3.92/KDE-Four-Live/KDE-Four-Live.i686-0.3.iso</url>
+        <url type="ftp">ftp://ftp.solnet.ch/mirror/kde/unstable/3.92/KDE-Four-Live/KDE-Four-Live.i686-0.3.iso</url>
+        <url type="ftp">ftp://ftp.kde.org/pub/kde/unstable/3.92/KDE-Four-Live/KDE-Four-Live.i686-0.3.iso</url>
+        <url type="ftp">ftp://ftp-stud.fht-esslingen.de/pub/Mirrors/ftp.kde.org/pub/kde/unstable/3.92/KDE-Four-Live/KDE-Four-Live.i686-0.3.iso</url>
+        <url type="http">http://ftp-stud.fht-esslingen.de/Mirrors/ftp.kde.org/pub/kde/unstable/3.92/KDE-Four-Live/KDE-Four-Live.i686-0.3.iso</url>
+        <url type="ftp">ftp://mirrors.dotsrc.org/kde/unstable/3.92/KDE-Four-Live/KDE-Four-Live.i686-0.3.iso</url>
+        <url type="http">http://mirrors.dotsrc.org/kde/unstable/3.92/KDE-Four-Live/KDE-Four-Live.i686-0.3.iso</url>
+        <url type="ftp">ftp://ftp.du.se/pub/mirrors/kde/unstable/3.92/KDE-Four-Live/KDE-Four-Live.i686-0.3.iso</url>
+        <url type="http">http://ftp.du.se/pub/mirrors/kde/unstable/3.92/KDE-Four-Live/KDE-Four-Live.i686-0.3.iso</url>
+        <url type="http">http://ftp.scarlet.be/pub/kde/unstable/3.92/KDE-Four-Live/KDE-Four-Live.i686-0.3.iso</url>
+        <url type="ftp">ftp://ftp.rediris.es/mirror/kde/stable/3.5.5/src/ftp.kde.org/pub/kde/unstable/3.92/KDE-Four-Live/KDE-Four-Live.i686-0.3.iso</url>
+        <url type="ftp">ftp://ftp.caliu.info/pub/mirrors/kde/unstable/3.92/KDE-Four-Live/KDE-Four-Live.i686-0.3.iso</url>
+        <url type="http">http://ftp.caliu.info/pub/mirrors/kde/unstable/3.92/KDE-Four-Live/KDE-Four-Live.i686-0.3.iso</url>
+        <url type="ftp">ftp://ftp.eu.uu.net/pub/kde/unstable/3.92/KDE-Four-Live/KDE-Four-Live.i686-0.3.iso</url>
+        <url type="ftp">ftp://ftp.tiscali.nl/pub/mirrors/kde/unstable/3.92/KDE-Four-Live/KDE-Four-Live.i686-0.3.iso</url>
+        <url type="http">http://ftp.tiscali.nl/kde/unstable/3.92/KDE-Four-Live/KDE-Four-Live.i686-0.3.iso</url>
+        <url type="ftp">ftp://ftp.na.kde.org/pub/kde/unstable/3.92/KDE-Four-Live/KDE-Four-Live.i686-0.3.iso</url>
+        <url type="http">http://mirrors.isc.org/pub/kde/unstable/3.92/KDE-Four-Live/KDE-Four-Live.i686-0.3.iso</url>
+        <url type="ftp">ftp://carroll.aset.psu.edu/pub/kde/unstable/3.92/KDE-Four-Live/KDE-Four-Live.i686-0.3.iso</url>
+        <url type="ftp">ftp://ftp.oregonstate.edu/pub/kde/unstable/3.92/KDE-Four-Live/KDE-Four-Live.i686-0.3.iso</url>
+        <url type="ftp">ftp://chernabog.cc.vt.edu/pub/projects/kde/unstable/3.92/KDE-Four-Live/KDE-Four-Live.i686-0.3.iso</url>
+        <url type="http">http://chernabog.cc.vt.edu/pub/projects/kde/unstable/3.92/KDE-Four-Live/KDE-Four-Live.i686-0.3.iso</url>
+        <url type="ftp">ftp://ftp.gtlib.cc.gatech.edu/pub/kde/unstable/3.92/KDE-Four-Live/KDE-Four-Live.i686-0.3.iso</url>
+        <url type="http">http://ftp.gtlib.cc.gatech.edu/pub/kde/unstable/3.92/KDE-Four-Live/KDE-Four-Live.i686-0.3.iso</url>
+        <url type="ftp">ftp://ftp.ussg.iu.edu/pub/kde/unstable/3.92/KDE-Four-Live/KDE-Four-Live.i686-0.3.iso</url>
+        <url type="http">http://ftp.ussg.iu.edu/kde/unstable/3.92/KDE-Four-Live/KDE-Four-Live.i686-0.3.iso</url>
+        <url type="ftp">ftp://ibiblio.org/pub/mirrors/kde/unstable/3.92/KDE-Four-Live/KDE-Four-Live.i686-0.3.iso</url>
+        <url type="http">http://ibiblio.org/pub/mirrors/kde/unstable/3.92/KDE-Four-Live/KDE-Four-Live.i686-0.3.iso</url>
+        <url type="ftp">ftp://kde.mirrors.tds.net/pub/kde/unstable/3.92/KDE-Four-Live/KDE-Four-Live.i686-0.3.iso</url>
+        <url type="http">http://kde.mirrors.tds.net/pub/kde/unstable/3.92/KDE-Four-Live/KDE-Four-Live.i686-0.3.iso</url>
+        <url type="http">http://mirror.cc.columbia.edu/pub/software/kde/unstable/3.92/KDE-Four-Live/KDE-Four-Live.i686-0.3.iso</url>
+        <url type="ftp">ftp://ftp.planetmirror.com/pub/kde/unstable/3.92/KDE-Four-Live/KDE-Four-Live.i686-0.3.iso</url>
+        <url type="http">http://public.planetmirror.com/pub/kde/unstable/3.92/KDE-Four-Live/KDE-Four-Live.i686-0.3.iso</url>
+        <url type="ftp">ftp://ftp.kddlabs.co.jp/pub/X11/kde/unstable/3.92/KDE-Four-Live/KDE-Four-Live.i686-0.3.iso</url>
+        <url type="http">http://ftp.kddlabs.co.jp/pub/X11/kde/unstable/3.92/KDE-Four-Live/KDE-Four-Live.i686-0.3.iso</url>
+        <url type="ftp">ftp://ftp.ring.gr.jp/pub/X/kde/unstable/3.92/KDE-Four-Live/KDE-Four-Live.i686-0.3.iso</url>
+        <url type="http">http://ftp.ring.gr.jp/pub/X/kde/unstable/3.92/KDE-Four-Live/KDE-Four-Live.i686-0.3.iso</url>
+        <url type="ftp">ftp://ftp.yz.yamagata-u.ac.jp/pub/X11/wm/kde/unstable/3.92/KDE-Four-Live/KDE-Four-Live.i686-0.3.iso</url>
+        <url type="http">http://ftp.yz.yamagata-u.ac.jp/pub/X11/wm/kde/unstable/3.92/KDE-Four-Live/KDE-Four-Live.i686-0.3.iso</url>
+        <url type="ftp">ftp://ring.asahi-net.or.jp/pub/X/kde/unstable/3.92/KDE-Four-Live/KDE-Four-Live.i686-0.3.iso</url>
+        <url type="http">http://ring.asahi-net.or.jp/pub/X/kde/unstable/3.92/KDE-Four-Live/KDE-Four-Live.i686-0.3.iso</url>
+        <url type="ftp">ftp://sunsite.sut.ac.jp/pub/archives/linux/kde/unstable/3.92/KDE-Four-Live/KDE-Four-Live.i686-0.3.iso</url>
+        <url type="http">http://sunsite.sut.ac.jp/pub/archives/linux/X/kde/unstable/3.92/KDE-Four-Live/KDE-Four-Live.i686-0.3.iso</url>
+        <url type="ftp">ftp://ftp.sayclub.com/pub/X/kde/unstable/3.92/KDE-Four-Live/KDE-Four-Live.i686-0.3.iso</url>
+        <url type="http">http://ftp.sayclub.com/pub/X/kde/unstable/3.92/KDE-Four-Live/KDE-Four-Live.i686-0.3.iso</url>
+        <url type="ftp">ftp://ftp.nectec.or.th/pub/linux-softwares/kde/unstable/3.92/KDE-Four-Live/KDE-Four-Live.i686-0.3.iso</url>
+        <url type="ftp">ftp://linux.cis.nctu.edu.tw/X/wm/kde/unstable/3.92/KDE-Four-Live/KDE-Four-Live.i686-0.3.iso</url>
+        <url type="ftp">ftp://gd.tuwien.ac.at/kde/unstable/3.92/KDE-Four-Live/KDE-Four-Live.i686-0.3.iso</url>
+        <url type="http">http://gd.tuwien.ac.at/kde/unstable/3.92/KDE-Four-Live/KDE-Four-Live.i686-0.3.iso</url>
+        <url type="ftp">ftp://ftp.solnet.ch/mirror/kde/unstable/3.92/KDE-Four-Live/KDE-Four-Live.i686-0.3.iso</url>
+        <url type="ftp">ftp://ftp.fi.muni.cz/pub/kde/unstable/3.92/KDE-Four-Live/KDE-Four-Live.i686-0.3.iso</url>
+        <url type="http">http://ftp.fi.muni.cz/pub/kde/unstable/3.92/KDE-Four-Live/KDE-Four-Live.i686-0.3.iso</url>
+        <url type="ftp">ftp://ftp.fh-dortmund.de/pub/mirrors/kde/unstable/3.92/KDE-Four-Live/KDE-Four-Live.i686-0.3.iso</url>
+        <url type="ftp">ftp://ftp.fu-berlin.de/pub/unix/X11/gui/kde/unstable/3.92/KDE-Four-Live/KDE-Four-Live.i686-0.3.iso</url>
+        <url type="ftp">ftp://ftp.informatik.uni-hamburg.de/pub/soft/X/contrib/kde/unstable/3.92/KDE-Four-Live/KDE-Four-Live.i686-0.3.iso</url>
+        <url type="ftp">ftp://ftp.kde.org/pub/kde/unstable/3.92/KDE-Four-Live/KDE-Four-Live.i686-0.3.iso</url>
+        <url type="ftp">ftp://ftp.rz.uni-wuerzburg.de/pub/unix/kde/unstable/3.92/KDE-Four-Live/KDE-Four-Live.i686-0.3.iso</url>
+        <url type="ftp">ftp://ftp.tu-chemnitz.de/pub/X11/kde/unstable/3.92/KDE-Four-Live/KDE-Four-Live.i686-0.3.iso</url>
+        <url type="ftp">ftp://sunsite.informatik.rwth-aachen.de/pub/Linux/kde/unstable/3.92/KDE-Four-Live/KDE-Four-Live.i686-0.3.iso</url>
+        <url type="ftp">ftp://ftp-stud.fht-esslingen.de/pub/Mirrors/ftp.kde.org/pub/kde/unstable/3.92/KDE-Four-Live/KDE-Four-Live.i686-0.3.iso</url>
+        <url type="http">http://ftp-stud.fht-esslingen.de/Mirrors/ftp.kde.org/pub/kde/unstable/3.92/KDE-Four-Live/KDE-Four-Live.i686-0.3.iso</url>
+        <url type="ftp">ftp://ftp.gwdg.de/pub/x11/kde/unstable/3.92/KDE-Four-Live/KDE-Four-Live.i686-0.3.iso</url>
+        <url type="http">http://ftp.gwdg.de/pub/x11/kde/unstable/3.92/KDE-Four-Live/KDE-Four-Live.i686-0.3.iso</url>
+        <url type="ftp">ftp://ftp.pbone.net/mirror/ftp.kde.org/pub/kde/unstable/3.92/KDE-Four-Live/KDE-Four-Live.i686-0.3.iso</url>
+        <url type="ftp">ftp://ftp.tuniv.szczecin.pl/pub/kde/unstable/3.92/KDE-Four-Live/KDE-Four-Live.i686-0.3.iso</url>
+        <url type="http">http://ftp.tuniv.szczecin.pl/pub/kde/unstable/3.92/KDE-Four-Live/KDE-Four-Live.i686-0.3.iso</url>
+        <url type="ftp">ftp://sunsite.icm.edu.pl/pub/unix/kde/unstable/3.92/KDE-Four-Live/KDE-Four-Live.i686-0.3.iso</url>
+        <url type="http">http://sunsite.icm.edu.pl/pub/unix/kde/unstable/3.92/KDE-Four-Live/KDE-Four-Live.i686-0.3.iso</url>
+        <url type="ftp">ftp://ftp.cronyx.ru/pub/mirror/kde/unstable/3.92/KDE-Four-Live/KDE-Four-Live.i686-0.3.iso</url>
+        <url type="ftp">ftp://ftp.chg.ru/pub/kde/unstable/3.92/KDE-Four-Live/KDE-Four-Live.i686-0.3.iso</url>
+        <url type="http">http://ftp.chg.ru/pub/kde/unstable/3.92/KDE-Four-Live/KDE-Four-Live.i686-0.3.iso</url>
+        <url type="ftp">ftp://mirrors.dotsrc.org/kde/unstable/3.92/KDE-Four-Live/KDE-Four-Live.i686-0.3.iso</url>
+        <url type="http">http://mirrors.dotsrc.org/kde/unstable/3.92/KDE-Four-Live/KDE-Four-Live.i686-0.3.iso</url>
+        <url type="ftp">ftp://ftp.estpak.ee/pub/kde/unstable/3.92/KDE-Four-Live/KDE-Four-Live.i686-0.3.iso</url>
+        <url type="ftp">ftp://ftp.rhnet.is/pub/kde/unstable/3.92/KDE-Four-Live/KDE-Four-Live.i686-0.3.iso</url>
+        <url type="http">http://ftp.rhnet.is/pub/kde/unstable/3.92/KDE-Four-Live/KDE-Four-Live.i686-0.3.iso</url>
+        <url type="ftp">ftp://ftp.funet.fi/pub/mirrors/ftp.kde.org/pub/kde/unstable/3.92/KDE-Four-Live/KDE-Four-Live.i686-0.3.iso</url>
+        <url type="http">http://ftp.funet.fi/pub/mirrors/ftp.kde.org/pub/kde/unstable/3.92/KDE-Four-Live/KDE-Four-Live.i686-0.3.iso</url>
+        <url type="ftp">ftp://ftp.no.kde.org/pub/kde/unstable/3.92/KDE-Four-Live/KDE-Four-Live.i686-0.3.iso</url>
+        <url type="ftp">ftp://ftp.dataplus.se/pub/linux/kde/unstable/3.92/KDE-Four-Live/KDE-Four-Live.i686-0.3.iso</url>
+        <url type="ftp">ftp://ftp.du.se/pub/mirrors/kde/unstable/3.92/KDE-Four-Live/KDE-Four-Live.i686-0.3.iso</url>
+        <url type="http">http://ftp.du.se/pub/mirrors/kde/unstable/3.92/KDE-Four-Live/KDE-Four-Live.i686-0.3.iso</url>
+        <url type="ftp">ftp://ftp.sunet.se/pub/kde/unstable/3.92/KDE-Four-Live/KDE-Four-Live.i686-0.3.iso</url>
+        <url type="http">http://ftp.sunet.se/pub/kde/unstable/3.92/KDE-Four-Live/KDE-Four-Live.i686-0.3.iso</url>
+        <url type="ftp">ftp://ftp.duth.gr/pub/kde/unstable/3.92/KDE-Four-Live/KDE-Four-Live.i686-0.3.iso</url>
+        <url type="http">http://ftp.duth.gr/pub/kde/unstable/3.92/KDE-Four-Live/KDE-Four-Live.i686-0.3.iso</url>
+        <url type="ftp">ftp://ftp.hol.gr/pub/mirror/kde/unstable/3.92/KDE-Four-Live/KDE-Four-Live.i686-0.3.iso</url>
+        <url type="http">http://ftp.hol.gr/mirror/kde/unstable/3.92/KDE-Four-Live/KDE-Four-Live.i686-0.3.iso</url>
+        <url type="ftp">ftp://ftp.ntua.gr/pub/X11/kde/unstable/3.92/KDE-Four-Live/KDE-Four-Live.i686-0.3.iso</url>
+        <url type="http">http://ftp.ntua.gr/pub/X11/kde/unstable/3.92/KDE-Four-Live/KDE-Four-Live.i686-0.3.iso</url>
+        <url type="ftp">ftp://ftp.unina.it/pub/Linux/kde/unstable/3.92/KDE-Four-Live/KDE-Four-Live.i686-0.3.iso</url>
+        <url type="http">http://ftp.unina.it/pub/Linux/kde/unstable/3.92/KDE-Four-Live/KDE-Four-Live.i686-0.3.iso</url>
+        <url type="ftp">ftp://mi.mirror.garr.it/pub/mirrors/kde/unstable/3.92/KDE-Four-Live/KDE-Four-Live.i686-0.3.iso</url>
+        <url type="http">http://mi.mirror.garr.it/mirrors/kde/unstable/3.92/KDE-Four-Live/KDE-Four-Live.i686-0.3.iso</url>
+        <url type="ftp">ftp://ftp.kde.org.yu/kde/unstable/3.92/KDE-Four-Live/KDE-Four-Live.i686-0.3.iso</url>
+        <url type="http">http://ftp.kde.org.yu/kde/unstable/3.92/KDE-Four-Live/KDE-Four-Live.i686-0.3.iso</url>
+        <url type="ftp">ftp://ftp.belnet.be/packages/kde/unstable/3.92/KDE-Four-Live/KDE-Four-Live.i686-0.3.iso</url>
+        <url type="http">http://ftp.belnet.be/packages/kde/unstable/3.92/KDE-Four-Live/KDE-Four-Live.i686-0.3.iso</url>
+        <url type="ftp">ftp://ftp.scarlet.be/pub/kde/unstable/3.92/KDE-Four-Live/KDE-Four-Live.i686-0.3.iso</url>
+        <url type="http">http://ftp.scarlet.be/pub/kde/unstable/3.92/KDE-Four-Live/KDE-Four-Live.i686-0.3.iso</url>
+        <url type="ftp">ftp://ftp.rediris.es/mirror/kde/stable/3.5.5/src/ftp.kde.org/pub/kde/unstable/3.92/KDE-Four-Live/KDE-Four-Live.i686-0.3.iso</url>
+        <url type="ftp">ftp://ftp.caliu.info/pub/mirrors/kde/unstable/3.92/KDE-Four-Live/KDE-Four-Live.i686-0.3.iso</url>
+        <url type="http">http://ftp.caliu.info/pub/mirrors/kde/unstable/3.92/KDE-Four-Live/KDE-Four-Live.i686-0.3.iso</url>
+        <url type="ftp">ftp://ftp.lip6.fr/pub/X11/kde/unstable/3.92/KDE-Four-Live/KDE-Four-Live.i686-0.3.iso</url>
+        <url type="ftp">ftp://ftp.uvsq.fr/pub/X11/kde/unstable/3.92/KDE-Four-Live/KDE-Four-Live.i686-0.3.iso</url>
+        <url type="http">http://www-ftp.lip6.fr/pub/X11/kde/unstable/3.92/KDE-Four-Live/KDE-Four-Live.i686-0.3.iso</url>
+        <url type="ftp">ftp://fr2.rpmfind.net/linux/kde/unstable/3.92/KDE-Four-Live/KDE-Four-Live.i686-0.3.iso</url>
+        <url type="http">http://fr2.rpmfind.net/linux/kde/unstable/3.92/KDE-Four-Live/KDE-Four-Live.i686-0.3.iso</url>
+        <url type="ftp">ftp://ftp.esat.net/mirrors/ftp.kde.org/pub/kde/unstable/3.92/KDE-Four-Live/KDE-Four-Live.i686-0.3.iso</url>
+        <url type="http">http://ftp.esat.net/mirrors/ftp.kde.org/pub/kde/unstable/3.92/KDE-Four-Live/KDE-Four-Live.i686-0.3.iso</url>
+        <url type="ftp">ftp://ftp.eu.uu.net/pub/kde/unstable/3.92/KDE-Four-Live/KDE-Four-Live.i686-0.3.iso</url>
+        <url type="ftp">ftp://ftp.tiscali.nl/pub/mirrors/kde/unstable/3.92/KDE-Four-Live/KDE-Four-Live.i686-0.3.iso</url>
+        <url type="http">http://ftp.tiscali.nl/kde/unstable/3.92/KDE-Four-Live/KDE-Four-Live.i686-0.3.iso</url>
+        <url type="ftp">ftp://ftp.mirrorservice.org/sites/ftp.kde.org/pub/kde/unstable/3.92/KDE-Four-Live/KDE-Four-Live.i686-0.3.iso</url>
+        <url type="http">http://www.mirrorservice.org/sites/ftp.kde.org/pub/kde/unstable/3.92/KDE-Four-Live/KDE-Four-Live.i686-0.3.iso</url>
+        <url type="ftp">ftp://ftp.mirror.ac.uk/sites/ftp.kde.org/pub/kde/unstable/3.92/KDE-Four-Live/KDE-Four-Live.i686-0.3.iso</url>
+        <url type="http">http://ftp.mirror.ac.uk/sites/ftp.kde.org/pub/kde/unstable/3.92/KDE-Four-Live/KDE-Four-Live.i686-0.3.iso</url>
+      </resources>
+    </file>
+  </files>
+</metalink>

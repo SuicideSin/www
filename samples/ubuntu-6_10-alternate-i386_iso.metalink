@@ -1,0 +1,1725 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<metalink version="3.0" xmlns="http://www.metalinker.org/"
+  origin="http://metalink.packages.ro/download/download/ubuntu/ubuntu-6.10-alternate-i386.iso.metalink"
+  type="static" pubdate="2006-10-26-06:08:41"
+  generator="Metalink Gen - http://metalink.packages.ro" 
+  refreshdate="2006-10-26-06:08:41">
+  
+<!--
+  Metalink, an Open Standard, makes downloading easier by
+  bundling the various ways (FTP/HTTP/P2P) to get files into
+  one format for easier downloads, as well as bundling
+  checksums to automatically verify completed downloads.
+  Currently the following applications support this file:
+
+  - aria2 (Unix) [ http://aria2.sourceforge.net/ ]
+  - GetRight 6 (Windows) [ http://www.getright.com/ ]
+  - Speed Download (Mac) [ http://www.yazsoft.com/ ]
+  - wxDownload Fast (All)[ http://dfast.sourceforge.net/ ]
+
+  For further information please visit http://www.metalinker.org/.
+  For OpenSource metalinks, generated with the precious help of
+  RoEduNet Iasi, see http://download.packages.ro/metalinks/
+
+-->
+
+  <publisher>
+    <name>Package resources</name>
+    <url>http://www.packages.ro</url>
+  </publisher>
+  <license>
+    <name>GPL</name>
+    <url>http://www.gnu.org/copyleft/gpl.html</url>
+  </license>    
+  <description>Ubuntu Linux CD</description>
+  <tags>ubuntu,linux,releases</tags>
+  <identity>ubuntu-6.10-alternate-i386.iso</identity>
+  <version>6.10</version>
+
+  <files>  
+   <file name="ubuntu-6.10-alternate-i386.iso">
+    
+     <os>Linux-x86</os>
+    
+    <size>730931200</size>
+    <verification>
+     <hash type="md5">549ef19097b10ac9237c08f6dc6084c6</hash>
+    </verification>
+    <resources>
+      
+     
+      <url type="http"
+           location="tw"
+           preference="10">
+       http://apt.ubuntu.org.tw/releases/.pool/ubuntu-6.10-alternate-i386.iso
+      </url>
+      <url type="ftp"
+           location="tw"
+           preference="10">
+       ftp://ftp.cse.yzu.edu.tw/Linux/Ubuntu/ubuntu-cd/.pool/ubuntu-6.10-alternate-i386.iso
+      </url>
+      <url type="http"
+           location="tw"
+           preference="10">
+       http://ftp.cse.yzu.edu.tw/ftp/Linux/Ubuntu/ubuntu-cd/.pool/ubuntu-6.10-alternate-i386.iso
+      </url>
+      <url type="ftp"
+           location="ch"
+           preference="10">
+       ftp://mirror.switch.ch/mirror/ubuntu-cdimage/.pool/ubuntu-6.10-alternate-i386.iso
+      </url>
+      <url type="http"
+           location="ch"
+           preference="10">
+       http://mirror.switch.ch/ftp/mirror/ubuntu-cdimage/.pool/ubuntu-6.10-alternate-i386.iso
+      </url>
+      <url type="ftp"
+           location="se"
+           preference="10">
+       ftp://ftp.se.linux.org/pub/Linux/distributions/ubuntu/releases/.pool/ubuntu-6.10-alternate-i386.iso
+      </url>
+      <url type="ftp"
+           location="es"
+           preference="10">
+       ftp://ftp.ubuntu-es.org/ubuntu-cdimage/.pool/ubuntu-6.10-alternate-i386.iso
+      </url>
+      <url type="ftp"
+           location="es"
+           preference="10">
+       ftp://ftp.um.es/mirror/ubuntu-cds/.pool/ubuntu-6.10-alternate-i386.iso
+      </url>
+      <url type="http"
+           location="es"
+           preference="10">
+       http://sunsite.rediris.es/mirror/ubuntu-releases/.pool/ubuntu-6.10-alternate-i386.iso
+      </url>
+      <url type="http"
+           location="es"
+           preference="10">
+       http://isolinux.xtec.net/ubuntu/.pool/ubuntu-6.10-alternate-i386.iso
+      </url>
+      <url type="ftp"
+           location="za"
+           preference="10">
+       ftp://ftp.leg.uct.ac.za/pub/linux/ubuntu-releases/.pool/ubuntu-6.10-alternate-i386.iso
+      </url>
+      <url type="ftp"
+           location="sp"
+           preference="10">
+       ftp://yu.releases.ubuntu.com/releases/.pool/ubuntu-6.10-alternate-i386.iso
+      </url>
+      <url type="http"
+           location="sp"
+           preference="10">
+       http://yu.releases.ubuntu.com/releases/.pool/ubuntu-6.10-alternate-i386.iso
+      </url>
+      <url type="ftp"
+           location="ru"
+           preference="10">
+       ftp://debian.nsu.ru/ubuntu-releases/.pool/ubuntu-6.10-alternate-i386.iso
+      </url>
+      <url type="http"
+           location="ru"
+           preference="10">
+       http://debian.nsu.ru/ubuntu-releases/.pool/ubuntu-6.10-alternate-i386.iso
+      </url>
+      <url type="ftp"
+           location="ro"
+           preference="10">
+       ftp://ftp.lug.ro/ubuntu-releases/.pool/ubuntu-6.10-alternate-i386.iso
+      </url>
+      <url type="ftp"
+           location="ro"
+           preference="10">
+       ftp://ftp.iasi.roedu.net/mirrors/ubuntulinux.org/releases/.pool/ubuntu-6.10-alternate-i386.iso
+      </url>
+      <url type="http"
+           location="ro"
+           preference="10">
+       http://ftp.iasi.roedu.net/mirrors/ubuntulinux.org/releases/.pool/ubuntu-6.10-alternate-i386.iso
+      </url>
+      <url type="http"
+           location="ro"
+           preference="10">
+       http://ftp.lug.ro/ubuntu-releases/.pool/ubuntu-6.10-alternate-i386.iso
+      </url>
+      <url type="ftp"
+           location="pt"
+           preference="10">
+       ftp://neacm.fe.up.pt/pub/ubuntu/.pool/ubuntu-6.10-alternate-i386.iso
+      </url>
+      <url type="ftp"
+           location="pt"
+           preference="10">
+       ftp://ftp.rnl.ist.utl.pt/ubuntu-releases/.pool/ubuntu-6.10-alternate-i386.iso
+      </url>
+      <url type="http"
+           location="pt"
+           preference="10">
+       http://neacm.fe.up.pt/pub/ubuntu/.pool/ubuntu-6.10-alternate-i386.iso
+      </url>
+      <url type="http"
+           location="pt"
+           preference="10">
+       http://glua.ua.pt/mirror/dists/ubuntu/releases/.pool/ubuntu-6.10-alternate-i386.iso
+      </url>
+      <url type="http"
+           location="pt"
+           preference="10">
+       http://darkstar.ist.utl.pt/ubuntu/5.04/.pool/ubuntu-6.10-alternate-i386.iso
+      </url>
+      <url type="ftp"
+           location="pl"
+           preference="10">
+       ftp://ubuntu.task.gda.pl/ubuntu-releases/.pool/ubuntu-6.10-alternate-i386.iso
+      </url>
+      <url type="http"
+           location="pl"
+           preference="10">
+       http://ubuntu.task.gda.pl/ubuntu-releases/.pool/ubuntu-6.10-alternate-i386.iso
+      </url>
+      <url type="http"
+           location="pl"
+           preference="10">
+       http://ubuntulinux.mainseek.com/releases/.pool/ubuntu-6.10-alternate-i386.iso
+      </url>
+      <url type="ftp"
+           location="no"
+           preference="10">
+       ftp://ftp.uninett.no/linux/ubuntu-iso/.pool/ubuntu-6.10-alternate-i386.iso
+      </url>
+      <url type="http"
+           location="no"
+           preference="10">
+       http://mirror.trivini.no/ubuntu-iso/.pool/ubuntu-6.10-alternate-i386.iso
+      </url>
+      <url type="ftp"
+           location="nl"
+           preference="10">
+       ftp://ilsb.il.fontys.nl/pub/linux/distr/ubuntu/.pool/ubuntu-6.10-alternate-i386.iso
+      </url>
+      <url type="http"
+           location="nl"
+           preference="10">
+       http://sommerville.uvt.nl/ubuntu/.pool/ubuntu-6.10-alternate-i386.iso
+      </url>
+      <url type="http"
+           location="nl"
+           preference="10">
+       http://nl.releases.ubuntu.com/.pool/ubuntu-6.10-alternate-i386.iso
+      </url>
+      <url type="ftp"
+           location="lt"
+           preference="10">
+       ftp://ftp.litnet.lt/pub/ubuntu-cd/.pool/ubuntu-6.10-alternate-i386.iso
+      </url>
+      <url type="http"
+           location="lt"
+           preference="10">
+       http://ftp.litnet.lt/pub/ubuntu-cd/.pool/ubuntu-6.10-alternate-i386.iso
+      </url>
+      <url type="ftp"
+           location="jp"
+           preference="10">
+       ftp://ftp.yz.yamagata-u.ac.jp/pub/linux/ubuntu/releases/.pool/ubuntu-6.10-alternate-i386.iso
+      </url>
+      <url type="http"
+           location="jp"
+           preference="10">
+       http://ftp.yz.yamagata-u.ac.jp/pub/linux/ubuntu/releases/.pool/ubuntu-6.10-alternate-i386.iso
+      </url>
+      <url type="http"
+           location="jp"
+           preference="10">
+       http://ubuntu.mithril-linux.org/releases/.pool/ubuntu-6.10-alternate-i386.iso
+      </url>
+      <url type="ftp"
+           location="it"
+           preference="10">
+       ftp://na.mirror.garr.it/mirrors/ubuntu-releases/.pool/ubuntu-6.10-alternate-i386.iso
+      </url>
+      <url type="ftp"
+           location="it"
+           preference="10">
+       ftp://ftp.linux.it/ubuntu/releases/.pool/ubuntu-6.10-alternate-i386.iso
+      </url>
+      <url type="http"
+           location="it"
+           preference="10">
+       http://na.mirror.garr.it/mirrors/ubuntu-releases/.pool/ubuntu-6.10-alternate-i386.iso
+      </url>
+      <url type="http"
+           location="it"
+           preference="10">
+       http://ftp.linux.it/ubuntu/releases/.pool/ubuntu-6.10-alternate-i386.iso
+      </url>
+      <url type="ftp"
+           location="ie"
+           preference="10">
+       ftp://ftp.esat.net/mirrors/releases.ubuntu.com/.pool/ubuntu-6.10-alternate-i386.iso
+      </url>
+      <url type="ftp"
+           location="ie"
+           preference="10">
+       ftp://ftp.heanet.ie/pub/ubuntu-releases/.pool/ubuntu-6.10-alternate-i386.iso
+      </url>
+      <url type="http"
+           location="ie"
+           preference="10">
+       http://ftp.heanet.ie/pub/ubuntu-releases/.pool/ubuntu-6.10-alternate-i386.iso
+      </url>
+      <url type="http"
+           location="ie"
+           preference="10">
+       http://ftp.esat.net/mirrors/releases.ubuntu.com/.pool/ubuntu-6.10-alternate-i386.iso
+      </url>
+      <url type="http"
+           location="hu"
+           preference="10">
+       http://ubuntu.elasztik.hu/.pool/ubuntu-6.10-alternate-i386.iso
+      </url>
+      <url type="ftp"
+           location="hu"
+           preference="10">
+       ftp://ftp.fsn.hu/pub/CDROM-Images/ubuntu/releases/.pool/ubuntu-6.10-alternate-i386.iso
+      </url>
+      <url type="ftp"
+           location="hu"
+           preference="10">
+       ftp://ftp.kfki.hu/pub/linux/cdimages/ubuntu/.pool/ubuntu-6.10-alternate-i386.iso
+      </url>
+      <url type="http"
+           location="hu"
+           preference="10">
+       http://ftp.kfki.hu/linux/cdimages/ubuntu/.pool/ubuntu-6.10-alternate-i386.iso
+      </url>
+      <url type="ftp"
+           location="gr"
+           preference="10">
+       ftp://ftp.ntua.gr/pub/linux/ubuntu-releases/.pool/ubuntu-6.10-alternate-i386.iso
+      </url>
+      <url type="http"
+           location="gr"
+           preference="10">
+       http://ftp.ntua.gr/pub/linux/ubuntu-releases/.pool/ubuntu-6.10-alternate-i386.iso
+      </url>
+      <url type="ftp"
+           location="de"
+           preference="10">
+       ftp://ftp.join.uni-muenster.de/pub/mirrors/ftp.ubuntu.com/releases/.pool/ubuntu-6.10-alternate-i386.iso
+      </url>
+      <url type="ftp"
+           location="de"
+           preference="10">
+       ftp://ftp.rz.tu-bs.de/pub/mirror/ubuntu-cd-releases/.pool/ubuntu-6.10-alternate-i386.iso
+      </url>
+      <url type="ftp"
+           location="de"
+           preference="10">
+       ftp://ftp.bay13.net/pub/ubuntu/.pool/ubuntu-6.10-alternate-i386.iso
+      </url>
+      <url type="ftp"
+           location="de"
+           preference="10">
+       ftp://ftp2.kgt.org/pub/ubuntu.com/releases/.pool/ubuntu-6.10-alternate-i386.iso
+      </url>
+      <url type="ftp"
+           location="de"
+           preference="10">
+       ftp://mirror.teleport-iabg.de/mirror/releases.ubuntu.com/.pool/ubuntu-6.10-alternate-i386.iso
+      </url>
+      <url type="ftp"
+           location="de"
+           preference="10">
+       ftp://source.rfc822.org/pub/mirror/releases.ubuntu.com/.pool/ubuntu-6.10-alternate-i386.iso
+      </url>
+      <url type="ftp"
+           location="de"
+           preference="10">
+       ftp://ftp.fu-berlin.de/linux/ubuntu/releases/.pool/ubuntu-6.10-alternate-i386.iso
+      </url>
+      <url type="ftp"
+           location="de"
+           preference="10">
+       ftp://debian.charite.de/releases/.pool/ubuntu-6.10-alternate-i386.iso
+      </url>
+      <url type="http"
+           location="de"
+           preference="10">
+       http://ftp.join.uni-muenster.de/pub/mirrors/ftp.ubuntu.com/releases/.pool/ubuntu-6.10-alternate-i386.iso
+      </url>
+      <url type="http"
+           location="de"
+           preference="10">
+       http://ftp.rz.tu-bs.de/pub/mirror/ubuntu-cd-releases/.pool/ubuntu-6.10-alternate-i386.iso
+      </url>
+      <url type="http"
+           location="de"
+           preference="10">
+       http://ftp2.kgt.org/pub/ubuntu.com/releases/.pool/ubuntu-6.10-alternate-i386.iso
+      </url>
+      <url type="http"
+           location="de"
+           preference="10">
+       http://source.rfc822.org/pub/mirror/releases.ubuntu.com/.pool/ubuntu-6.10-alternate-i386.iso
+      </url>
+      <url type="http"
+           location="de"
+           preference="10">
+       http://releases.ubuntu.mirror.at.stealer.net/.pool/ubuntu-6.10-alternate-i386.iso
+      </url>
+      <url type="http"
+           location="de"
+           preference="10">
+       http://debian.charite.de/releases/.pool/ubuntu-6.10-alternate-i386.iso
+      </url>
+      <url type="http"
+           location="ge"
+           preference="10">
+       http://ubuntu.eriders.ge/releases/.pool/ubuntu-6.10-alternate-i386.iso
+      </url>
+      <url type="ftp"
+           location="fr"
+           preference="10">
+       ftp://fr.archive.ubuntu.com/ubuntu-cd/.pool/ubuntu-6.10-alternate-i386.iso
+      </url>
+      <url type="ftp"
+           location="fr"
+           preference="10">
+       ftp://ftp.univ-pau.fr/pub/linux/iso/ubuntu/.pool/ubuntu-6.10-alternate-i386.iso
+      </url>
+      <url type="ftp"
+           location="fr"
+           preference="10">
+       ftp://mir1.ovh.net/ubuntu/releases/.pool/ubuntu-6.10-alternate-i386.iso
+      </url>
+      <url type="ftp"
+           location="fr"
+           preference="10">
+       ftp://www.paulla.asso.fr/pub/Ubuntu/.pool/ubuntu-6.10-alternate-i386.iso
+      </url>
+      <url type="http"
+           location="fr"
+           preference="10">
+       http://fr.releases.ubuntu.com/.pool/ubuntu-6.10-alternate-i386.iso
+      </url>
+      <url type="http"
+           location="fr"
+           preference="10">
+       http://ftp.univ-pau.fr/linux/iso/ubuntu/.pool/ubuntu-6.10-alternate-i386.iso
+      </url>
+      <url type="http"
+           location="fr"
+           preference="10">
+       http://mir1.ovh.net/ubuntu/releases/.pool/ubuntu-6.10-alternate-i386.iso
+      </url>
+      <url type="ftp"
+           location="fi"
+           preference="10">
+       ftp://ftp.funet.fi/pub/mirrors/releases.ubuntu.com/releases/.pool/ubuntu-6.10-alternate-i386.iso
+      </url>
+      <url type="http"
+           location="fi"
+           preference="10">
+       http://www.nic.funet.fi/pub/mirrors/releases.ubuntu.com/releases/.pool/ubuntu-6.10-alternate-i386.iso
+      </url>
+      <url type="ftp"
+           location="ee"
+           preference="10">
+       ftp://ftp.estpak.ee/pub/ubuntu-releases/.pool/ubuntu-6.10-alternate-i386.iso
+      </url>
+      <url type="http"
+           location="ee"
+           preference="10">
+       http://ftp.estpak.ee/pub/ubuntu-releases/.pool/ubuntu-6.10-alternate-i386.iso
+      </url>
+      <url type="ftp"
+           location="dk"
+           preference="10">
+       ftp://mirrors.dotsrc.org/ubuntu-cd/.pool/ubuntu-6.10-alternate-i386.iso
+      </url>
+      <url type="ftp"
+           location="dk"
+           preference="10">
+       ftp://mirrors.dk.telia.net/pub/mirrors/releases.ubuntu.com/.pool/ubuntu-6.10-alternate-i386.iso
+      </url>
+      <url type="http"
+           location="dk"
+           preference="10">
+       http://mirrors.dotsrc.org/ubuntu-cd/.pool/ubuntu-6.10-alternate-i386.iso
+      </url>
+      <url type="http"
+           location="dk"
+           preference="10">
+       http://mirrors.dk.telia.net/pub/mirrors/releases.ubuntu.com/.pool/ubuntu-6.10-alternate-i386.iso
+      </url>
+      <url type="http"
+           location="cz"
+           preference="10">
+       http://ubuntu.supp.name/releases/.pool/ubuntu-6.10-alternate-i386.iso
+      </url>
+      <url type="ftp"
+           location="cz"
+           preference="10">
+       ftp://archive.ubuntu.cz/cdimage/.pool/ubuntu-6.10-alternate-i386.iso
+      </url>
+      <url type="http"
+           location="cz"
+           preference="10">
+       http://releases.ubuntu.cz/warty/.pool/ubuntu-6.10-alternate-i386.iso
+      </url>
+      <url type="http"
+           location="cz"
+           preference="10">
+       http://archive.ubuntu.cz/cdimage/.pool/ubuntu-6.10-alternate-i386.iso
+      </url>
+      <url type="ftp"
+           location="hr"
+           preference="10">
+       ftp://debian.carnet.hr/ubuntu-releases/.pool/ubuntu-6.10-alternate-i386.iso
+      </url>
+      <url type="http"
+           location="hr"
+           preference="10">
+       http://debian.carnet.hr/ubuntu-releases/.pool/ubuntu-6.10-alternate-i386.iso
+      </url>
+      <url type="ftp"
+           location="cr"
+           preference="10">
+       ftp://ftp.ucr.ac.cr/pub/ubuntu-cd/.pool/ubuntu-6.10-alternate-i386.iso
+      </url>
+      <url type="http"
+           location="cr"
+           preference="10">
+       http://ftp.ucr.ac.cr/ubuntu-cd/.pool/ubuntu-6.10-alternate-i386.iso
+      </url>
+      <url type="http"
+           location="cn"
+           preference="10">
+       http://mirror.lupaworld.com/ubuntu/.pool/ubuntu-6.10-alternate-i386.iso
+      </url>
+      <url type="http"
+           location="cn"
+           preference="10">
+       http://mirror.vmmatrix.net/ubuntu-cd/.pool/ubuntu-6.10-alternate-i386.iso
+      </url>
+      <url type="ftp"
+           location="ca"
+           preference="10">
+       ftp://mirror.arcticnetwork.ca/pub/ubuntu/releases/.pool/ubuntu-6.10-alternate-i386.iso
+      </url>
+      <url type="http"
+           location="ca"
+           preference="10">
+       http://mirror.arcticnetwork.ca/pub/ubuntu/releases/.pool/ubuntu-6.10-alternate-i386.iso
+      </url>
+      <url type="ftp"
+           location="ca"
+           preference="10">
+       ftp://cs.ubishops.ca/pub/iso/ubuntu/.pool/ubuntu-6.10-alternate-i386.iso
+      </url>
+      <url type="ftp"
+           location="ca"
+           preference="10">
+       ftp://gulus.USherbrooke.ca/ubuntu/iso/.pool/ubuntu-6.10-alternate-i386.iso
+      </url>
+      <url type="http"
+           location="ca"
+           preference="10">
+       http://gulus.USherbrooke.ca/pub/distro/ubuntu/iso/.pool/ubuntu-6.10-alternate-i386.iso
+      </url>
+      <url type="http"
+           location="bg"
+           preference="10">
+       http://ubuntu.ipacct.com/releases/.pool/ubuntu-6.10-alternate-i386.iso
+      </url>
+      <url type="http"
+           location="br"
+           preference="10">
+       http://espelhos.edugraf.ufsc.br/ubuntu-releases/.pool/ubuntu-6.10-alternate-i386.iso
+      </url>
+      <url type="http"
+           location="br"
+           preference="10">
+       http://ubuntu.c3sl.ufpr.br/releases/.pool/ubuntu-6.10-alternate-i386.iso
+      </url>
+      <url type="http"
+           location="br"
+           preference="10">
+       http://ftp.interlegis.gov.br/pub/ubuntu/releases/.pool/ubuntu-6.10-alternate-i386.iso
+      </url>
+      <url type="http"
+           location="be"
+           preference="10">
+       http://mirror.freax.be/ubuntu/.pool/ubuntu-6.10-alternate-i386.iso
+      </url>
+      <url type="ftp"
+           location="at"
+           preference="10">
+       ftp://ftp.uni-klu.ac.at/linux/ubuntu-cdimage/.pool/ubuntu-6.10-alternate-i386.iso
+      </url>
+      <url type="ftp"
+           location="at"
+           preference="10">
+       ftp://ubuntu.inode.at/cdimage/.pool/ubuntu-6.10-alternate-i386.iso
+      </url>
+      <url type="ftp"
+           location="at"
+           preference="10">
+       ftp://gd.tuwien.ac.at/opsys/linux/ubuntu/cdimage/.pool/ubuntu-6.10-alternate-i386.iso
+      </url>
+      <url type="http"
+           location="at"
+           preference="10">
+       http://gd.tuwien.ac.at/opsys/linux/ubuntu/cdimage/.pool/ubuntu-6.10-alternate-i386.iso
+      </url>
+      <url type="http"
+           location="at"
+           preference="10">
+       http://ubuntu.uni-klu.ac.at/ubuntu-cdimage/.pool/ubuntu-6.10-alternate-i386.iso
+      </url>
+      <url type="http"
+           location="at"
+           preference="10">
+       http://ubuntu.inode.at/cdimage/.pool/ubuntu-6.10-alternate-i386.iso
+      </url>
+      <url type="ftp"
+           location="au"
+           preference="10">
+       ftp://mirror.pacific.net.au/linux/ubuntu-releases/.pool/ubuntu-6.10-alternate-i386.iso
+      </url>
+      <url type="ftp"
+           location="au"
+           preference="10">
+       ftp://ftp.filearena.net/pub/ubuntu-releases/.pool/ubuntu-6.10-alternate-i386.iso
+      </url>
+      <url type="ftp"
+           location="au"
+           preference="10">
+       ftp://ftp.planetmirror.com/pub/ubuntu/releases/.pool/ubuntu-6.10-alternate-i386.iso
+      </url>
+      <url type="ftp"
+           location="au"
+           preference="10">
+       ftp://mirror.isp.net.au/pub/ubuntu-releases/.pool/ubuntu-6.10-alternate-i386.iso
+      </url>
+      <url type="ftp"
+           location="au"
+           preference="10">
+       ftp://ftp.iinet.net.au/pub/ubuntu-releases/.pool/ubuntu-6.10-alternate-i386.iso
+      </url>
+      <url type="http"
+           location="au"
+           preference="10">
+       http://mirror.pacific.net.au/linux/ubuntu-releases/.pool/ubuntu-6.10-alternate-i386.iso
+      </url>
+      <url type="http"
+           location="au"
+           preference="10">
+       http://ubuntu-releases.optus.net/.pool/ubuntu-6.10-alternate-i386.iso
+      </url>
+      <url type="http"
+           location="au"
+           preference="10">
+       http://www.planetmirror.com/pub/ubuntu/releases/.pool/ubuntu-6.10-alternate-i386.iso
+      </url>
+      <url type="http"
+           location="au"
+           preference="10">
+       http://mirror.isp.net.au/ftp/pub/ubuntu-releases/.pool/ubuntu-6.10-alternate-i386.iso
+      </url>
+      <url type="http"
+           location="au"
+           preference="10">
+       http://ftp.iinet.net.au/pub/ubuntu-releases/.pool/ubuntu-6.10-alternate-i386.iso
+      </url>
+      <url type="http"
+           location="uz"
+           preference="10">
+       http://cdimage.ubuntu.com/releases/dapper/current/.pool/ubuntu-6.10-alternate-i386.iso
+      </url>
+      <url type="http"
+           location="uz"
+           preference="10">
+       http://cdimage.ubuntu.com/daily/current/.pool/ubuntu-6.10-alternate-i386.iso
+      </url>
+      <url type="http"
+           location="uz"
+           preference="10">
+       http://releases.ubuntu.com/.pool/ubuntu-6.10-alternate-i386.iso
+      </url>
+      <url type="http"
+           location="uz"
+           preference="10">
+       http://ubuntu.snet.uz/ubuntu/.pool/ubuntu-6.10-alternate-i386.iso
+      </url>
+      <url type="ftp"
+           location="us"
+           preference="10">
+       ftp://ubuntu.cs.utah.edu/pub/ubuntu/ubuntu/.pool/ubuntu-6.10-alternate-i386.iso
+      </url>
+      <url type="ftp"
+           location="us"
+           preference="10">
+       ftp://mirrors.cat.pdx.edu/ubuntu/.pool/ubuntu-6.10-alternate-i386.iso
+      </url>
+      <url type="ftp"
+           location="us"
+           preference="10">
+       ftp://mirror.mcs.anl.gov/pub/ubuntu/.pool/ubuntu-6.10-alternate-i386.iso
+      </url>
+      <url type="ftp"
+           location="us"
+           preference="10">
+       ftp://ubuntu.mirrors.tds.net/ubuntu/.pool/ubuntu-6.10-alternate-i386.iso
+      </url>
+      <url type="ftp"
+           location="us"
+           preference="10">
+       ftp://mirror.clarkson.edu/pub/distributions/ubuntu/.pool/ubuntu-6.10-alternate-i386.iso
+      </url>
+      <url type="ftp"
+           location="us"
+           preference="10">
+       ftp://ftp.ussg.iu.edu/linux/ubuntu/.pool/ubuntu-6.10-alternate-i386.iso
+      </url>
+      <url type="ftp"
+           location="us"
+           preference="10">
+       ftp://mirrors.xmission.com/ubuntu/.pool/ubuntu-6.10-alternate-i386.iso
+      </url>
+      <url type="ftp"
+           location="us"
+           preference="10">
+       ftp://ftp.osuosl.org/pub/ubuntu/.pool/ubuntu-6.10-alternate-i386.iso
+      </url>
+      <url type="http"
+           location="us"
+           preference="10">
+       http://mirrors.cs.wmich.edu/ubuntu/.pool/ubuntu-6.10-alternate-i386.iso
+      </url>
+      <url type="http"
+           location="us"
+           preference="10">
+       http://ftp.osuosl.org/pub/ubuntu/.pool/ubuntu-6.10-alternate-i386.iso
+      </url>
+      <url type="http"
+           location="us"
+           preference="10">
+       http://mirrors.xmission.com/ubuntu/.pool/ubuntu-6.10-alternate-i386.iso
+      </url>
+      <url type="http"
+           location="us"
+           preference="10">
+       http://ftp.ussg.iu.edu/linux/ubuntu/.pool/ubuntu-6.10-alternate-i386.iso
+      </url>
+      <url type="http"
+           location="us"
+           preference="10">
+       http://ubuntu.cs.utah.edu/ubuntu/.pool/ubuntu-6.10-alternate-i386.iso
+      </url>
+      <url type="http"
+           location="us"
+           preference="10">
+       http://mirrors.cat.pdx.edu/ubuntu/.pool/ubuntu-6.10-alternate-i386.iso
+      </url>
+      <url type="http"
+           location="us"
+           preference="10">
+       http://mirror.mcs.anl.gov/pub/ubuntu/.pool/ubuntu-6.10-alternate-i386.iso
+      </url>
+      <url type="http"
+           location="us"
+           preference="10">
+       http://ubuntu.secs.oakland.edu/.pool/ubuntu-6.10-alternate-i386.iso
+      </url>
+      <url type="http"
+           location="us"
+           preference="10">
+       http://ftp.ale.org/pub/mirrors/ubuntu/.pool/ubuntu-6.10-alternate-i386.iso
+      </url>
+      <url type="http"
+           location="us"
+           preference="10">
+       http://www.opensourcemirrors.org/ubuntu/.pool/ubuntu-6.10-alternate-i386.iso
+      </url>
+      <url type="http"
+           location="us"
+           preference="10">
+       http://ubuntu.mirrors.tds.net/ubuntu/.pool/ubuntu-6.10-alternate-i386.iso
+      </url>
+      <url type="http"
+           location="us"
+           preference="10">
+       http://mirror.clarkson.edu/pub/distributions/ubuntu/.pool/ubuntu-6.10-alternate-i386.iso
+      </url>
+      <url type="http"
+           location="us"
+           preference="10">
+       http://lug.mtu.edu/ubuntu/.pool/ubuntu-6.10-alternate-i386.iso
+      </url>
+      <url type="http"
+           location="us"
+           preference="10">
+       http://mirror.cs.umn.edu/ubuntu/.pool/ubuntu-6.10-alternate-i386.iso
+      </url>
+      <url type="ftp"
+           location="gb"
+           preference="10">
+       ftp://ftp.blueyonder.co.uk/sites/ubuntu/archive/.pool/ubuntu-6.10-alternate-i386.iso
+      </url>
+      <url type="http"
+           location="gb"
+           preference="10">
+       http://ubuntu.blueyonder.co.uk/archive/.pool/ubuntu-6.10-alternate-i386.iso
+      </url>
+      <url type="ftp"
+           location="gb"
+           preference="10">
+       ftp://ftp.mirror.ac.uk/mirror/archive.ubuntu.com/ubuntu/.pool/ubuntu-6.10-alternate-i386.iso
+      </url>
+      <url type="http"
+           location="gb"
+           preference="10">
+       http://www.mirror.ac.uk/mirror/archive.ubuntu.com/ubuntu/.pool/ubuntu-6.10-alternate-i386.iso
+      </url>
+      <url type="ftp"
+           location="gb"
+           preference="10">
+       ftp://ftp.mirrorservice.org/sites/archive.ubuntu.com/ubuntu/.pool/ubuntu-6.10-alternate-i386.iso
+      </url>
+      <url type="http"
+           location="gb"
+           preference="10">
+       http://www.mirrorservice.org/sites/archive.ubuntu.com/ubuntu/.pool/ubuntu-6.10-alternate-i386.iso
+      </url>
+      <url type="ftp"
+           location="tr"
+           preference="10">
+       ftp://godel.cs.bilgi.edu.tr/ubuntu/.pool/ubuntu-6.10-alternate-i386.iso
+      </url>
+      <url type="http"
+           location="tr"
+           preference="10">
+       http://godel.cs.bilgi.edu.tr/mirror/ubuntu/.pool/ubuntu-6.10-alternate-i386.iso
+      </url>
+      <url type="ftp"
+           location="tw"
+           preference="10">
+       ftp://ftp.cse.yzu.edu.tw/Linux/Ubuntu/ubuntu/.pool/ubuntu-6.10-alternate-i386.iso
+      </url>
+      <url type="http"
+           location="tw"
+           preference="10">
+       http://ftp.cse.yzu.edu.tw/ftp/Linux/Ubuntu/ubuntu/.pool/ubuntu-6.10-alternate-i386.iso
+      </url>
+      <url type="ftp"
+           location="tw"
+           preference="10">
+       ftp://ftp.ee.ncku.edu.tw/pub/ubuntu/.pool/ubuntu-6.10-alternate-i386.iso
+      </url>
+      <url type="ftp"
+           location="tw"
+           preference="10">
+       ftp://os.nchc.org.tw/ubuntu/.pool/ubuntu-6.10-alternate-i386.iso
+      </url>
+      <url type="ftp"
+           location="tw"
+           preference="10">
+       ftp://apt.nc.hcc.edu.tw/pub/ubuntu/.pool/ubuntu-6.10-alternate-i386.iso
+      </url>
+      <url type="http"
+           location="tw"
+           preference="10">
+       http://ubuntu.csie.ntu.edu.tw/ubuntu/.pool/ubuntu-6.10-alternate-i386.iso
+      </url>
+      <url type="http"
+           location="tw"
+           preference="10">
+       http://apt.nc.hcc.edu.tw/pub/ubuntu/.pool/ubuntu-6.10-alternate-i386.iso
+      </url>
+      <url type="ftp"
+           location="tw"
+           preference="10">
+       ftp://apt.ubuntu.org.tw/ubuntu/.pool/ubuntu-6.10-alternate-i386.iso
+      </url>
+      <url type="http"
+           location="tw"
+           preference="10">
+       http://apt.ubuntu.org.tw/ubuntu/.pool/ubuntu-6.10-alternate-i386.iso
+      </url>
+      <url type="ftp"
+           location="ch"
+           preference="10">
+       ftp://mirror.switch.ch/mirror/ubuntu/.pool/ubuntu-6.10-alternate-i386.iso
+      </url>
+      <url type="http"
+           location="ch"
+           preference="10">
+       http://mirror.switch.ch/ftp/mirror/ubuntu/.pool/ubuntu-6.10-alternate-i386.iso
+      </url>
+      <url type="ftp"
+           location="se"
+           preference="10">
+       ftp://ftp.se.linux.org/pub/Linux/distributions/ubuntu/.pool/ubuntu-6.10-alternate-i386.iso
+      </url>
+      <url type="http"
+           location="se"
+           preference="10">
+       http://ftp.acc.umu.se/mirror/ubuntu/.pool/ubuntu-6.10-alternate-i386.iso
+      </url>
+      <url type="ftp"
+           location="es"
+           preference="10">
+       ftp://ftp.ubuntu-es.org/ubuntu/.pool/ubuntu-6.10-alternate-i386.iso
+      </url>
+      <url type="ftp"
+           location="es"
+           preference="10">
+       ftp://ftp.um.es/mirror/ubuntu/.pool/ubuntu-6.10-alternate-i386.iso
+      </url>
+      <url type="ftp"
+           location="za"
+           preference="10">
+       ftp://ftp.sun.ac.za/ftp/ubuntu/.pool/ubuntu-6.10-alternate-i386.iso
+      </url>
+      <url type="ftp"
+           location="za"
+           preference="10">
+       ftp://ftp.leg.uct.ac.za/pub/linux/ubuntu/.pool/ubuntu-6.10-alternate-i386.iso
+      </url>
+      <url type="ftp"
+           location="za"
+           preference="10">
+       ftp://ubuntu.mirror.ac.za/.pool/ubuntu-6.10-alternate-i386.iso
+      </url>
+      <url type="http"
+           location="za"
+           preference="10">
+       http://za.archive.ubuntu.com/ubuntu/.pool/ubuntu-6.10-alternate-i386.iso
+      </url>
+      <url type="ftp"
+           location="za"
+           preference="10">
+       ftp://ftp.is.co.za/ubuntu/.pool/ubuntu-6.10-alternate-i386.iso
+      </url>
+      <url type="ftp"
+           location="sp"
+           preference="10">
+       ftp://yu.archive.ubuntu.com/ubuntu/.pool/ubuntu-6.10-alternate-i386.iso
+      </url>
+      <url type="http"
+           location="sp"
+           preference="10">
+       http://yu.archive.ubuntu.com/ubuntu/.pool/ubuntu-6.10-alternate-i386.iso
+      </url>
+      <url type="ftp"
+           location="ru"
+           preference="10">
+       ftp://debian.nsu.ru/ubuntu/.pool/ubuntu-6.10-alternate-i386.iso
+      </url>
+      <url type="http"
+           location="ru"
+           preference="10">
+       http://debian.nsu.ru/ubuntu/.pool/ubuntu-6.10-alternate-i386.iso
+      </url>
+      <url type="ftp"
+           location="ro"
+           preference="10">
+       ftp://ftp.lug.ro/ubuntu/.pool/ubuntu-6.10-alternate-i386.iso
+      </url>
+      <url type="http"
+           location="ro"
+           preference="10">
+       http://ftp.lug.ro/ubuntu/.pool/ubuntu-6.10-alternate-i386.iso
+      </url>
+      <url type="ftp"
+           location="ro"
+           preference="10">
+       ftp://ftp.iasi.roedu.net/mirrors/ubuntulinux.org/ubuntu/.pool/ubuntu-6.10-alternate-i386.iso
+      </url>
+      <url type="http"
+           location="ro"
+           preference="10">
+       http://ftp.iasi.roedu.net/mirrors/ubuntulinux.org/ubuntu/.pool/ubuntu-6.10-alternate-i386.iso
+      </url>
+      <url type="http"
+           location="pt"
+           preference="10">
+       http://ubuntu.dcc.fc.up.pt/.pool/ubuntu-6.10-alternate-i386.iso
+      </url>
+      <url type="http"
+           location="pt"
+           preference="10">
+       http://darkstar.ist.utl.pt/ubuntu/archive/.pool/ubuntu-6.10-alternate-i386.iso
+      </url>
+      <url type="ftp"
+           location="pt"
+           preference="10">
+       ftp://ftp.rnl.ist.utl.pt/ubuntu/.pool/ubuntu-6.10-alternate-i386.iso
+      </url>
+      <url type="ftp"
+           location="pl"
+           preference="10">
+       ftp://ubuntu.task.gda.pl/ubuntu/.pool/ubuntu-6.10-alternate-i386.iso
+      </url>
+      <url type="http"
+           location="pl"
+           preference="10">
+       http://ubuntu.task.gda.pl/ubuntu/.pool/ubuntu-6.10-alternate-i386.iso
+      </url>
+      <url type="http"
+           location="pl"
+           preference="10">
+       http://ubuntulinux.mainseek.com/ubuntu/.pool/ubuntu-6.10-alternate-i386.iso
+      </url>
+      <url type="ftp"
+           location="no"
+           preference="10">
+       ftp://no.archive.ubuntu.com/ubuntu/.pool/ubuntu-6.10-alternate-i386.iso
+      </url>
+      <url type="http"
+           location="no"
+           preference="10">
+       http://no.archive.ubuntu.com/ubuntu/.pool/ubuntu-6.10-alternate-i386.iso
+      </url>
+      <url type="http"
+           location="ni"
+           preference="10">
+       http://www.computacion.uni.edu.ni/iso/ubuntu/.pool/ubuntu-6.10-alternate-i386.iso
+      </url>
+      <url type="ftp"
+           location="nz"
+           preference="10">
+       ftp://ftp.citylink.co.nz/ubuntu/.pool/ubuntu-6.10-alternate-i386.iso
+      </url>
+      <url type="ftp"
+           location="nl"
+           preference="10">
+       ftp://nl.archive.ubuntu.com/ubuntu/.pool/ubuntu-6.10-alternate-i386.iso
+      </url>
+      <url type="http"
+           location="nl"
+           preference="10">
+       http://nl.archive.ubuntu.com/ubuntu/.pool/ubuntu-6.10-alternate-i386.iso
+      </url>
+      <url type="ftp"
+           location="na"
+           preference="10">
+       ftp://ftp.polytechnic.edu.na/pub/ubuntulinux/.pool/ubuntu-6.10-alternate-i386.iso
+      </url>
+      <url type="ftp"
+           location="lt"
+           preference="10">
+       ftp://ftp.litnet.lt/pub/ubuntu/.pool/ubuntu-6.10-alternate-i386.iso
+      </url>
+      <url type="http"
+           location="lt"
+           preference="10">
+       http://ftp.litnet.lt/pub/ubuntu/.pool/ubuntu-6.10-alternate-i386.iso
+      </url>
+      <url type="http"
+           location="lv"
+           preference="10">
+       http://ubuntu-arch.linux.edu.lv/ubuntu/.pool/ubuntu-6.10-alternate-i386.iso
+      </url>
+      <url type="http"
+           location="jp"
+           preference="10">
+       http://ubuntu.mithril-linux.org/archives/.pool/ubuntu-6.10-alternate-i386.iso
+      </url>
+      <url type="ftp"
+           location="it"
+           preference="10">
+       ftp://na.mirror.garr.it/mirrors/ubuntu-archive/.pool/ubuntu-6.10-alternate-i386.iso
+      </url>
+      <url type="ftp"
+           location="it"
+           preference="10">
+       ftp://ftp.linux.it/ubuntu/.pool/ubuntu-6.10-alternate-i386.iso
+      </url>
+      <url type="http"
+           location="it"
+           preference="10">
+       http://na.mirror.garr.it/mirrors/ubuntu-archive/.pool/ubuntu-6.10-alternate-i386.iso
+      </url>
+      <url type="http"
+           location="it"
+           preference="10">
+       http://ftp.linux.it/ubuntu/.pool/ubuntu-6.10-alternate-i386.iso
+      </url>
+      <url type="ftp"
+           location="ie"
+           preference="10">
+       ftp://ftp.heanet.ie/pub/ubuntu/.pool/ubuntu-6.10-alternate-i386.iso
+      </url>
+      <url type="ftp"
+           location="ie"
+           preference="10">
+       ftp://ftp.esat.net/mirrors/archive.ubuntu.com/.pool/ubuntu-6.10-alternate-i386.iso
+      </url>
+      <url type="http"
+           location="ie"
+           preference="10">
+       http://ftp.heanet.ie/pub/ubuntu/.pool/ubuntu-6.10-alternate-i386.iso
+      </url>
+      <url type="http"
+           location="ie"
+           preference="10">
+       http://ftp.esat.net/mirrors/archive.ubuntu.com/.pool/ubuntu-6.10-alternate-i386.iso
+      </url>
+      <url type="http"
+           location="is"
+           preference="10">
+       http://ubuntu.lhi.is/.pool/ubuntu-6.10-alternate-i386.iso
+      </url>
+      <url type="http"
+           location="is"
+           preference="10">
+       http://ubuntu.odg.cc/.pool/ubuntu-6.10-alternate-i386.iso
+      </url>
+      <url type="http"
+           location="id"
+           preference="10">
+       http://kambing.vlsm.org/ubuntu/.pool/ubuntu-6.10-alternate-i386.iso
+      </url>
+      <url type="http"
+           location="id"
+           preference="10">
+       http://komo.vlsm.org/ubuntu/.pool/ubuntu-6.10-alternate-i386.iso
+      </url>
+      <url type="ftp"
+           location="hu"
+           preference="10">
+       ftp://ftp.fsn.hu/pub/linux/distributions/ubuntu/.pool/ubuntu-6.10-alternate-i386.iso
+      </url>
+      <url type="ftp"
+           location="hu"
+           preference="10">
+       ftp://ftp.kfki.hu/pub/linux/ubuntu/.pool/ubuntu-6.10-alternate-i386.iso
+      </url>
+      <url type="http"
+           location="hu"
+           preference="10">
+       http://ftp.kfki.hu/linux/ubuntu/.pool/ubuntu-6.10-alternate-i386.iso
+      </url>
+      <url type="ftp"
+           location="gr"
+           preference="10">
+       ftp://ftp.ntua.gr/pub/linux/ubuntu/.pool/ubuntu-6.10-alternate-i386.iso
+      </url>
+      <url type="http"
+           location="gr"
+           preference="10">
+       http://ftp.ntua.gr/pub/linux/ubuntu/.pool/ubuntu-6.10-alternate-i386.iso
+      </url>
+      <url type="ftp"
+           location="de"
+           preference="10">
+       ftp://ftp.uni-erlangen.de/pub/mirrors/ubuntu/.pool/ubuntu-6.10-alternate-i386.iso
+      </url>
+      <url type="ftp"
+           location="de"
+           preference="10">
+       ftp://ftp.join.uni-muenster.de/pub/mirrors/ftp.ubuntu.com/ubuntu/.pool/ubuntu-6.10-alternate-i386.iso
+      </url>
+      <url type="ftp"
+           location="de"
+           preference="10">
+       ftp://ftp.rz.tu-bs.de/pub/mirror/ubuntu-packages/.pool/ubuntu-6.10-alternate-i386.iso
+      </url>
+      <url type="ftp"
+           location="de"
+           preference="10">
+       ftp://ftp.fu-berlin.de/linux/ubuntu/.pool/ubuntu-6.10-alternate-i386.iso
+      </url>
+      <url type="ftp"
+           location="de"
+           preference="10">
+       ftp://debian.charite.de/ubuntu/.pool/ubuntu-6.10-alternate-i386.iso
+      </url>
+      <url type="http"
+           location="de"
+           preference="10">
+       http://www.ftp.uni-erlangen.de/pub/mirrors/ubuntu/.pool/ubuntu-6.10-alternate-i386.iso
+      </url>
+      <url type="http"
+           location="de"
+           preference="10">
+       http://ftp.join.uni-muenster.de/pub/mirrors/ftp.ubuntu.com/ubuntu/.pool/ubuntu-6.10-alternate-i386.iso
+      </url>
+      <url type="http"
+           location="de"
+           preference="10">
+       http://ftp.rz.tu-bs.de/pub/mirror/ubuntu-packages/.pool/ubuntu-6.10-alternate-i386.iso
+      </url>
+      <url type="http"
+           location="de"
+           preference="10">
+       http://debian.charite.de/ubuntu/.pool/ubuntu-6.10-alternate-i386.iso
+      </url>
+      <url type="http"
+           location="ge"
+           preference="10">
+       http://ge.archive.ubuntu.com/ubuntu/.pool/ubuntu-6.10-alternate-i386.iso
+      </url>
+      <url type="ftp"
+           location="fr"
+           preference="10">
+       ftp://ftp.oleane.net/pub/ubuntu/.pool/ubuntu-6.10-alternate-i386.iso
+      </url>
+      <url type="ftp"
+           location="fr"
+           preference="10">
+       ftp://ftp.proxad.net/mirrors/ftp.ubuntu.com/ubuntu/.pool/ubuntu-6.10-alternate-i386.iso
+      </url>
+      <url type="ftp"
+           location="fr"
+           preference="10">
+       ftp://ftp.u-picardie.fr/pub/ubuntu/ubuntu/.pool/ubuntu-6.10-alternate-i386.iso
+      </url>
+      <url type="ftp"
+           location="fr"
+           preference="10">
+       ftp://fr.archive.ubuntu.com/ubuntu/.pool/ubuntu-6.10-alternate-i386.iso
+      </url>
+      <url type="ftp"
+           location="fr"
+           preference="10">
+       ftp://mir1.ovh.net/ubuntu/ubuntu/.pool/ubuntu-6.10-alternate-i386.iso
+      </url>
+      <url type="http"
+           location="fr"
+           preference="10">
+       http://ftp.oleane.net/pub/ubuntu/.pool/ubuntu-6.10-alternate-i386.iso
+      </url>
+      <url type="http"
+           location="fr"
+           preference="10">
+       http://ftp.u-picardie.fr/pub/ubuntu/ubuntu/.pool/ubuntu-6.10-alternate-i386.iso
+      </url>
+      <url type="http"
+           location="fr"
+           preference="10">
+       http://fr.archive.ubuntu.com/ubuntu/.pool/ubuntu-6.10-alternate-i386.iso
+      </url>
+      <url type="http"
+           location="fr"
+           preference="10">
+       http://mir1.ovh.net/ubuntu/ubuntu/.pool/ubuntu-6.10-alternate-i386.iso
+      </url>
+      <url type="ftp"
+           location="fi"
+           preference="10">
+       ftp://ftp.funet.fi/pub/mirrors/archive.ubuntu.com/.pool/ubuntu-6.10-alternate-i386.iso
+      </url>
+      <url type="http"
+           location="fi"
+           preference="10">
+       http://www.nic.funet.fi/pub/mirrors/archive.ubuntu.com/.pool/ubuntu-6.10-alternate-i386.iso
+      </url>
+      <url type="ftp"
+           location="ee"
+           preference="10">
+       ftp://ftp.estpak.ee/pub/ubuntu/.pool/ubuntu-6.10-alternate-i386.iso
+      </url>
+      <url type="ftp"
+           location="dk"
+           preference="10">
+       ftp://klid.dk/ubuntu/.pool/ubuntu-6.10-alternate-i386.iso
+      </url>
+      <url type="http"
+           location="ee"
+           preference="10">
+       http://ftp.estpak.ee/pub/ubuntu/.pool/ubuntu-6.10-alternate-i386.iso
+      </url>
+      <url type="ftp"
+           location="dk"
+           preference="10">
+       ftp://mirrors.dotsrc.org/ubuntu/.pool/ubuntu-6.10-alternate-i386.iso
+      </url>
+      <url type="ftp"
+           location="dk"
+           preference="10">
+       ftp://mirrors.dk.telia.net/ubuntu/.pool/ubuntu-6.10-alternate-i386.iso
+      </url>
+      <url type="http"
+           location="dk"
+           preference="10">
+       http://klid.dk/homeftp/ubuntu/.pool/ubuntu-6.10-alternate-i386.iso
+      </url>
+      <url type="http"
+           location="dk"
+           preference="10">
+       http://mirrors.dotsrc.org/ubuntu/.pool/ubuntu-6.10-alternate-i386.iso
+      </url>
+      <url type="http"
+           location="dk"
+           preference="10">
+       http://mirrors.dk.telia.net/ubuntu/.pool/ubuntu-6.10-alternate-i386.iso
+      </url>
+      <url type="http"
+           location="cz"
+           preference="10">
+       http://ubuntu.supp.name/ubuntu/.pool/ubuntu-6.10-alternate-i386.iso
+      </url>
+      <url type="ftp"
+           location="cz"
+           preference="10">
+       ftp://archive.ubuntu.cz/MIRRORS/archive.ubuntu.com/mirror/ubuntu/.pool/ubuntu-6.10-alternate-i386.iso
+      </url>
+      <url type="http"
+           location="cz"
+           preference="10">
+       http://archive.ubuntu.cz/ubuntu/.pool/ubuntu-6.10-alternate-i386.iso
+      </url>
+      <url type="ftp"
+           location="cr"
+           preference="10">
+       ftp://ftp.ucr.ac.cr/pub/ubuntu/.pool/ubuntu-6.10-alternate-i386.iso
+      </url>
+      <url type="http"
+           location="cr"
+           preference="10">
+       http://ftp.ucr.ac.cr/ubuntu/.pool/ubuntu-6.10-alternate-i386.iso
+      </url>
+      <url type="http"
+           location="cn"
+           preference="10">
+       http://mirror.lupaworld.com/ubuntu/.pool/ubuntu-6.10-alternate-i386.iso
+      </url>
+      <url type="http"
+           location="cn"
+           preference="10">
+       http://debian.cn99.com/ubuntu/.pool/ubuntu-6.10-alternate-i386.iso
+      </url>
+      <url type="http"
+           location="cn"
+           preference="10">
+       http://archive.ubuntu.org.cn/ubuntu/.pool/ubuntu-6.10-alternate-i386.iso
+      </url>
+      <url type="ftp"
+           location="cl"
+           preference="10">
+       ftp://cl.archive.ubuntu.com/ubuntu/.pool/ubuntu-6.10-alternate-i386.iso
+      </url>
+      <url type="http"
+           location="cl"
+           preference="10">
+       http://cl.archive.ubuntu.com/ubuntu/.pool/ubuntu-6.10-alternate-i386.iso
+      </url>
+      <url type="ftp"
+           location="ca"
+           preference="10">
+       ftp://gulus.USherbrooke.ca/ubuntu/.pool/ubuntu-6.10-alternate-i386.iso
+      </url>
+      <url type="http"
+           location="ca"
+           preference="10">
+       http://gulus.USherbrooke.ca/pub/distro/ubuntu/.pool/ubuntu-6.10-alternate-i386.iso
+      </url>
+      <url type="ftp"
+           location="ca"
+           preference="10">
+       ftp://mirror.arcticnetwork.ca/pub/ubuntu/packages/.pool/ubuntu-6.10-alternate-i386.iso
+      </url>
+      <url type="http"
+           location="ca"
+           preference="10">
+       http://mirror.arcticnetwork.ca/pub/ubuntu/packages/.pool/ubuntu-6.10-alternate-i386.iso
+      </url>
+      <url type="ftp"
+           location="ca"
+           preference="10">
+       ftp://mirror.cpsc.ucalgary.ca/mirror/ubuntu.com/.pool/ubuntu-6.10-alternate-i386.iso
+      </url>
+      <url type="http"
+           location="ca"
+           preference="10">
+       http://mirror.cpsc.ucalgary.ca/mirror/ubuntu.com/.pool/ubuntu-6.10-alternate-i386.iso
+      </url>
+      <url type="ftp"
+           location="ca"
+           preference="10">
+       ftp://ftp.cs.mun.ca/pub/mirror/ubuntu/.pool/ubuntu-6.10-alternate-i386.iso
+      </url>
+      <url type="http"
+           location="bg"
+           preference="10">
+       http://ubuntu.ipacct.com/ubuntu/.pool/ubuntu-6.10-alternate-i386.iso
+      </url>
+      <url type="http"
+           location="br"
+           preference="10">
+       http://ubuntu.c3sl.ufpr.br/ubuntu/.pool/ubuntu-6.10-alternate-i386.iso
+      </url>
+      <url type="http"
+           location="br"
+           preference="10">
+       http://ubuntu.interlegis.gov.br/archive/.pool/ubuntu-6.10-alternate-i386.iso
+      </url>
+      <url type="http"
+           location="br"
+           preference="10">
+       http://espelhos.edugraf.ufsc.br/ubuntu/.pool/ubuntu-6.10-alternate-i386.iso
+      </url>
+      <url type="ftp"
+           location="be"
+           preference="10">
+       ftp://ubuntu.mirrors.skynet.be/pub/ubuntu.com/.pool/ubuntu-6.10-alternate-i386.iso
+      </url>
+      <url type="ftp"
+           location="be"
+           preference="10">
+       ftp://ftp.belnet.be/pub/mirror/ubuntu.com/.pool/ubuntu-6.10-alternate-i386.iso
+      </url>
+      <url type="http"
+           location="be"
+           preference="10">
+       http://ubuntu.mirrors.skynet.be/pub/ubuntu.com/.pool/ubuntu-6.10-alternate-i386.iso
+      </url>
+      <url type="http"
+           location="be"
+           preference="10">
+       http://ftp.belnet.be/pub/mirror/ubuntu.com/.pool/ubuntu-6.10-alternate-i386.iso
+      </url>
+      <url type="ftp"
+           location="at"
+           preference="10">
+       ftp://gd.tuwien.ac.at/opsys/linux/ubuntu/archive/.pool/ubuntu-6.10-alternate-i386.iso
+      </url>
+      <url type="ftp"
+           location="at"
+           preference="10">
+       ftp://ftp.uni-klu.ac.at/linux/ubuntu/.pool/ubuntu-6.10-alternate-i386.iso
+      </url>
+      <url type="ftp"
+           location="at"
+           preference="10">
+       ftp://ubuntu.inode.at/ubuntu/.pool/ubuntu-6.10-alternate-i386.iso
+      </url>
+      <url type="http"
+           location="at"
+           preference="10">
+       http://gd.tuwien.ac.at/opsys/linux/ubuntu/archive/.pool/ubuntu-6.10-alternate-i386.iso
+      </url>
+      <url type="http"
+           location="at"
+           preference="10">
+       http://ubuntu.uni-klu.ac.at/ubuntu/.pool/ubuntu-6.10-alternate-i386.iso
+      </url>
+      <url type="http"
+           location="at"
+           preference="10">
+       http://ubuntu.inode.at/ubuntu/.pool/ubuntu-6.10-alternate-i386.iso
+      </url>
+      <url type="ftp"
+           location="au"
+           preference="10">
+       ftp://mirror.pacific.net.au/linux/ubuntu/.pool/ubuntu-6.10-alternate-i386.iso
+      </url>
+      <url type="ftp"
+           location="au"
+           preference="10">
+       ftp://ftp.iinet.net.au/pub/ubuntu/.pool/ubuntu-6.10-alternate-i386.iso
+      </url>
+      <url type="ftp"
+           location="au"
+           preference="10">
+       ftp://ftp.filearena.net/pub/ubuntu/.pool/ubuntu-6.10-alternate-i386.iso
+      </url>
+      <url type="ftp"
+           location="au"
+           preference="10">
+       ftp://ftp.planetmirror.com/pub/ubuntu/.pool/ubuntu-6.10-alternate-i386.iso
+      </url>
+      <url type="ftp"
+           location="au"
+           preference="10">
+       ftp://mirror.isp.net.au/pub/ubuntu/.pool/ubuntu-6.10-alternate-i386.iso
+      </url>
+      <url type="http"
+           location="au"
+           preference="10">
+       http://mirror.pacific.net.au/linux/ubuntu/.pool/ubuntu-6.10-alternate-i386.iso
+      </url>
+      <url type="http"
+           location="au"
+           preference="10">
+       http://ftp.filearena.net/pub/ubuntu/.pool/ubuntu-6.10-alternate-i386.iso
+      </url>
+      <url type="http"
+           location="au"
+           preference="10">
+       http://www.planetmirror.com/pub/ubuntu/.pool/ubuntu-6.10-alternate-i386.iso
+      </url>
+      <url type="http"
+           location="au"
+           preference="10">
+       http://mirror.isp.net.au/ftp/pub/ubuntu/.pool/ubuntu-6.10-alternate-i386.iso
+      </url>
+      <url type="http"
+           location="au"
+           preference="10">
+       http://mirror.optus.net/ubuntu/.pool/ubuntu-6.10-alternate-i386.iso
+      </url>
+      <url type="http"
+           location="au"
+           preference="10">
+       http://ftp.iinet.net.au/pub/ubuntu/.pool/ubuntu-6.10-alternate-i386.iso
+      </url>
+      <url type="ftp"
+           location="tw"
+           preference="10">
+       ftp://apt.ubuntu.org.tw/releases/.pool/ubuntu-6.10-alternate-i386.iso
+      </url>
+      <url type="http"
+           location="tw"
+           preference="10">
+       http://apt.nc.hcc.edu.tw/pub/ubuntu-cd/.pool/ubuntu-6.10-alternate-i386.iso
+      </url>
+      <url type="ftp"
+           location="tw"
+           preference="10">
+       ftp://apt.nc.hcc.edu.tw/pub/ubuntu-cd/.pool/ubuntu-6.10-alternate-i386.iso
+      </url>
+      <url type="ftp"
+           location="tw"
+           preference="10">
+       ftp://ftp.ee.ncku.edu.tw/pub/ubuntu-cd/.pool/ubuntu-6.10-alternate-i386.iso
+      </url>
+      <url type="ftp"
+           location="ua"
+           preference="10">
+       ftp://ftp.linux.kiev.ua/pub/Linux/Ubuntu/.pool/ubuntu-6.10-alternate-i386.iso
+      </url>
+      <url type="http"
+           location="gb"
+           preference="10">
+       http://www.mirrorservice.org/sites/cdimage.ubuntu.com/cdimage/.pool/ubuntu-6.10-alternate-i386.iso
+      </url>
+      <url type="http"
+           location="gb"
+           preference="10">
+       http://ubuntu.blueyonder.co.uk/releases/.pool/ubuntu-6.10-alternate-i386.iso
+      </url>
+      <url type="ftp"
+           location="gb"
+           preference="10">
+       ftp://ftp.mirrorservice.org/sites/cdimage.ubuntu.com/cdimage/.pool/ubuntu-6.10-alternate-i386.iso
+      </url>
+      <url type="ftp"
+           location="gb"
+           preference="10">
+       ftp://ftp.blueyonder.co.uk/sites/ubuntu/releases/.pool/ubuntu-6.10-alternate-i386.iso
+      </url>
+      <url type="http"
+           location="us"
+           preference="10">
+       http://ftp.osuosl.org/pub/ubuntu-releases/.pool/ubuntu-6.10-alternate-i386.iso
+      </url>
+      <url type="http"
+           location="us"
+           preference="10">
+       http://ftp.ussg.iu.edu/linux/ubuntu-releases/.pool/ubuntu-6.10-alternate-i386.iso
+      </url>
+      <url type="http"
+           location="us"
+           preference="10">
+       http://mirrors.unrealradio.org/Ubuntu/.pool/ubuntu-6.10-alternate-i386.iso
+      </url>
+      <url type="http"
+           location="us"
+           preference="10">
+       http://mirror.yousendit.com/ubuntu/.pool/ubuntu-6.10-alternate-i386.iso
+      </url>
+      <url type="http"
+           location="us"
+           preference="10">
+       http://mirror.lunarpages.com/ubuntu/.pool/ubuntu-6.10-alternate-i386.iso
+      </url>
+      <url type="http"
+           location="us"
+           preference="10">
+       http://mirror.cs.umn.edu/ubuntu-releases/.pool/ubuntu-6.10-alternate-i386.iso
+      </url>
+      <url type="http"
+           location="us"
+           preference="10">
+       http://linus.smenet.org/ubuntu/.pool/ubuntu-6.10-alternate-i386.iso
+      </url>
+      <url type="http"
+           location="us"
+           preference="10">
+       http://ubuntu.mirrors.tds.net/releases/.pool/ubuntu-6.10-alternate-i386.iso
+      </url>
+      <url type="http"
+           location="us"
+           preference="10">
+       http://www.opensourcemirrors.org/ubuntu-cd/.pool/ubuntu-6.10-alternate-i386.iso
+      </url>
+      <url type="http"
+           location="us"
+           preference="10">
+       http://mirrors.jtlnet.com/ubuntu/.pool/ubuntu-6.10-alternate-i386.iso
+      </url>
+      <url type="http"
+           location="us"
+           preference="10">
+       http://ubuntu.mirrormax.net/.pool/ubuntu-6.10-alternate-i386.iso
+      </url>
+      <url type="http"
+           location="us"
+           preference="10">
+       http://www.nullnet.org/mirrors/ubuntu/.pool/ubuntu-6.10-alternate-i386.iso
+      </url>
+      <url type="http"
+           location="us"
+           preference="10">
+       http://mirror.mcs.anl.gov/pub/ubuntu-iso/.pool/ubuntu-6.10-alternate-i386.iso
+      </url>
+      <url type="http"
+           location="us"
+           preference="10">
+       http://mirrors.cat.pdx.edu/ubuntu-iso/.pool/ubuntu-6.10-alternate-i386.iso
+      </url>
+      <url type="http"
+           location="us"
+           preference="10">
+       http://ubuntu.cs.utah.edu/releases/.pool/ubuntu-6.10-alternate-i386.iso
+      </url>
+      <url type="http"
+           location="us"
+           preference="10">
+       http://mirror.cc.vt.edu/pub/projects/ubuntu/.pool/ubuntu-6.10-alternate-i386.iso
+      </url>
+      <url type="http"
+           location="us"
+           preference="10">
+       http://san.csc.calpoly.edu/ubuntu/releases/.pool/ubuntu-6.10-alternate-i386.iso
+      </url>
+      <url type="http"
+           location="us"
+           preference="10">
+       http://ftp.wayne.edu/linux_distributions/ubuntu/.pool/ubuntu-6.10-alternate-i386.iso
+      </url>
+      <url type="http"
+           location="us"
+           preference="10">
+       http://mirrors.tummy.com/pub/ftp.ubuntulinux.org/ubuntu/.pool/ubuntu-6.10-alternate-i386.iso
+      </url>
+      <url type="ftp"
+           location="us"
+           preference="10">
+       ftp://ftp.osuosl.org/pub/ubuntu-releases/.pool/ubuntu-6.10-alternate-i386.iso
+      </url>
+      <url type="ftp"
+           location="us"
+           preference="10">
+       ftp://ftp.ussg.iu.edu/linux/ubuntu-releases/.pool/ubuntu-6.10-alternate-i386.iso
+      </url>
+      <url type="ftp"
+           location="us"
+           preference="10">
+       ftp://mirror.dudcore.net/pub/ubuntu/.pool/ubuntu-6.10-alternate-i386.iso
+      </url>
+      <url type="ftp"
+           location="us"
+           preference="10">
+       ftp://ubuntu.mirrors.tds.net/releases/.pool/ubuntu-6.10-alternate-i386.iso
+      </url>
+      <url type="ftp"
+           location="us"
+           preference="10">
+       ftp://mirrors.jtlnet.com/ubuntu/.pool/ubuntu-6.10-alternate-i386.iso
+      </url>
+      <url type="ftp"
+           location="us"
+           preference="10">
+       ftp://mirror.mcs.anl.gov/pub/ubuntu-iso/.pool/ubuntu-6.10-alternate-i386.iso
+      </url>
+      <url type="ftp"
+           location="us"
+           preference="10">
+       ftp://mirrors.cat.pdx.edu/ubuntu-iso/.pool/ubuntu-6.10-alternate-i386.iso
+      </url>
+      <url type="ftp"
+           location="us"
+           preference="10">
+       ftp://ubuntu.cs.utah.edu/pub/ubuntu/releases/.pool/ubuntu-6.10-alternate-i386.iso
+      </url>
+      <url type="ftp"
+           location="us"
+           preference="10">
+       ftp://ftp.wayne.edu/linux_distributions/ubuntu/.pool/ubuntu-6.10-alternate-i386.iso
+      </url>
+      <url type="ftp"
+           location="us"
+           preference="10">
+       ftp://mirrors.tummy.com/pub/ftp.ubuntulinux.org/ubuntu/.pool/ubuntu-6.10-alternate-i386.iso
+      </url>
+      <url type="http"
+           location="us"
+           preference="10">
+       http://mirror.cs.umn.edu/ubuntu-dvd/.pool/ubuntu-6.10-alternate-i386.iso
+      </url>
+      <url type="http"
+           location="sp"
+           preference="10">
+       http://mirror.etf.bg.ac.yu/distributions/ubuntu/ubuntu-dvd/.pool/ubuntu-6.10-alternate-i386.iso
+      </url>
+      <url type="ftp"
+           location="sp"
+           preference="10">
+       ftp://mirror.etf.bg.ac.yu/distributions/ubuntu/ubuntu-dvd/.pool/ubuntu-6.10-alternate-i386.iso
+      </url>
+      <url type="http"
+           location="sp"
+           preference="10">
+       http://mirror2.etf.bg.ac.yu/distributions/ubuntu/ubuntu-dvd/.pool/ubuntu-6.10-alternate-i386.iso
+      </url>
+      <url type="http"
+           location="sp"
+           preference="10">
+       http://mirror2.etf.bg.ac.yu/distributions/ubuntu/ubuntu-dvd/.pool/ubuntu-6.10-alternate-i386.iso
+      </url>
+      <url type="ftp"
+           location="za"
+           preference="10">
+       ftp://ftp.leg.uct.ac.za/pub/linux/ubuntu-dvd/.pool/ubuntu-6.10-alternate-i386.iso
+      </url>
+      <url type="http"
+           location="se"
+           preference="10">
+       http://ftp.acc.umu.se/mirror/cdimage.ubuntu.com/releases/breezy/release/.pool/ubuntu-6.10-alternate-i386.iso
+      </url>
+      <url type="http"
+           location="tw"
+           preference="10">
+       http://apt.ubuntu.org.tw/releases/.pool/ubuntu-6.10-alternate-i386.iso
+      </url>
+      <url type="ftp"
+           location="tw"
+           preference="10">
+       ftp://apt.ubuntu.org.tw/releases/.pool/ubuntu-6.10-alternate-i386.iso
+      </url>
+      <url type="ftp"
+           location="pl"
+           preference="10">
+       ftp://ubuntu.task.gda.pl/ubuntu-dvd/releases/breezy/release/.pool/ubuntu-6.10-alternate-i386.iso
+      </url>
+      <url type="http"
+           location="pl"
+           preference="10">
+       http://ubuntu.task.gda.pl/ubuntu-dvd/releases/breezy/release/.pool/ubuntu-6.10-alternate-i386.iso
+      </url>
+      
+       <url type="magnet" preference="90">
+         magnet:?xt=urn:sha1:ITJVTU4NUPEGL4GBGVHR7L3QRS66WHQH&amp;xt=urn:tree:tiger:KDPJREQDO4YBU5FZZIXZBQOSOKMM3FT63N7DSVI&amp;xt=urn:ed2k:98573f79bf5808506bd5dd0a8f4b0294&amp;xt=urn:kzhash:129c3726970a93946468bd8fb8b66a5fd704c04b28926fb973af94283d80202b94fc03b5&amp;xl=730931200&amp;dn=ubuntu-6.10-alternate-i386.iso
+       </url>
+      
+      
+    </resources>
+   </file>
+  </files> 
+</metalink>

@@ -1,0 +1,125 @@
+<?xml version="1.0" encoding="utf-8"?>
+<metalink version="3.0" generator="Metalink Editor version 0.4.1" xmlns="http://www.metalinker.org/">
+  <publisher>
+    <url>http://sidux.com/</url>
+  </publisher>
+  <identity>sidux</identity>
+  <description>sidux is an operating system based on the Linux kernel, Debian's most modern branch (called "Sid") and many free and open source applications. </description>
+  <files>
+    <file name="SIDUX-2007-01-200702210952-CHAOS-LITE.ISO">
+      <size>420896768</size>
+      <os>Linux-x86</os>
+      <verification>
+        <hash type="md5">01876b19fe50950f7992acb5d5cee2f4</hash>
+        <hash type="sha1">b64976b71f370aba834eb97816637e11426bdac5</hash>
+        <pieces type="sha1" length="4194304">
+          <hash piece="0">a94b0ce6e4b122436a386de4af8f31762b08552c</hash>
+          <hash piece="1">292bcffe157ae665202cce3ffe38a43305e7b793</hash>
+          <hash piece="2">3b67f1389b7bd9aa31557f0ed10d2e2f9de45658</hash>
+          <hash piece="3">b055bcf89dc99b15758cb7826b7cc801af6253a6</hash>
+          <hash piece="4">f64f8615da3ff798baaf2ca9c0738ab4f351ba01</hash>
+          <hash piece="5">6cbc33e4d88c5d2d5e0ede350690015c51a2ae82</hash>
+          <hash piece="6">6ce734acfea7b6de9c02117a9d5eca9a4891ca04</hash>
+          <hash piece="7">dd74bcc1f643aa43477d44d52f8c9b6f2cb84b70</hash>
+          <hash piece="8">118cf322cbab71ed6c9100104295caaf286cee65</hash>
+          <hash piece="9">8f54384ecccbeba673b4b16cf31b461cee43ddba</hash>
+          <hash piece="10">981caa21f3cc82e10353b8059252f13205e50232</hash>
+          <hash piece="11">072082a46cc78b3e5ea54434e878753523bd08f2</hash>
+          <hash piece="12">05b763bc91b61b15b00c8675d51c004c6689cb96</hash>
+          <hash piece="13">c1e0d5229309d603e61f47011a9e9115f463d82b</hash>
+          <hash piece="14">51afebc1729364ad6848ed293179d7dc5655d9db</hash>
+          <hash piece="15">fb480e00bdc67232b90089d401bac1a424d985a9</hash>
+          <hash piece="16">575bc9365ea8f5e4034acf1f2df9c3a629a6d74e</hash>
+          <hash piece="17">fecdd605b9523a90f021cf24cc121722c289e8fb</hash>
+          <hash piece="18">d34cde77dd8afdef87c880512a50fbe47eef641d</hash>
+          <hash piece="19">30525a299cb3b6172b518ff964cdf221dbb63cf4</hash>
+          <hash piece="20">e9e81994821be5e8239534caeb01c4f4b5385d82</hash>
+          <hash piece="21">9031fc892a02f82cf0432244dba77d3dff137c03</hash>
+          <hash piece="22">e9225b63a110ac0a7ae05c39fc6b0c7a22d77e1e</hash>
+          <hash piece="23">420dec932d717bd352e244632682e74918194410</hash>
+          <hash piece="24">4a09c504f7de4dde52efc5f064604b347b595279</hash>
+          <hash piece="25">064e1378b17e9d332a6a0cbe6fd1f4250e04fb45</hash>
+          <hash piece="26">622e97d29e9e8f6cd7cd9457d3cf898a15bd6248</hash>
+          <hash piece="27">42ae2c7148d73f782b082075330bb46e56166901</hash>
+          <hash piece="28">767de16abca44da684527c656d06c8bf21dbeba0</hash>
+          <hash piece="29">62a81f767e27ebdf58ba12ee4f434d8ed2559318</hash>
+          <hash piece="30">2caf1645c25290e426beb8d8e509c6c7cc963bdb</hash>
+          <hash piece="31">9c3bd3d7a83b8a75703d8f118355938a2ebf3652</hash>
+          <hash piece="32">4f1eec8ec9347af5aca3dc7ff3b8ad2425b7842b</hash>
+          <hash piece="33">32b2a65100a16fb2c0834706f5fef0f3a1b62e89</hash>
+          <hash piece="34">cb24085dcd3341a2b7540d8398f4e703785df0b9</hash>
+          <hash piece="35">1afa3f157cf70ba216e8220693ee2fbc5ed1becf</hash>
+          <hash piece="36">538310aab36146d33b7acdc8145f34628f5416d3</hash>
+          <hash piece="37">629b6bac0b4f94b0a9228e5b238b0d81a903dcba</hash>
+          <hash piece="38">b59ac2139cd1aedb29063200abeaf5b6927024c3</hash>
+          <hash piece="39">2c0fcee1a6f3671fb19e140fdacf218d889ab77f</hash>
+          <hash piece="40">49f98a9a0d73c41ed6823481f70cbe1cb7f7eacf</hash>
+          <hash piece="41">e25fd730f38b970e51cfa1942618ed247db7999e</hash>
+          <hash piece="42">fe1381e334c6101c3a4aa5c207b47c7924371bd5</hash>
+          <hash piece="43">1dfed1b8ed1a3ecd9d8a3e8641b9b4f8da7e4d9f</hash>
+          <hash piece="44">0f9f54308ae300b3ce430bda59a9d581dbb50827</hash>
+          <hash piece="45">0dd96aa21fd866375dbfe0321654964ad97b09b1</hash>
+          <hash piece="46">967bc5a0137752697ebac55bc8ef4973908705cf</hash>
+          <hash piece="47">285b724ae641027fbd548bb30704683612f066f4</hash>
+          <hash piece="48">14bbdd1e40ecfade757badf6e97e1d26eb25169f</hash>
+          <hash piece="49">0757830ab54ae46cb141ff55f6ae9a70a8103b50</hash>
+          <hash piece="50">24d760bb44a91167bb565d6f013b33a808e9bb4e</hash>
+          <hash piece="51">aa2cb0dd8e74187e3cf082dc55c34781250d6ee6</hash>
+          <hash piece="52">08fc71c1e4567c0f96417cbf0341a80b4292d337</hash>
+          <hash piece="53">afb659797785f725b5afa96bb21d36526ae3046e</hash>
+          <hash piece="54">0108cdbbe72ba11297731886a1ebff937ab1602a</hash>
+          <hash piece="55">ee8b49fa78ac01f2d65d52a4346ec000c9a8d715</hash>
+          <hash piece="56">a8ae1b158d3155ce167f7eb765cf42a6f29d7ea5</hash>
+          <hash piece="57">148a77277abd272698ce84146507133edef245ae</hash>
+          <hash piece="58">7c3f59ff99503ed794fcee887b0d68b501d2a7a7</hash>
+          <hash piece="59">d6485b056bebad727bc37b3923c158283650a55a</hash>
+          <hash piece="60">8e3b9eb9acddd3ffc932ba3177a8d1ef089d5a17</hash>
+          <hash piece="61">a92fe91cf485fd2797d6a6e676217629877ceec0</hash>
+          <hash piece="62">bec684d5478fc68603703ef33c58a11a4e284807</hash>
+          <hash piece="63">b10326c29452bb28f16bda68caeac8c791e462f4</hash>
+          <hash piece="64">4edbb540daff400ef07e1652f84fdc25b5d6d2e1</hash>
+          <hash piece="65">4669ae1d30215aa54f158d440076d2f9d4f66783</hash>
+          <hash piece="66">f29f927d431959ec7cb672da1788f96931778a5d</hash>
+          <hash piece="67">bbb35fbbf9af443e9ffe7b132f0cbbe13fe4ae54</hash>
+          <hash piece="68">c6568402803ea38c0b5c9536a7bdded3124e601e</hash>
+          <hash piece="69">79c4186810d4f5672490dd14db3fbba885a1abf8</hash>
+          <hash piece="70">87ac4f0d56bea6849d23023cbcae19efa0b0b7d2</hash>
+          <hash piece="71">35c64c31e5e408d76665882b579e73ef000179cd</hash>
+          <hash piece="72">1ebb9744d0bb82168279a2a692ac05b5d5ca6bef</hash>
+          <hash piece="73">3d3bc92bd65481a01d3960a06a0b0e95cc4169c0</hash>
+          <hash piece="74">c50d76c36957793f4af50eb3c2ec113908964d39</hash>
+          <hash piece="75">cdd445f46aad92ac0b5637034eb9a05d3e2c9633</hash>
+          <hash piece="76">ad2ee70242549513487ad2080997f10adcf78787</hash>
+          <hash piece="77">1c289b465c42232c286b150bb7195627ce76ab3a</hash>
+          <hash piece="78">abd38e647a19d1c572f1a53d5f8552973ec1368f</hash>
+          <hash piece="79">712149108e10c4c0cc27292539a26e8d177c6cf1</hash>
+          <hash piece="80">fe67f859298ee532e8e8f70e7d9d7a4836b2d0db</hash>
+          <hash piece="81">7882181433baab80e6ce8ab42a051fbbb1d0ab17</hash>
+          <hash piece="82">716671020c494eebe2b7cd4c9e37107b6ffbf1f5</hash>
+          <hash piece="83">86ef2c7fb8fa11790b932b89e8d4e9ecc669dc5b</hash>
+          <hash piece="84">fd1372c921bd6628031302e43456c6af6ae07707</hash>
+          <hash piece="85">1cb5ad81e78684169cee1c54a9aedcab53c69ec1</hash>
+          <hash piece="86">14df5cc8ad4973e6ea8545075611f3b3cf7ca368</hash>
+          <hash piece="87">c137275bf0ba9c0c850faa9555434ee374d2ca9d</hash>
+          <hash piece="88">8505351ab36f9c9cc72c7331ccb038b0699e6f2f</hash>
+          <hash piece="89">f96fc9c7ac310b160298cb5c9a2c3c6c7e6526a6</hash>
+          <hash piece="90">5e8ad005536f2fc15e2ba8c0c3665d052f267102</hash>
+          <hash piece="91">5a3189f22cc73e36b9d221f05e246463adcbec82</hash>
+          <hash piece="92">cf4c7b201e4fa89f5a00dcfa23f99f01cc943f96</hash>
+          <hash piece="93">00f280e9432bf51e8c688c485936781975def7f0</hash>
+          <hash piece="94">bace326bf4b3fd19cb05052411afe2671a916024</hash>
+          <hash piece="95">515c3924df125750267ff0fe102b7419af349095</hash>
+          <hash piece="96">dc42ff4f224ed922df21f51a6226ed4eacce4a4e</hash>
+          <hash piece="97">41630658398fd3cf4e149b9111ac16e9f3d59c8a</hash>
+          <hash piece="98">7d96897a10f25c0d6c1252059bdf47f7f312bc40</hash>
+          <hash piece="99">c396f83472c488038d50cd53e3a657d89b6b7fd5</hash>
+          <hash piece="100">25cb846ae4b1d42dc61cb5bc8754ce080803bfa0</hash>
+        </pieces>
+      </verification>
+      <resources>
+        <url type="http" location="de" preference="100">http://debian.tu-bs.de/project/sidux/release/SIDUX-2007-01-200702210952-CHAOS-LITE.ISO</url>
+        <url type="ftp" location="de" preference="100">ftp://ftp.spline.de/mirrors/sidux/release/SIDUX-2007-01-200702210952-CHAOS-LITE.ISO</url>
+      </resources>
+    </file>
+  </files>
+</metalink>

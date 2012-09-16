@@ -1,0 +1,76 @@
+<?xml version="1.0" encoding="utf-8"?>
+<metalink version="3.0" generator="Metalink Editor version 1.1.0" xmlns="http://www.metalinker.org/">
+  <publisher>
+    <url>http://www.gpg4win.org/index.html</url>
+  </publisher>
+  <license>
+    <name>GNU GPL</name>
+    <url>http://www.gnu.org/licenses/gpl.html</url>
+  </license>
+  <identity>Gpg4win</identity>
+  <version>1.1.3</version>
+  <description>Gpg4win is a installer package for Windows (2000/XP/2003/Vista) with computer programs and handbooks for EMail and file encryption. Both relevant cryptography standards are supported, OpenPGP and S/MIME (the latter is in progress and currently works with GnuPG2 and Claws Mail). </description>
+  <files>
+    <file name="gpg4win-1.1.3.exe">
+      <size>9717767</size>
+      <verification>
+	    <signature type="pgp" file="gpg4win-1.1.3.exe.sig" />
+        <hash type="md5">fe86ed13810896ec9fb8eea29401d14d</hash>
+        <hash type="sha1">1fb338f4e5fa06c72736e9ebaebea8fbc0e3618a</hash>
+        <hash type="sha256">472ecd5176dd981f51a9b9ece04be147c6e092f5ea53edaa4dc5843a64b79bad</hash>
+        <pieces type="sha1" length="262144">
+          <hash piece="0">701c5d73bb6bfdf2c63098fbb558f0e346692485</hash>
+          <hash piece="1">6572e8e946ba7f0aa132ebc40a3b32d34ed9d4e9</hash>
+          <hash piece="2">6fce47a0042293c87cfd680f4e304e6e6d2cd502</hash>
+          <hash piece="3">6ebfbcc7f3a37387631d1e59df0567b5a395c4b2</hash>
+          <hash piece="4">233ba23153ddac37433700090be4e5b1249e6a05</hash>
+          <hash piece="5">ade660f73b0023f8c6ec77e4019d19c64c353ed2</hash>
+          <hash piece="6">1944b5ce3536ad00a1c449609e74824e797ea42e</hash>
+          <hash piece="7">49300f5360a946deb6b573620139fd8ec9fe7385</hash>
+          <hash piece="8">b235ddc0488cb7e9148ac227902d5138801c7b1a</hash>
+          <hash piece="9">1b78c1b9bff72d821cb719caab6c7579c247ef87</hash>
+          <hash piece="10">8463ae9216c9552fad51f7246dd68392ddd5fc5a</hash>
+          <hash piece="11">893f725157529a8838f0ab6c638a11c27e65b81f</hash>
+          <hash piece="12">a9b980787d917290bc1d148ef7e429a63edcfee9</hash>
+          <hash piece="13">5fabafa22777bce85fc549bbcd2abc3323d40468</hash>
+          <hash piece="14">fbf7b028c59aa0d8316ca8330bf4a284ee4df60c</hash>
+          <hash piece="15">fc54c18c664558ba2314c908f39cd3a699edd802</hash>
+          <hash piece="16">382150b1fbb7f31f18315b1e4f6f41df702d53c0</hash>
+          <hash piece="17">a9fe930889a88ca858b1aba50d0369d16c287e89</hash>
+          <hash piece="18">12ea6eed062ebb6c23bcc954e260c9ef23eb12b0</hash>
+          <hash piece="19">6ab01daf293e27cde14dac899b80f8a4bf13feb1</hash>
+          <hash piece="20">f3016fb19710a62f9a46129f44cd9db53ff4fb37</hash>
+          <hash piece="21">773b70c543ced31f9edec052bc9ee85f1ddb2181</hash>
+          <hash piece="22">2e068b518d32a5cc059eed09cc393d814bb61d22</hash>
+          <hash piece="23">f72446a43a465467671281f7d23c2b9293576681</hash>
+          <hash piece="24">24f4550b72624e5df1a4ae28c3d2749bd388e326</hash>
+          <hash piece="25">f81ec6fed61b060cd174dab2ff970394fa183f00</hash>
+          <hash piece="26">25dedc8947fd6438ac04141b2e017ff3b434f4ad</hash>
+          <hash piece="27">3faedafe100a508a55db1e15fd175ee9a4ef818b</hash>
+          <hash piece="28">dc696e1bc265757f7d157cba51a388a1f1314a80</hash>
+          <hash piece="29">6a6557e9699948a5678fa924f8eac3628d1e8420</hash>
+          <hash piece="30">45108f60b9ed663614109769e6d1d0f1fbf767c5</hash>
+          <hash piece="31">68b7e574355a82cb2cd36a397e81508dd3ab9042</hash>
+          <hash piece="32">c5a34c3d552f9e21fd57a8d2cd5262ed3b144b29</hash>
+          <hash piece="33">153675200bb2eedfe2ddb99ef1648e3014ed1723</hash>
+          <hash piece="34">ab13e90ae2b268f1efe03b50fe6cd45a34c9b8a3</hash>
+          <hash piece="35">cdb9338c7a7767e5823d485da38ace8e8069cfaf</hash>
+          <hash piece="36">28d20fb18f1c0d858569bba32808dcb9fd6c64fa</hash>
+          <hash piece="37">44816b77a1b5629e0c6f59262e2f77ab7effbd9f</hash>
+        </pieces>
+      </verification>
+      <resources>
+        <url type="http" preference="100">http://ftp.gpg4win.org/gpg4win-1.1.3.exe</url>
+        <url type="http" location="ie" preference="90">http://ftp.heanet.ie/mirrors/ftp.gpg4win.org/gpg4win-1.1.3.exe</url>
+        <url type="http" location="no" preference="90">http://ftp.no.gpg4win.org/pub/gpg4win/gpg4win-1.1.3.exe</url>
+      </resources>
+    </file>
+	<file name="gpg4win-1.1.3.exe.sig">
+      <resources>
+        <url type="http" preference="100">http://ftp.gpg4win.org/gpg4win-1.1.3.exe.sig</url>
+        <url type="http" location="ie" preference="90">http://ftp.heanet.ie/mirrors/ftp.gpg4win.org/gpg4win-1.1.3.exe.sig</url>
+        <url type="http" location="no" preference="90">http://ftp.no.gpg4win.org/pub/gpg4win/gpg4win-1.1.3.exe.sig</url>
+      </resources>
+	</file>
+  </files>
+</metalink>

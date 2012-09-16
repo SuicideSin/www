@@ -1,0 +1,212 @@
+<?xml version="1.0" encoding="utf-8"?>
+<metalink version="3.0" generator="Metalink Editor version 0.4.1" xmlns="http://www.metalinker.org/">
+  <description>SimplyMEPIS 6.5 RC2 32 bit CD ISO</description>
+  <files>
+    <file name="SimplyMEPIS-CD_6.5.rc2_32.iso">
+      <size>708198400</size>
+      <os>Linux-x86</os>
+      <verification>
+        <hash type="md5">349285ea2959a3a25c39c9dd45072f0d</hash>
+        <hash type="sha1">61604f6459c8f5386c639a70be31acbf7fa9b6cd</hash>
+        <pieces type="sha1" length="4194304">
+          <hash piece="0">ed7be80ac5b30b422d64d33611a3d88d042d4090</hash>
+          <hash piece="1">c14a3e345f1e788baf44cb2a5641710f5233b35d</hash>
+          <hash piece="2">44f76b6919036ca000185b9907732da31197c88c</hash>
+          <hash piece="3">74bec382226c3ea5fa9b732e9e42a515258526cf</hash>
+          <hash piece="4">49031c7c1f0ddfda651a7c50683f79a81246f2d1</hash>
+          <hash piece="5">1c6e9efed9d12d25c466205a59d139ca2277109a</hash>
+          <hash piece="6">e8775d61fb753de2e4cee87e90e29a68860b4546</hash>
+          <hash piece="7">0bc7d376650776cd5208ac27fa33902dfae66d73</hash>
+          <hash piece="8">7509e37348700249401078484b9e5e1c759cf8e5</hash>
+          <hash piece="9">725d0753ccd05a196c0fddfab45233c38d65f71a</hash>
+          <hash piece="10">b2e630458c4e0866db01141ccac00943543ec41e</hash>
+          <hash piece="11">2655be70dc66e1dbc19be1ef81fa79aaf5e94688</hash>
+          <hash piece="12">0296161995fe39d3d06c4c52a1189ae4f8ba918e</hash>
+          <hash piece="13">ba7ff16e66d945eb728912befb75ef411af0e62e</hash>
+          <hash piece="14">f942ea7d05634962998230aff08da83cafb092e3</hash>
+          <hash piece="15">06daf5e4ab16681ce007a9ec0111db0edb171672</hash>
+          <hash piece="16">8b32421cad625ed4ed221081d56404d962012000</hash>
+          <hash piece="17">f8351d827dd675d2e2640f4c23416db039d2a2c9</hash>
+          <hash piece="18">472972edf3a1a10612f9f3e81e8039227fd52507</hash>
+          <hash piece="19">772939c811c720013f2a9046e8f69783dc4a5ac7</hash>
+          <hash piece="20">2ecd378d6cddf9e72398c080730b874cdf4e752d</hash>
+          <hash piece="21">8f16b47da07e02f9751da193d706612adc0188f0</hash>
+          <hash piece="22">b10c5dea1742a43154fcdc5e0a0d5f8fc9f649cb</hash>
+          <hash piece="23">638f910c78087f8344c09960a8f7ee0f696fe44f</hash>
+          <hash piece="24">c16a4ea351838b83f3b20e8cf19714630ae549cb</hash>
+          <hash piece="25">0764da5891e8072bbaaa9678b10f9dc068b865eb</hash>
+          <hash piece="26">b8782eba7d995180af5a8f2901bdf27c9a1ed857</hash>
+          <hash piece="27">524278d5352dd1b1b263f332305efa45a9db0c95</hash>
+          <hash piece="28">c070744d7bb8569701f687074c719c520f96fec7</hash>
+          <hash piece="29">1dffa771d6c2450011dde9b5f620fb84757febd2</hash>
+          <hash piece="30">89dd63dd76bb206596e065d98c6b9ee7ee786324</hash>
+          <hash piece="31">2c7c838dd71d9df9ea1a8622d3076ccc06ba3326</hash>
+          <hash piece="32">565af7e7dc4df201b4e9b95017dff5281ff10b7f</hash>
+          <hash piece="33">b4303cbc0c388a62225bb35547733e2de786d94a</hash>
+          <hash piece="34">055a4830ecd5a1fc9e85019617f09ad59bb41a7d</hash>
+          <hash piece="35">8763331e18a162307a116a99af20b388a320b61f</hash>
+          <hash piece="36">25881a755aaf845d72978b440d57c9c25ea47433</hash>
+          <hash piece="37">47982ea8f518fc1f577e010ecf9654ddcc7ec15a</hash>
+          <hash piece="38">0e60fae2c556db88319fbccd236168ca70089792</hash>
+          <hash piece="39">d081d309e605bc4ce3ce86ad35b8161ab6190d91</hash>
+          <hash piece="40">23244849a5573ed657fb50f85010a862c1c6b0ae</hash>
+          <hash piece="41">0e1241fee170a81d15373b1b2b550c0aa04e4107</hash>
+          <hash piece="42">7480c342a506aea22f87e9cb3713727af8e38f0c</hash>
+          <hash piece="43">46c8c666489f5906ade4e17be62ccf789d8e85ee</hash>
+          <hash piece="44">3f7618627ac83154eec807fa8756966712c432ee</hash>
+          <hash piece="45">2575c9c26285924ce81754a5d70b5a55c082c1e3</hash>
+          <hash piece="46">0c695737f8dfdf4dde7271462cfb7829182ff683</hash>
+          <hash piece="47">3bb1c6633601ea1e6f32461fe23588dfd2c02602</hash>
+          <hash piece="48">7da6f33f8b0f9b0cc7edfa4ff8c5cb66062b3d08</hash>
+          <hash piece="49">2d779a63deb39e1d7371ab8cac02981bf72acaa9</hash>
+          <hash piece="50">60cc6fbbc2b55fc463891bdd9c7121b714855cd1</hash>
+          <hash piece="51">c56a75aa54690d5c55d7d052bc317ea2694a1c47</hash>
+          <hash piece="52">60e0a8c526edc480887f0fc5a95111c90013d542</hash>
+          <hash piece="53">dc84819059b99eb5f69ea78366d2b4ae175af436</hash>
+          <hash piece="54">96915d5fb3a095586013faea491089bf462e21aa</hash>
+          <hash piece="55">81dca94e5e9bc71fb23c73925b285838a34f9621</hash>
+          <hash piece="56">9c9e814b6c15ade4154c9c8d9d3bd202c400951f</hash>
+          <hash piece="57">140e0474d75e92c62f123104c0bbfff01f360198</hash>
+          <hash piece="58">758db982ae33cfc07da7ed4af907b70374424a3a</hash>
+          <hash piece="59">5d7f3b36caac27160e34884b620182285fa58acf</hash>
+          <hash piece="60">8e0ce06a1f9739b86168370562e95242e474016f</hash>
+          <hash piece="61">6ccf5a194430a2c7b190ac3b585e90e79334e3e9</hash>
+          <hash piece="62">5452b4d78038dbb5759b2b7969128de70af5b40d</hash>
+          <hash piece="63">dd385b6b5167e4e6d2302696c0a3e12dd964b14e</hash>
+          <hash piece="64">0ee8fa8a2ddaf9024dde1831329a17a2f1e0f667</hash>
+          <hash piece="65">2a9a0bb68566055400fee5875efb3d69b20befd1</hash>
+          <hash piece="66">85203ba3ae6c136e5f8703e59cf8a27a550d1bd0</hash>
+          <hash piece="67">41216f15af9f334ecc56429a4f8295f71419e290</hash>
+          <hash piece="68">8b789f095004c097d88b89eb6c13daf2cae8f502</hash>
+          <hash piece="69">6df1ac381f6c04acbb1cbb00b85481177de4506b</hash>
+          <hash piece="70">1e0b0f07594c44d2fa73216cbe4478fefb7fe52d</hash>
+          <hash piece="71">73d0324b9396474b5d311e6b11204f94f52036ae</hash>
+          <hash piece="72">08af9875c5b462e3696f84a5d2193b282a7e00b0</hash>
+          <hash piece="73">7198ba120245ef7105e6e5c7531b87b1c55c4b49</hash>
+          <hash piece="74">b4a8ecb9402717f99b6cddc30227982f62889df5</hash>
+          <hash piece="75">6e4fc17d96b86f57ee3d7498e47e50cc97c2cc30</hash>
+          <hash piece="76">b523053caf8f1f94f5ba54fd67cf7e8fb869d834</hash>
+          <hash piece="77">51a7cc476e86a18b4cea48229df2ef0df96dd5fd</hash>
+          <hash piece="78">aaaf3826e78611ef00e45a0505368f98f0ea8a35</hash>
+          <hash piece="79">c50af0d1727fc57fce524beb0a7f1ab4cec2b369</hash>
+          <hash piece="80">6c22b46f265e5cdc08432def36c5d6a7cf9e2bee</hash>
+          <hash piece="81">6f385de97c82e6afd1eb4876411eaae222dd0052</hash>
+          <hash piece="82">700402a0236cc563d211c23f9871842dadb74f4c</hash>
+          <hash piece="83">9aa8f65204c3d2925146938133e00e7ab26473f6</hash>
+          <hash piece="84">dd99c57e7038f48413342efd0023c02a9c5ea3e7</hash>
+          <hash piece="85">526c62151efb33100b82bde2b85ff126598e3108</hash>
+          <hash piece="86">0611839fa1db74d0091d31af8d00843f490dfa2c</hash>
+          <hash piece="87">af2d8250f1af2c871c32db9eeb4b63ef8b4b18b5</hash>
+          <hash piece="88">39310676782b7d4ff84007f65cc75c262483f401</hash>
+          <hash piece="89">113ef8c7f6f8ba13455fb4a0ac66656b0a663be0</hash>
+          <hash piece="90">84136bf64dee9cc933de95f8023c2ff19b89f90b</hash>
+          <hash piece="91">2490577f0640b0747e9848a29aacbe2b14aedaa0</hash>
+          <hash piece="92">e8e5d92c6d8feb055d4f9a3d8c8eb70951134213</hash>
+          <hash piece="93">d1b6d2fbcbeee2b814f1de7e66ff20ce700538d7</hash>
+          <hash piece="94">6e61a2a122de7a753dee58a8e857abc2b1234551</hash>
+          <hash piece="95">b19e0a6cceed27a21ba106fdf96c9798a5137448</hash>
+          <hash piece="96">68bf57224524e3b055fbd53f8af9e25461495f53</hash>
+          <hash piece="97">63f049b3b8d98f1a6adcc98c2f8c7580175e7d15</hash>
+          <hash piece="98">c8c393066d3c367c9dd021c28d7fd38b3c8c0d0f</hash>
+          <hash piece="99">3a8b41fe19fa1c78f9579dbc0d2be75469d912a3</hash>
+          <hash piece="100">4f41f84cb5d2fc1b38615a1ecef2dbb7eb6df7e4</hash>
+          <hash piece="101">035a0bc436fd06dafa35fa788279a461d10abf21</hash>
+          <hash piece="102">59f5e1648ad0ee78486eeabdac16850abc9a4c2a</hash>
+          <hash piece="103">7a1addb64b4347d2047393ba5cf319102cc3ee8e</hash>
+          <hash piece="104">02edf519d01875b4881008970258deb48403d2af</hash>
+          <hash piece="105">12cb1f827a43efea884c07d6dc8c24bbe21e4087</hash>
+          <hash piece="106">711353ad95579f29aa0fbf5ddf35ffc9945bea19</hash>
+          <hash piece="107">5532815c946ad10b7d2ec230c14899a3967c8f95</hash>
+          <hash piece="108">bf09d5147496bb084f05076d9cc43c51fdbb22ce</hash>
+          <hash piece="109">2f22efec6b7cf23aef1d8ea69f2f2f1fd15da03f</hash>
+          <hash piece="110">7fc11dcde42ff49a5555b1420549021eeb29747d</hash>
+          <hash piece="111">509b47fbbe39f5cfc16477c8db2ee67f03cfdcab</hash>
+          <hash piece="112">5b785575d3944b52c614dcbe135288c891a5fb1d</hash>
+          <hash piece="113">238a321ff574b300d859cc82e255e7f91aea7f7c</hash>
+          <hash piece="114">a989090db608798a7867b4860b3b1277a63fbece</hash>
+          <hash piece="115">b6b70a5394420abacf27040e506ead2f70f730b9</hash>
+          <hash piece="116">0e8d606d411fcd9e619698cf8151b340afcc90bb</hash>
+          <hash piece="117">d57f2da868cb966beee90a7dc4f0e036f5525e7c</hash>
+          <hash piece="118">23cc435add129dab700ba4cd3c4957882bdfbf3f</hash>
+          <hash piece="119">4e070777d3ea3a8d341644f512e7282be9ed5569</hash>
+          <hash piece="120">0e1e3a4ec8e18e373215e2dd197483416e21cb70</hash>
+          <hash piece="121">45d94991911e1a6b6d5b28cfcbc434974702a31e</hash>
+          <hash piece="122">06dc0df07f01bc3bae46e72bc4ec8730c57161ce</hash>
+          <hash piece="123">fda1a73c6ebe7e91040984b1447bb1867fd7eec9</hash>
+          <hash piece="124">3fdca662afe47c7831492fca3d791e44c988b119</hash>
+          <hash piece="125">04d57807065fe59d554f691432d75b9d88daea17</hash>
+          <hash piece="126">e5cfdeb7e952f8c83d0cb8fbf6d4b46909da9aab</hash>
+          <hash piece="127">68b0e41f49cff98d52ff9b4ba4a31ffe73930145</hash>
+          <hash piece="128">efdf7caf2800850bd2c2f40edc3eb58c324b824e</hash>
+          <hash piece="129">db89e35b6f2ece4e6ccc7d2face54e2463ca88f5</hash>
+          <hash piece="130">da8d3a00e3a50f0975e46cd41235acd7be26c203</hash>
+          <hash piece="131">2fb63ac1b5cadb1d52a49288b26571030627cd7c</hash>
+          <hash piece="132">b29f4abf2e92fb167ad43521c286f82d5c262948</hash>
+          <hash piece="133">657a284891976c1208a48ef5598c6379dfd423aa</hash>
+          <hash piece="134">43301b092653d6d622c5f729c4b01abf41108d25</hash>
+          <hash piece="135">323ab006624a67b2af296b2b2401b342e4cd1f5f</hash>
+          <hash piece="136">7abe10ece6f79b5b13273fdb44c406088422701e</hash>
+          <hash piece="137">05381df41998c4d33c3c7408f1df2943f752ed9c</hash>
+          <hash piece="138">ec07f109e1d6d744c67bcfbd731e75df262ade15</hash>
+          <hash piece="139">7736ededf08c907243c2ddb183b29f05ff89d0c1</hash>
+          <hash piece="140">d894373034c163a575f13b1d1a71cc7d45ecff3a</hash>
+          <hash piece="141">39e916b88d77c2806fcd8de3bdc0491e4ba9eb6b</hash>
+          <hash piece="142">01b5aee4c28e7ce5a71c9cfce437151c26027658</hash>
+          <hash piece="143">285c874897e21226d9766581f1d42440411fa936</hash>
+          <hash piece="144">58a0037d1e2dd1d2c3bf066dda070d3cd2ae4816</hash>
+          <hash piece="145">cd9144b57e177fcd2213879fb2f63c0c55ed2b8c</hash>
+          <hash piece="146">1e88f0fdfed5df35941217243440ee2ed9ceab7e</hash>
+          <hash piece="147">ff67d64ee384292bb555287e4f78fd17b2d59b9c</hash>
+          <hash piece="148">2cc46cfdff0533f26253964a3612363b99df915b</hash>
+          <hash piece="149">0af0232fded19deb08ddf2569437f97e23b1c4fa</hash>
+          <hash piece="150">7f4d75de1b04e0e2f4e2dc059c6ba96d63d58099</hash>
+          <hash piece="151">0433d03f6511bbb9f97691b1f11ec68f1f12839a</hash>
+          <hash piece="152">d6b404ae23dd45988ec0ccca5a175c7ca75fc720</hash>
+          <hash piece="153">3a6997044d6e0097d9ce55589e2e00b9187c5d3c</hash>
+          <hash piece="154">b0f71df9a16ac9974c0ce40c1a5b56613118957a</hash>
+          <hash piece="155">2ba45e0d1b0ff474e53de07bd7e6a1eadd87fd5e</hash>
+          <hash piece="156">245e04b6f255f5274d22088a128f9886365cec0d</hash>
+          <hash piece="157">de6e957bb4740f99e451e7e98bf692360d7a6637</hash>
+          <hash piece="158">443ed1c7fd823e9d6f2de508e138ad3a0a6abe78</hash>
+          <hash piece="159">08c3af2e0bdc677d007159a1449a3d5e369b1daf</hash>
+          <hash piece="160">ea87d935e80ab58c53dde584488e6f0c3611a2c6</hash>
+          <hash piece="161">b6aebee77005346d62bb8425260a8cfd286fd070</hash>
+          <hash piece="162">78c0cd5dcddd92f4181bf716b8c15601002474bc</hash>
+          <hash piece="163">34b895be6989f07b3c3418bd5291eff42411d2e5</hash>
+          <hash piece="164">48c60c4ae170115bd85aa918bea97c58e0a561bd</hash>
+          <hash piece="165">ee03ef2fde6e12d9d5e327b52364dd52b937d37f</hash>
+          <hash piece="166">5751d67b0229a4a53bee6256bb65de071258de85</hash>
+          <hash piece="167">0d14b596a988c7d8f162e1e3dea52e6639513858</hash>
+          <hash piece="168">1ba2f5ce6911fa985ad9b22717271051d42c7760</hash>
+        </pieces>
+      </verification>
+      <resources>
+        <url type="http" location="us">http://mirror.cs.vt.edu/pub/MEPIS/testing/SimplyMEPIS-CD_6.5.rc2_32.iso</url>
+        <url type="ftp" location="us">ftp://mirror.cs.vt.edu/pub/MEPIS/testing/SimplyMEPIS-CD_6.5.rc2_32.iso</url>
+        <url type="ftp" location="us">ftp://ftp.ibiblio.org/pub/linux/distributions/mepis/testing/SimplyMEPIS-CD_6.5.rc2_32.iso</url>
+        <url type="ftp" location="us">ftp://carroll.aset.psu.edu/pub/linux/distributions/mepis/testing/SimplyMEPIS-CD_6.5.rc2_32.iso</url>
+        <url type="ftp" location="us">ftp://ftp-linux.cc.gatech.edu/pub/linux/distributions/mepis/testing/SimplyMEPIS-CD_6.5.rc2_32.iso</url>
+        <url type="http" location="us">http://ftp.uwsg.indiana.edu/linux/mepis/testing/SimplyMEPIS-CD_6.5.rc2_32.iso</url>
+        <url type="ftp" location="us">ftp://ftp.ussg.iu.edu/pub/linux/mepis/testing/SimplyMEPIS-CD_6.5.rc2_32.iso</url>
+        <url type="ftp" location="us">ftp://ftp.cise.ufl.edu/pub/mirrors/mepis/testing/SimplyMEPIS-CD_6.5.rc2_32.iso</url>
+        <url type="http" location="us">http://ftp.wustl.edu/pub/linux/distributions/mepis/SimplyMEPIS-CD_6.5.rc2_32.iso</url>
+        <url type="ftp" location="us">ftp://ftp.wustl.edu/pub/linux/distributions/mepis/SimplyMEPIS-CD_6.5.rc2_32.iso</url>
+        <url type="http" location="au">http://public.www.planetmirror.com/pub/mepis/testing/SimplyMEPIS-CD_6.5.rc2_32.iso</url>
+        <url type="ftp" location="au">ftp://ftp.planetmirror.com/pub/mepis/testing/SimplyMEPIS-CD_6.5.rc2_32.iso</url>
+        <url type="ftp" location="at">ftp://gd.tuwien.ac.at/opsys/linux/mepis/testing/SimplyMEPIS-CD_6.5.rc2_32.iso</url>
+        <url type="http" location="at">http://gd.tuwien.ac.at/opsys/linux/mepis/testing/SimplyMEPIS-CD_6.5.rc2_32.iso</url>
+        <url type="ftp" location="be">ftp://ftp.belnet.be/linux/mepis/testing/SimplyMEPIS-CD_6.5.rc2_32.iso</url>
+        <url type="http" location="cz">http://ftp.sh.cvut.cz/MIRRORS/mepis/testing/SimplyMEPIS-CD_6.5.rc2_32.iso</url>
+        <url type="ftp" location="cz">ftp://ftp.sh.cvut.cz/MIRRORS/mepis/testing/SimplyMEPIS-CD_6.5.rc2_32.iso</url>
+        <url type="http" location="jp">http://ftp.riken.go.jp/pub/Linux/mepis/testing/SimplyMEPIS-CD_6.5.rc2_32.iso</url>
+        <url type="ftp" location="jp">ftp://ftp.riken.go.jp/pub/Linux/mepis/testing/SimplyMEPIS-CD_6.5.rc2_32.iso</url>
+        <url type="http" location="jp">http://ftp.yz.yamagata-u.ac.jp/pub/linux/mepis/testing/SimplyMEPIS-CD_6.5.rc2_32.iso</url>
+        <url type="ftp" location="nl">ftp://ftp.nluug.nl/pub/metalab/distributions/mepis/testing/SimplyMEPIS-CD_6.5.rc2_32.iso</url>
+        <url type="http" location="nl">http://ftp.surfnet.nl/ftp/pub/os/Linux/distr/mepis/testing/SimplyMEPIS-CD_6.5.rc2_32.iso</url>
+        <url type="ftp" location="nl">ftp://ftp.surfnet.nl/ftp/pub/os/Linux/distr/mepis/testing/SimplyMEPIS-CD_6.5.rc2_32.iso</url>
+        <url type="http" location="uk">http://www.mirrorservice.org/sites/mepis.org/testing/SimplyMEPIS-CD_6.5.rc2_32.iso</url>
+        <url type="http" location="uk">http://ftp2.uk.freebsd.org/sites/mepis.org/testing/SimplyMEPIS-CD_6.5.rc2_32.iso</url>
+      </resources>
+    </file>
+  </files>
+</metalink>

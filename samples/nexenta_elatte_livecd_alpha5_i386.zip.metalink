@@ -1,0 +1,29 @@
+<?xml version="1.0" encoding="utf-8"?>
+<metalink version="3.0" generator="Metalink Generator v1.00.0035" xmlns="http://www.metalinker.org/">
+  <publisher>
+    <name>Nexenta</name>
+    <url>http://www.gnusolaris.org/gswiki</url>
+  </publisher>
+  <description>NexentaOS is a complete GNU-based open source operating system built on top of the OpenSolaris kernel and runtime.</description>
+  <files>
+    <file name="elatte_livecd_alpha5_i386.zip">
+      <version>alpha5</version>
+      <os>OpenSolaris</os>
+      <size>253370669</size>
+      <verification>
+        <hash type="md5">7a01cc4f40867201602197681d691b12</hash>
+      </verification>
+      <resources>
+        <url type="http" location="us" preference="100">http://www.gnusolaris.org/gsmirror/cat.pdx.edu/elatte_livecd_alpha5_i386.zip</url>
+        <url type="http" location="us" preference="100">http://www.gnusolaris.org/gsmirror/ftp.stanford.edu/elatte_livecd_alpha5_i386.zip</url>
+        <url type="http" location="us" preference="100">http://www.gnusolaris.org/gsmirror/genunix.org/elatte_livecd_alpha5_i386.zip</url>
+        <url type="http" location="us" preference="100">http://www.gnusolaris.org/gsmirror/http.stanford.edu/elatte_livecd_alpha5_i386.zip</url>
+        <url type="http" location="ro" preference="100">http://www.gnusolaris.org/gsmirror/iasi.roedu.net/elatte_livecd_alpha5_i386.zip</url>
+        <url type="http" location="us" preference="100">http://www.gnusolaris.org/gsmirror/improbable.org/elatte_livecd_alpha5_i386.zip</url>
+        <url type="http" location="se" preference="100">http://www.gnusolaris.org/gsmirror/lth.se/elatte_livecd_alpha5_i386.zip</url>
+        <url type="http" location="de" preference="100">http://www.gnusolaris.org/gsmirror/mine.nu/elatte_livecd_alpha5_i386.zip</url>
+        <url type="http" location="se" preference="100">http://www.gnusolaris.org/gsmirror/tdcsong.se/elatte_livecd_alpha5_i386.zip</url>
+      </resources>
+    </file>
+  </files>
+</metalink>

@@ -1,0 +1,119 @@
+<?xml version="1.0" encoding="utf-8"?>
+<metalink version="3.0" generator="Metalink Editor version 1.0.0" xmlns="http://www.metalinker.org/">
+  <publisher>
+    <name>SabayonLinux</name>
+    <url>http://www.sabayonlinux.org/</url>
+  </publisher>
+  <identity>SabayonLinux</identity>
+  <version>3.3b</version>
+  <description>SabayonLinux is a Gentoo based Linux distro.</description>
+  <files>
+    <file name="SabayonLinux-x86_64-3.3b.miniEdition.iso">
+      <size>733648896</size>
+      <os>Linux-x64</os>
+      <verification>
+        <hash type="md5">30ded2beb38fefedd67a29b9c2ce038b</hash>
+        <hash type="sha1">c12d05f3d5c3ff3ad78580ca55f1c8d6827ca466</hash>
+        <pieces type="sha1" length="8388608">
+          <hash piece="0">8379a530bf58536f6511288a2ec87e3f37a97a91</hash>
+          <hash piece="1">351c4e99a39e4f8d84986ac5d4d320a274b16abc</hash>
+          <hash piece="2">adaa7f6cc3da34e1686849c07ebe2d1485ba7f99</hash>
+          <hash piece="3">0969b168b2a37e3dc27c9c9bc1ec8dd5f87da036</hash>
+          <hash piece="4">79b4d9c54ceeccdd6bd482685d85869b9f792e89</hash>
+          <hash piece="5">af66192a2bad332324f74448dc95a6181d8826ca</hash>
+          <hash piece="6">68a84e11b6d18cbc8641902ee1745e40602d491a</hash>
+          <hash piece="7">cd8d5758a547477af5a694daff6f322b5404669a</hash>
+          <hash piece="8">5e89df99700a44c0de9887458fcd3e0f07e36fdf</hash>
+          <hash piece="9">a146f5778cfd69b9e7bee6e7592e76c59f15caf2</hash>
+          <hash piece="10">d502e0a89ee14de4be3be1fa2ba502356f3dfe2b</hash>
+          <hash piece="11">9f44dc9bb1d69d848408986469a1e3310426d2b9</hash>
+          <hash piece="12">10202f9f996aab86296dd57a8e9c5e2860f5180d</hash>
+          <hash piece="13">f7cca19f8a08388d47c5c2b12c7e8141f2e1731e</hash>
+          <hash piece="14">edb14bfa451aa4ad0a8a8fbf42c7869ce1817fd9</hash>
+          <hash piece="15">cc88a0722da8ee7e36362f3114a27f45d22458ef</hash>
+          <hash piece="16">f44831f12f659d70d6ac9748946afe68974b63ac</hash>
+          <hash piece="17">6abc55140c42ebd818e04853700b69345637fd06</hash>
+          <hash piece="18">04f2d24db7c1744754934ab0ffda28a7dc161ee8</hash>
+          <hash piece="19">75410e9a0ee81f07920304d82f05f969a2ad4fb4</hash>
+          <hash piece="20">09718ca1b12ebf3cedf7abb795e98330beacca03</hash>
+          <hash piece="21">4f5dcd146ac1d54c88f87df210eeef23be0601df</hash>
+          <hash piece="22">8a1666ca6f39efd8605493a38807be48e214f133</hash>
+          <hash piece="23">7cd5c9f6de697f4e77619a094349956dee9eb3a5</hash>
+          <hash piece="24">414b92ec7372f92f58ca4864741e1d34a3f69300</hash>
+          <hash piece="25">091ffc1d2fd376977d02f6282b6f0c36a8da03bb</hash>
+          <hash piece="26">3d7c93750a79343b893e75a86d1f0168d0a01743</hash>
+          <hash piece="27">0e25b7f37acf165e147ed50f857f4773cd69e08b</hash>
+          <hash piece="28">d505ad210839079cc162f9442d890473f1857ee0</hash>
+          <hash piece="29">66172f9976b245b8e17353349b2ce66ac60bfbf0</hash>
+          <hash piece="30">fc2ca824fb48a84d040001b33171129dbd2649ac</hash>
+          <hash piece="31">2e8430a03c72d0262bb5065a04ceb038731d17bb</hash>
+          <hash piece="32">95dacb3e150655056b4b6b197cac758508070726</hash>
+          <hash piece="33">50c141f17473c142e098bd65b637ce0b0bcdb787</hash>
+          <hash piece="34">2df3dcda4c9fab27f085a4f361622a22eab0d8d9</hash>
+          <hash piece="35">d9cb735c559666a91261e910a682d5af29906c66</hash>
+          <hash piece="36">06109462554f4d409c45e8aa899565fcf41f15a4</hash>
+          <hash piece="37">510c31339aee91023aad425b7e91361305f10032</hash>
+          <hash piece="38">122b080df91e9f33a56d72ce8ba3e0fb80b8d6fc</hash>
+          <hash piece="39">cd7a868d6ea6da0635146c93c8c621aee48fe2d0</hash>
+          <hash piece="40">75294ccb382232621ca4f7e40426461d39e30e4f</hash>
+          <hash piece="41">f06b624fa408898121becc75604f43c4b60305e9</hash>
+          <hash piece="42">7365211c56be1562da97021d25b8c043919936bb</hash>
+          <hash piece="43">ee0ed4b3ee7ac635dea49d33ef4ddd683335ebae</hash>
+          <hash piece="44">32cc2a8f0c1e2833d9c4a5fcc7e20d155ab65789</hash>
+          <hash piece="45">03d01ce85adbb726290d3b11926d70cab1ad6133</hash>
+          <hash piece="46">67c3372939442eafc82a08267fa26181db3645b8</hash>
+          <hash piece="47">291c6743a26a4eb067c716fc115aa73456fd272d</hash>
+          <hash piece="48">1a7531d013ae1fd21a831a31a1182c48f05cc9bb</hash>
+          <hash piece="49">da159e184acde3cd679431bb30d987ac2e7acb0b</hash>
+          <hash piece="50">db03bb01e2af331d0e8be311100ea2b71cebc83d</hash>
+          <hash piece="51">552f059e9a0828c8a0bb2e4bce568bdccb515e90</hash>
+          <hash piece="52">c858a3e69c9a997c2cdcbd928394062c8d3baddb</hash>
+          <hash piece="53">daf431f53a5c17fb0c3e0ffa5f7f133145e42022</hash>
+          <hash piece="54">e8c0410e279be96407d648c4fe6fb2375912edfc</hash>
+          <hash piece="55">9ef7b6955a68151248bfe4b46277ba0faed6cf9a</hash>
+          <hash piece="56">27abeaaeb4c29450021aecc07dd2905b47c30705</hash>
+          <hash piece="57">2e67e914b755003e794fcd20676784d4a163dfab</hash>
+          <hash piece="58">6262b73449ab46d5921be9d836f299ee089815f0</hash>
+          <hash piece="59">6b74789b5e4ba0cb3210f362d7516cf750d2dd43</hash>
+          <hash piece="60">9af30291c14bd826476f8e65115f6f428eb74d60</hash>
+          <hash piece="61">c78bc0f766986b29b23517b07b3018085ffa5f8c</hash>
+          <hash piece="62">942908bdbd2feca204cad6a5e60c2c877b2c5ab5</hash>
+          <hash piece="63">97d84821aacea5339e201ae5c354e641b402a9e9</hash>
+          <hash piece="64">5d6024ec42da45bb7477c86f391e66e270852480</hash>
+          <hash piece="65">2f560618e9d54b3033ce3e8f4ca1ae58a7e08bb1</hash>
+          <hash piece="66">ee0eaf7667cb43685eb7823a7d31f065382f139d</hash>
+          <hash piece="67">dcd23c8354f2798f25bbb2157144c2e1b20db793</hash>
+          <hash piece="68">08c7bc72f38d80b454cbc3fa1053302f41831126</hash>
+          <hash piece="69">0f3773db4d5eb91e34650323f29d8bb2a55d323a</hash>
+          <hash piece="70">3918528f199815f826d9ae105510b46bfbd6d771</hash>
+          <hash piece="71">f1dbf10ee86339a9285cbb4c4864eb8c60c4f513</hash>
+          <hash piece="72">1e283513601fd1c84e33ad8e50dae89d17b655c2</hash>
+          <hash piece="73">0615a92124687fb8fc77edbbcc82a789868c3b9f</hash>
+          <hash piece="74">19dab644b3683f19a373af1f834610a690c5a4d6</hash>
+          <hash piece="75">83abd44e882630c9669c7650bb14c828cf44fb59</hash>
+          <hash piece="76">ed370b384b785789f49b412a8678f8e61ae126c4</hash>
+          <hash piece="77">20bb54fe89115c4285fb2d7e83156b659239173a</hash>
+          <hash piece="78">41287e2d6372b2402b88440a2d5a17476c52da05</hash>
+          <hash piece="79">f14e48f19253ef60cd6cc3a7397887fdc668a529</hash>
+          <hash piece="80">661350965c180799cc2f20305f9a3d5f4384087e</hash>
+          <hash piece="81">c4e6b8b45545ff1ec73562ef19ce94b5d06ceb54</hash>
+          <hash piece="82">4fdde46b3d545ffeb259e8bab5bcd3741be82a91</hash>
+          <hash piece="83">e5a5ed8beeaa6f39c108ef69684585484806b5fd</hash>
+          <hash piece="84">8793c6f9f1ec7c4dd99d4fefa10b30556a647986</hash>
+          <hash piece="85">c0288ef03dbfa4cad430903d1589976ce48a2549</hash>
+          <hash piece="86">7a3070bd35c5ec094c0d86b38ffabb170a3ce37c</hash>
+          <hash piece="87">0d7b9f21df985db10678e69ba8aec5c5835b9b8d</hash>
+        </pieces>
+      </verification>
+      <resources>
+        <url type="http" location="au" preference="100">http://mirror.internode.on.net/pub/sabayonlinux/SabayonLinux-x86_64-3.3b.miniEdition.iso</url>
+        <url type="ftp" location="au" preference="100">ftp://mirror.internode.on.net/pub/sabayonlinux/SabayonLinux-x86_64-3.3b.miniEdition.iso</url>
+        <url type="http" location="it" preference="100">http://bo.mirror.garr.it/mirrors/sabayonlinux/SabayonLinux-x86_64-3.3b.miniEdition.iso</url>
+        <url type="ftp" location="it" preference="100">ftp://bo.mirror.garr.it/mirrors/sabayonlinux/SabayonLinux-x86_64-3.3b.miniEdition.iso</url>
+        <url type="ftp" location="us" preference="100">ftp://dotdot.mine.nu/sabayon/SabayonLinux-x86_64-3.3b.miniEdition.iso</url>
+        <url type="https" location="dk" preference="100">https://binstar.org/sabayon/SabayonLinux-x86_64-3.3b.miniEdition.iso</url>
+        <url type="http" location="de" preference="100">http://sabayon.domaindorf.de/SabayonLinux-x86_64-3.3b.miniEdition.iso</url>
+      </resources>
+    </file>
+  </files>
+</metalink>

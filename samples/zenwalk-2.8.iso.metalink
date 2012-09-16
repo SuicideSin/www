@@ -1,0 +1,25 @@
+<?xml version="1.0" encoding="utf-8"?>
+<metalink version="3.0" generator="Metalink Generator v1.00.0034" xmlns="http://www.metalinker.org/">
+  <publisher>
+    <name>Zenwalk Linux</name>
+    <url>http://www.zenwalk.org/</url>
+  </publisher>
+  <description>Zenwalk is a GNU/Linux operating system.</description>
+  <files>
+    <file name="zenwalk-2.8.iso">
+      <version>2.8</version>
+      <verification>
+        <hash type="md5">9b0f4210e9e54744c4a2d0511231d26f</hash>
+      </verification>
+      <resources>
+        <url type="http" location="dk" preference="100">http://dist.itu.dk/zenwalk/i486/latest/ISO/zenwalk-2.8.iso</url>
+        <url type="http" location="us" preference="100">http://distro.ibiblio.org/pub/linux/distributions/zenwalk/i486/latest/ISO/zenwalk-2.8.iso</url>
+        <url type="http" location="pt" preference="100">http://ftp.nux.ipb.pt/pub/dists/zenwalk/i486/zenwalk-2.8/ISO/zenwalk-2.8.iso</url>
+        <url type="http" location="fr" preference="100">http://minislack.tuxfamily.org/zenwalk-2.8.iso</url>
+        <url type="http" location="fr" preference="100">http://mirror.meleeweb.net/pub/linux/zenwalk/i486/latest/ISO/zenwalk-2.8.iso</url>
+        <url type="http" location="fr" preference="100">http://zen-repo.meticul.eu/i486/latest/ISO/zenwalk-2.8.iso</url>
+        <url type="http" location="us" preference="100">http://zenwalk.mirrors.tds.net/pub/linux/zenwalk/i486/latest/ISO/zenwalk-2.8.iso</url>
+      </resources>
+    </file>
+  </files>
+</metalink>

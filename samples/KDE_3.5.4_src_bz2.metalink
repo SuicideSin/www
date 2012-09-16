@@ -1,0 +1,178 @@
+<?xml version="1.0" encoding="utf-8"?>
+<metalink version="3.0" generator="Metalink Generator v1.00.0034" xmlns="http://www.metalinker.org/">
+  <files>
+    <file name="arts-1.5.4.tar.bz2">
+      <verification>
+        <hash type="md5">886ba4a13dc0da312d94c09f50c3ffe6</hash>
+      </verification>
+      <resources>
+        <url type="http" location="ro" preference="100">http://ftp.iasi.roedu.net/mirrors/ftp.kde.org/stable/3.5.4/src/arts-1.5.4.tar.bz2</url>
+      </resources>
+    </file>
+
+    <file name="kdeaccessibility-3.5.4.tar.bz2">
+      <verification>
+        <hash type="md5">bc64350a56a585e4d2c88fe3fc8b24f8</hash>
+      </verification>
+      <resources>
+        <url type="http" location="ro" preference="100">http://ftp.iasi.roedu.net/mirrors/ftp.kde.org/stable/3.5.4/src/kdeaccessibility-3.5.4.tar.bz2</url>
+      </resources>
+    </file>
+
+    <file name="kdeaddons-3.5.4.tar.bz2">
+      <verification>
+        <hash type="md5">840d18fbcadec9f94bb70563876b4dcd</hash>
+      </verification>
+      <resources>
+        <url type="http" location="ro" preference="100">http://ftp.iasi.roedu.net/mirrors/ftp.kde.org/stable/3.5.4/src/kdeaddons-3.5.4.tar.bz2</url>
+      </resources>
+    </file>
+
+    <file name="kdeadmin-3.5.4.tar.bz2">
+      <verification>
+        <hash type="md5">579a2e3e8e05cf0851a88def57fcc0a3</hash>
+      </verification>
+      <resources>
+        <url type="http" location="ro" preference="100">http://ftp.iasi.roedu.net/mirrors/ftp.kde.org/stable/3.5.4/src/kdeadmin-3.5.4.tar.bz2</url>
+      </resources>
+    </file>
+
+    <file name="kdeartwork-3.5.4.tar.bz2">
+      <verification>
+        <hash type="md5">c7ff9048b9b68c976de08ed418598e40</hash>
+      </verification>
+      <resources>
+        <url type="http" location="ro" preference="100">http://ftp.iasi.roedu.net/mirrors/ftp.kde.org/stable/3.5.4/src/kdeartwork-3.5.4.tar.bz2</url>
+      </resources>
+    </file>
+
+    <file name="kdebase-3.5.4.tar.bz2">
+      <verification>
+        <hash type="md5">882a9729c08b197caef2c8712c980d9c</hash>
+      </verification>
+      <resources>
+        <url type="http" location="ro" preference="100">http://ftp.iasi.roedu.net/mirrors/ftp.kde.org/stable/3.5.4/src/kdebase-3.5.4.tar.bz2</url>
+      </resources>
+    </file>
+
+    <file name="kdebindings-3.5.4.tar.bz2">
+      <verification>
+        <hash type="md5">097eb4311f5715f36fdc83dc5badb476</hash>
+      </verification>
+      <resources>
+        <url type="http" location="ro" preference="100">http://ftp.iasi.roedu.net/mirrors/ftp.kde.org/stable/3.5.4/src/kdebindings-3.5.4.tar.bz2</url>
+      </resources>
+    </file>
+
+    <file name="kdeedu-3.5.4.tar.bz2">
+      <verification>
+        <hash type="md5">81dfdea2ed6eaaa440ee868a69b8fc7e</hash>
+      </verification>
+      <resources>
+        <url type="http" location="ro" preference="100">http://ftp.iasi.roedu.net/mirrors/ftp.kde.org/stable/3.5.4/src/kdeedu-3.5.4.tar.bz2</url>
+      </resources>
+    </file>
+
+    <file name="kdegames-3.5.4.tar.bz2">
+      <verification>
+        <hash type="md5">60bb42c51c2e86a826188da457ed21d0</hash>
+      </verification>
+      <resources>
+        <url type="http" location="ro" preference="100">http://ftp.iasi.roedu.net/mirrors/ftp.kde.org/stable/3.5.4/src/kdegames-3.5.4.tar.bz2</url>
+      </resources>
+    </file>
+
+    <file name="kdegraphics-3.5.4.tar.bz2">
+      <verification>
+        <hash type="md5">de1f6d0597235f52186aaeeaabe7dc08</hash>
+      </verification>
+      <resources>
+        <url type="http" location="ro" preference="100">http://ftp.iasi.roedu.net/mirrors/ftp.kde.org/stable/3.5.4/src/kdegraphics-3.5.4.tar.bz2</url>
+      </resources>
+    </file>
+
+    <file name="kdelibs-3.5.4.tar.bz2">
+      <verification>
+        <hash type="md5">979d056ca0e21c12caed270126e60e3e</hash>
+      </verification>
+      <resources>
+        <url type="http" location="ro" preference="100">http://ftp.iasi.roedu.net/mirrors/ftp.kde.org/stable/3.5.4/src/kdelibs-3.5.4.tar.bz2</url>
+      </resources>
+    </file>
+
+    <file name="kdemultimedia-3.5.4.tar.bz2">
+      <verification>
+        <hash type="md5">921680248b5f5793b9201715fffe6e33</hash>
+      </verification>
+      <resources>
+        <url type="http" location="ro" preference="100">http://ftp.iasi.roedu.net/mirrors/ftp.kde.org/stable/3.5.4/src/kdemultimedia-3.5.4.tar.bz2</url>
+      </resources>
+    </file>
+
+    <file name="kdenetwork-3.5.4.tar.bz2">
+      <verification>
+        <hash type="md5">81660b1a73e81b6c01a55861c154dd3b</hash>
+      </verification>
+      <resources>
+        <url type="http" location="ro" preference="100">http://ftp.iasi.roedu.net/mirrors/ftp.kde.org/stable/3.5.4/src/kdenetwork-3.5.4.tar.bz2</url>
+      </resources>
+    </file>
+
+    <file name="kdepim-3.5.4.tar.bz2">
+      <verification>
+        <hash type="md5">4a01ceaeb6067d03003edb77b104f559</hash>
+      </verification>
+      <resources>
+        <url type="http" location="ro" preference="100">http://ftp.iasi.roedu.net/mirrors/ftp.kde.org/stable/3.5.4/src/kdepim-3.5.4.tar.bz2</url>
+      </resources>
+    </file>
+
+    <file name="kdesdk-3.5.4.tar.bz2">
+      <verification>
+        <hash type="md5">2150e6a4ce5e42886a4afc6c0198c30c</hash>
+      </verification>
+      <resources>
+        <url type="http" location="ro" preference="100">http://ftp.iasi.roedu.net/mirrors/ftp.kde.org/stable/3.5.4/src/kdesdk-3.5.4.tar.bz2</url>
+      </resources>
+    </file>
+
+    <file name="kdetoys-3.5.4.tar.bz2">
+      <verification>
+        <hash type="md5">f959e936d05697ac6b1a0b066632b2fd</hash>
+      </verification>
+      <resources>
+        <url type="http" location="ro" preference="100">http://ftp.iasi.roedu.net/mirrors/ftp.kde.org/stable/3.5.4/src/kdetoys-3.5.4.tar.bz2</url>
+      </resources>
+    </file>
+
+    <file name="kdeutils-3.5.4.tar.bz2">
+      <verification>
+        <hash type="md5">e24cd91576db3d2414fb30cab47e44e5</hash>
+      </verification>
+      <resources>
+        <url type="http" location="ro" preference="100">http://ftp.iasi.roedu.net/mirrors/ftp.kde.org/stable/3.5.4/src/kdeutils-3.5.4.tar.bz2</url>
+      </resources>
+    </file>
+
+    <file name="kdevelop-3.3.4.tar.bz2">
+      <verification>
+        <hash type="md5">e5278e37468bda7fdf6d019f84aeed16</hash>
+      </verification>
+      <resources>
+        <url type="http" location="ro" preference="100">http://ftp.iasi.roedu.net/mirrors/ftp.kde.org/stable/3.5.4/src/kdevelop-3.3.4.tar.bz2</url>
+      </resources>
+    </file>
+
+    <file name="kdewebdev-3.5.4.tar.bz2">
+      <verification>
+        <hash type="md5">310a40555c089e88cc5ff7620a89b444</hash>
+      </verification>
+      <resources>
+        <url type="http" location="ro" preference="100">http://ftp.iasi.roedu.net/mirrors/ftp.kde.org/stable/3.5.4/src/kdewebdev-3.5.4.tar.bz2</url>
+      </resources>
+    </file>
+
+
+
+  </files>
+</metalink>

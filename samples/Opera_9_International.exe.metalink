@@ -1,0 +1,31 @@
+<?xml version="1.0" encoding="utf-8"?>
+<metalink version="3.0" generator="Metalink Generator v1.00.0034" xmlns="http://www.metalinker.org/">
+  <publisher>
+    <name>Opera</name>
+    <url>http://www.opera.com/</url>
+  </publisher>
+  <description>Opera 9 Web browser</description>
+  <files>
+    <file name="Opera 9 International Setup.exe">
+      <version>9</version>
+      <os>Windows-x86</os>
+      <verification>
+        <hash type="md5">a925499f79c19224ce05380cf9a08cce</hash>
+      </verification>
+      <resources>
+        <url type="ftp" preference="100">ftp://ftp.plusline.de/pub/opera/win/900/int/Opera%209%20International%20Setup.exe</url>
+        <url type="ftp" preference="100">ftp://ftp.sh.cvut.cz/MIRRORS/opera/win/900/int/Opera%209%20International%20Setup.exe</url>
+        <url type="ftp" preference="100">ftp://ftp.uninett.no/pub/network/www/opera/win/900/int/Opera%209%20International%20Setup.exe</url>
+        <url type="http" preference="100">http://ftp.citkit.ru/pub/opera/win/900/int/Opera%209%20International%20Setup.exe</url>
+        <url type="http" preference="100">http://ftp.task.gda.pl/pub/opera/win/900/int/Opera%209%20International%20Setup.exe</url>
+        <url type="http" preference="100">http://get.opera.com/pub/opera/win/900/int/Opera%209%20International%20Setup.exe</url>
+        <url type="http" preference="100">http://get2.opera.com/pub/opera/win/900/int/Opera%209%20International%20Setup.exe</url>
+        <url type="http" preference="100">http://get3.opera.com/pub/opera/win/900/int/Opera%209%20International%20Setup.exe</url>
+        <url type="http" preference="100">http://mirror.switch.ch/ftp/mirror/opera/win/900/int/Opera%209%20International%20Setup.exe</url>
+        <url type="http" preference="100">http://mirrors.symetrix.net/pub/ftp.opera.com/win/900/int/Opera%209%20International%20Setup.exe</url>
+        <url type="http" preference="100">http://opera.inode.at/win/900/int/Opera%209%20International%20Setup.exe</url>
+        <url type="http" preference="100">http://opera.nedmirror.nl/win/900/int/Opera%209%20International%20Setup.exe</url>
+      </resources>
+    </file>
+  </files>
+</metalink>

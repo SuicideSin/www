@@ -1,0 +1,103 @@
+<?xml version="1.0" encoding="utf-8"?>
+<metalink version="3.0" generator="Metalink Editor version 1.1.0" xmlns="http://www.metalinker.org/">
+  <files>
+    <file name="pclinuxos-minime-2008.iso">
+      <size>311207936</size>
+      <verification>
+        <hash type="md5">a2dbaa9167afb8a47efc936dc90132df</hash>
+        <hash type="sha1">559a1c9e391737cf85302687751ff6254ecd476f</hash>
+        <hash type="sha256">92c4638a367a4505996b191e8556ef0fcad166de80a7154745529ebc1333567f</hash>
+        <pieces type="sha1" length="4194304">
+          <hash piece="0">1ae4a8a96b60f206934cbc7f137ddfc060e88462</hash>
+          <hash piece="1">9c6c770d61a20e1ae92d8cf004a5c05d04aba07d</hash>
+          <hash piece="2">0ef75609a523e1651f569c9d8003f4246d657272</hash>
+          <hash piece="3">9030c725c9a619fc6ef4171f043d5922500021f8</hash>
+          <hash piece="4">fbdc15fb29cd283a9d7e12748fa37252c9eefda0</hash>
+          <hash piece="5">4a63551da35e334c5a961acc3e1a6c78fc99e201</hash>
+          <hash piece="6">d7059644d764428668f2e3b78ea55420e11f47c5</hash>
+          <hash piece="7">de4b44f651cc3a31fbc3c74643b6e91ec25e54cf</hash>
+          <hash piece="8">d7ed46d3b816d15b1474ee8ee822ee84549adf50</hash>
+          <hash piece="9">6f65ce7b1b8f13618086de2004d2c506b8e35201</hash>
+          <hash piece="10">e4833ca4b01ed2b21cbc66d90b26de78a77c5d5a</hash>
+          <hash piece="11">39196143bb0af7ca97fca73897016cc8b49e451c</hash>
+          <hash piece="12">c6bb4a83744aeb29b4f84fbb0a99bc352399eadc</hash>
+          <hash piece="13">90b38b7fbf937565c8726e7cd94ef2a660fda5e5</hash>
+          <hash piece="14">5e7482b09acd03d93fa1060fb3e31f6f0cba0154</hash>
+          <hash piece="15">7acb3b979b5ae66e328d654e66180850412c7974</hash>
+          <hash piece="16">85b14914a431352c7f39fd7100494638044550ff</hash>
+          <hash piece="17">223c143ece4d97ffa19761e1fedd36a4024ab0d3</hash>
+          <hash piece="18">692bf290a198d35d498c2c392f75addb4fd4d7e1</hash>
+          <hash piece="19">643b5ec9f577b91e6351d1aab1331d28756e5f9f</hash>
+          <hash piece="20">eec94e9103ba8bc77b33fdde47ad1adf3aaa490e</hash>
+          <hash piece="21">c13954419139ff94852388c599c1263d77ef39d8</hash>
+          <hash piece="22">7d0929dd2eeaa7610b5c93dffc49ebc62e50c1bb</hash>
+          <hash piece="23">b587464c82f8cbe9163edab7b840a1f11a8aa181</hash>
+          <hash piece="24">af7a34a7850db869e2f706fb9d03d2be7d6e0049</hash>
+          <hash piece="25">b64468d55145c64d801dab3d532b70bb1ae3b971</hash>
+          <hash piece="26">99197b921b9582c0f5232bfe21a57d94553887c3</hash>
+          <hash piece="27">909f32a5f058945fb3f88fd6afcb1ce85233fe13</hash>
+          <hash piece="28">ddc8b9a7dbeb7296b65c9a64c7af3369b16988f2</hash>
+          <hash piece="29">a71ff8b356d7984190807edb73579aa50ee4ed78</hash>
+          <hash piece="30">21fe3a8257487ae335cb598f71839dc357e2007e</hash>
+          <hash piece="31">f205baf909f6498fe72e362a9ea5aad07ac12da3</hash>
+          <hash piece="32">8de21ae04bfe313bcaa612a2b3dda4f899b519e9</hash>
+          <hash piece="33">4547d065ef80c7d4d6cac8dc347bcd202ee15774</hash>
+          <hash piece="34">b3a10a6dd352a01c515027e07ace9352091b3151</hash>
+          <hash piece="35">98b855cacec285351a6ac35c99ba58beba8ebcfa</hash>
+          <hash piece="36">ece4b01982b53a2b3a30f86f5a0d7a60b2b108bf</hash>
+          <hash piece="37">ff6cf2d1540e34de707f8c62b1f48b7336e113aa</hash>
+          <hash piece="38">a16287ff5659be55159434608e0fbbcc1461e5d9</hash>
+          <hash piece="39">151a203aa28a2fc332bebf37b24aff01acbc53c6</hash>
+          <hash piece="40">8ea1a2387fc37d476957e32beeac502eca4f9d87</hash>
+          <hash piece="41">94b3d93a27b1529fffabbeeb868d1af7ac9483fc</hash>
+          <hash piece="42">16048a7290347c3ef188cb45f29d5cb47e426ad5</hash>
+          <hash piece="43">7060e93635549f9afef79e6db5abf394bbbd1a47</hash>
+          <hash piece="44">1f9b886f031d400ba4ed49472d878f4acb456319</hash>
+          <hash piece="45">ffe07f92e486ff32da1e21892ca87947d61dda39</hash>
+          <hash piece="46">dab2db91afb4a7f44cf5b9fbd63383d3356fcbc6</hash>
+          <hash piece="47">46ab2cef890bf0edb369c1348905bb9a480413e4</hash>
+          <hash piece="48">3157ef7f5e3fef73b4599d7f92b749d04c954209</hash>
+          <hash piece="49">187b890a5d4dab12555d65e4e5665cacaa3fd6fb</hash>
+          <hash piece="50">c3f3a3562bde14e8e895f1600de6f4b911a596cd</hash>
+          <hash piece="51">fc7d875c31afab9894c320283a122f057efc1acd</hash>
+          <hash piece="52">85791a73c2847b777a16802a59d8a9278b1f6cb2</hash>
+          <hash piece="53">4041e62bee1c373dbc99acdb6ea2c86b8c97557e</hash>
+          <hash piece="54">590dbf9f69a2d83dd7359976a043f59fd5fafe66</hash>
+          <hash piece="55">179e3e98107547d12f3699d16336ac150dd0169b</hash>
+          <hash piece="56">4aa5bcfcd003b723e2843194f8d6a2b77912147b</hash>
+          <hash piece="57">ce2470ab9c552e95b9ff91a8bf40b6ad0cb15683</hash>
+          <hash piece="58">2e85aeabb9acdfe84fde6430b3f49f066ec86695</hash>
+          <hash piece="59">2b76c97cbdbc3cdaa443ef8f879b1f4b9aceecf7</hash>
+          <hash piece="60">d0f4effc8cb3751cb6a3628a73253dce024da60d</hash>
+          <hash piece="61">aa4fc43db288def125f5a2127c51453792c7fa18</hash>
+          <hash piece="62">d063e70a3ac27bca80394a9c9ee977c03a3ecc0a</hash>
+          <hash piece="63">9faf176ed99eb75d5d24aca979b733aa643b62de</hash>
+          <hash piece="64">fa891358c073743b89e0a299e2dd7ead881b1f9a</hash>
+          <hash piece="65">ef10e2acd25b0f56fc290f4be29df1ca2fd2d1a5</hash>
+          <hash piece="66">2ccb367f9b98e21fe84db8d91902736107b0db34</hash>
+          <hash piece="67">213615cd03bba3ec3908c98b5af4d810b0c8dc72</hash>
+          <hash piece="68">02d7790980cf111df84dd50c6dceaf733a11c843</hash>
+          <hash piece="69">5ac17d91daf3518d2df5ebac93cff31aadedb300</hash>
+          <hash piece="70">e638372055dd8d69e2747c33bb52d54b2b56b877</hash>
+          <hash piece="71">24aaab84df81698845ee0af771f61da6d746ab3f</hash>
+          <hash piece="72">eb04dc8ae14cbd8697b065f3cd65dd9546094501</hash>
+          <hash piece="73">b7c539ce109d5bb9d7a106ba93078686ab1c65b6</hash>
+          <hash piece="74">41babbc482cdc42aff3ad22ceee059edf2b01c2f</hash>
+        </pieces>
+      </verification>
+      <resources>
+        <url type="ftp">ftp://ftp.belnet.be/mirror/pclinuxonline.com/live-cd/english/preview/pclinuxos-minime-2008.iso</url>
+        <url type="http">http://mirrors.lastdot.org:1280/pclos/live-cd/english/preview/pclinuxos-minime-2008.iso</url>
+        <url type="http">http://distro.ibiblio.org/pub/linux/distributions/texstar/pclinuxos/live-cd/english/preview/pclinuxos-minime-2008.iso</url>
+        <url type="http">http://ftp.sh.cvut.cz/MIRRORS/pclinuxos/live-cd/english/preview/pclinuxos-minime-2008.iso</url>
+        <url type="http">http://ftp.heanet.ie/pub/pclinuxos/live-cd/english/preview/pclinuxos-minime-2008.iso</url>
+        <url type="http">http://ftp.nl.freebsd.org/os/Linux/distr/texstar/pclinuxos/live-cd/english/preview/pclinuxos-minime-2008.iso</url>
+        <url type="http">http://ftp.jaist.ac.jp/pub/Linux/PCLinuxOS/live-cd/english/preview/pclinuxos-minime-2008.iso</url>
+        <url type="http">http://mirrors.xservers.ro/pclinuxos/live-cd/english/preview/pclinuxos-minime-2008.iso</url>
+        <url type="http">http://spout.ussg.indiana.edu/linux/pclinuxos/pclinuxos/live-cd/english/preview/pclinuxos-minime-2008.iso</url>
+        <url type="ftp">ftp://ftp.pbone.net/pub/pclinuxos/live-cd/english/preview/pclinuxos-minime-2008.iso</url>
+        <url type="ftp">ftp://na.mirror.garr.it/mirrors/pclinuxos/live-cd/english/preview/pclinuxos-minime-2008.iso</url>
+      </resources>
+    </file>
+  </files>
+</metalink>

@@ -1,0 +1,49 @@
+<?xml version="1.0" encoding="utf-8"?>
+<metalink version="3.0" generator="Metalink Generator v1.00.0034" xmlns="http://www.metalinker.org/">
+
+<!--
+	Metalink, an Open Standard, makes downloading easier by
+	bundling the various ways (FTP/HTTP/P2P) to get files into
+	one format for easier downloads, as well as bundling
+	checksums to automatically verify completed downloads.
+	
+	Currently the following applications support this file:
+	        
+     - aria2 (Unix) [ http://aria2.sourceforge.net/ ]
+     - GetRight 6 (Windows) [ http://www.getright.com/ ]
+	 - Orbit Downloader (Windows) [ http://www.orbitdownloader.com/ ]
+     - Speed Download (Mac) [ http://www.yazsoft.com/ ]
+     - wxDownload Fast (All)[ http://dfast.sourceforge.net/ ]
+	 
+	For further information please visit http://www.metalinker.org/
+-->
+
+  <publisher>
+    <name>Damn Small Linux</name>
+    <url>http://www.damnsmalllinux.org/</url>
+  </publisher>
+  <description>DSL is a very versatile 50MB mini desktop oriented Linux distribution.</description>
+  <files>
+    <file name="dsl-3.2.iso">
+      <version>3.2</version>
+      <language>en-US</language>
+      <os>Linux-x86</os>
+      <size></size>
+      <verification>
+        <hash type="md5">502cdfd6222e5eaf7246d9897904f7a2</hash>
+      </verification>
+      <resources>
+        <url type="ftp" location="be" preference="100">ftp://ftp.belnet.be/packages/damnsmalllinux/current/dsl-3.2.iso</url>
+        <url type="ftp" location="ie" preference="100">ftp://ftp.heanet.ie/mirrors/damnsmalllinux.org/current/dsl-3.2.iso</url>
+        <url type="ftp" location="za" preference="100">ftp://ftp.is.co.za/linux/distributions/damnsmall/current/dsl-3.2.iso</url>
+        <url type="ftp" preference="100">ftp://ibiblio.org/pub/Linux/distributions/damnsmall/current/dsl-3.2.iso</url>
+        <url type="http" preference="100">http://distro.ibiblio.org/pub/linux/distributions/damnsmall/current/dsl-3.2.iso</url>
+        <url type="http" preference="100">http://dsl.thegeekery.com/current/dsl-3.2.iso</url>
+        <url type="http" location="be" preference="100">http://ftp.belnet.be/packages/damnsmalllinux/current/dsl-3.2.iso</url>
+        <url type="http" location="ie" preference="100">http://ftp.heanet.ie/mirrors/damnsmalllinux.org/current/dsl-3.2.iso</url>
+        <url type="http" location="at" preference="100">http://gd.tuwien.ac.at/opsys/linux/damnsmall/current/dsl-3.2.iso</url>
+        <url type="http" location="ca" preference="100">http://gulus.usherbrooke.ca/pub/distro/DamnSmallLinux/current/dsl-3.2.iso</url>
+      </resources>
+    </file>
+  </files>
+</metalink>

@@ -1,0 +1,69 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<metalink version="3.0" xmlns="http://www.metalinker.org/"
+  origin="http://www.nero.com/mmm/nero.metalink"
+  type="static" pubdate="2006-03-06-22:04:25" 
+  refreshdate="2006-03-06-03:24:18">
+
+<!--
+	Metalink, an Open Standard, makes downloading easier by
+	bundling the various ways (FTP/HTTP/P2P) to get files into
+	one format for easier downloads, as well as bundling
+	checksums to automatically verify completed downloads.
+	
+	Currently the following applications support this file:
+	        
+	- GetRight 6.0 (http://www.getright.com/)
+	        
+	For further information please visit http://www.metalinker.org/
+-->
+
+<publisher>
+  <name>Nero AG</name>
+  <url>http://www.nero.com/</url>
+</publisher>
+<copyright>Copyright 2006 Nero AG / Nero Inc.</copyright>
+<releasedate>2006-03-06</releasedate>
+<description>Nero Ultra Edition 7 CD/DVD Authoring suite
+</description>
+<tags>Nero, CD, DVD, burning, authoring</tags>
+<identity>Nero Ultra Edition</identity>
+<version>7.0.8.2</version>
+
+<files>
+  <file name="Nero-7.0.8.2_eng_no_yt.exe">
+    <language>en-US</language>
+    <os>Windows-x86</os>    
+    <size>108876264</size>
+    <verification>
+      <hash type="md5">924095f67a00164c967cf8289ddffc0c</hash>
+    </verification>    
+    <resources>
+      <url type="ftp" location="us" preference="80">
+      ftp://ftp1.usw.nero.com/software/nero7/Nero-7.0.8.2_eng_no_yt.exe
+      </url>
+      <url type="ftp" location="pl" preference="40">
+      ftp://download.idg.pl/23117/vol2/w95/utils/nagrywanie/nero/7/0.8.2/Nero-7.0.8.2_eng_no_yt.exe
+      </url>
+      <url type="http" location="us" preference="80">
+      http://httpdl1.usw.nero.com/software/nero7/Nero-7.0.8.2_eng_no_yt.exe
+      </url>
+      <url type="http" location="us" preference="80">
+      http://download.softpedia.com/software/cd_dvd_tools/Nero-7.0.8.2_eng_no_yt.exe
+      </url>
+      <url type="ftp" location="jp" preference="40">
+      ftp://ftp.jp.nero.com/software/nero7/Nero-7.0.8.2_eng_no_yt.exe
+      </url>
+      <url type="ftp" location="de" preference="80">
+      ftp://ftp1.de.nero.com/software/nero7/Nero-7.0.8.2_eng_no_yt.exe
+      </url>
+      <url type="ftp" location="us" preference="80">
+      ftp://ftp1.usw.nero.com/software/nero7/Nero-7.0.8.2_eng_no_yt.exe
+      </url>
+      <url type="ftp" location="us" preference="80">
+      ftp://ftp5.use.nero.com/software/nero7/Nero-7.0.8.2_eng_no_yt.exe
+      </url>
+    </resources>
+  </file>
+
+</files> 
+</metalink>

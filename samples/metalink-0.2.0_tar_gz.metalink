@@ -1,0 +1,45 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<metalink version="3.0" xmlns="http://www.metalinker.org/">
+<files>
+	<file name="metalink-0.2.0.tar.gz">
+		<size>126023668</size>
+		<verification>
+			<hash type="md4">5262914e85c08f4bbb17f681a12b2522</hash>
+			<hash type="md5">a7b3665fe0fd71b2d3089abff9b33aee</hash>
+			<hash type="sha1">b607463069d4fb4675c461301e03fe1abc2eb4ca</hash>
+			<hash type="sha256">b05f06239c11235a51d86207679ba9e63c9ebbdd655e72c8df9e0a3b44c17b3a</hash>
+			<hash type="sha384">858462cbeb333e39aa4e639298bd9a00e5bf73447be791db0cfb8663d726189aa55e0365c123d6953a1b1dc752ade63c</hash>
+			<hash type="sha512">201e3351f17ac160a51c461831709ec806cbebf5de4c27c25e498219b26f9a0737d7902a8433ef6906e6dcb3084103800a737b45bdf17afe1b9b505c49fbd9ec</hash>
+			<hash type="ripemd160">9de4cc492a84145cd5df60b4aa08f75666076716</hash>
+			<hash type="tiger192">f9d324e0ce5895c9581f2ecbeeb5cc9a7965b9e49d8fbc79</hash>
+			<hash type="crc32">067bbc21</hash>
+			<hash type="ed2k">5262914e85c08f4bbb17f681a12b2522</hash>
+			<hash type="gnunet">80H68CJJJ5O8UN9S4AF6A4CG5ETDHCHAU5G9L9V0G65IT8VFQLA0QRCHGVFUKGN890L3G6KGH8448NNMI734ML50M6HN4BU9378AUQO.77G3PS8EE5F8BHFA5UIC9SL686GMS6LDS3M1PRSEGPFNER7D0PB08T2DQ56R2OBRHHB00M7ESEITCLEV3QO5J39L89K4TI8S39HBO70</hash>
+		</verification>
+		<resources>
+			<url type="magnet">magnet:?xt=urn:sha1:b607463069d4fb4675c461301e03fe1abc2eb4ca&amp;dn=metalink-0.2.0.tar.gz</url>
+			<url type="ed2k">ed2k://|file|metalink-0.2.0.tar.gz|43687|5262914e85c08f4bbb17f681a12b2522|/</url>
+			<url type="gnunet">gnunet://ecrs/chk/80H68CJJJ5O8UN9S4AF6A4CG5ETDHCHAU5G9L9V0G65IT8VFQLA0QRCHGVFUKGN890L3G6KGH8448NNMI734ML50M6HN4BU9378AUQO.77G3PS8EE5F8BHFA5UIC9SL686GMS6LDS3M1PRSEGPFNER7D0PB08T2DQ56R2OBRHHB00M7ESEITCLEV3QO5J39L89K4TI8S39HBO70.43687</url>
+			<url type="http">http://surfnet.dl.sourceforge.net/sourceforge/metalink-0.2.0.tar.gz</url>
+			<url type="http">http://umn.dl.sourceforge.net/sourceforge/metalink-0.2.0.tar.gz</url>
+			<url type="http">http://nchc.dl.sourceforge.net/sourceforge/metalink-0.2.0.tar.gz</url>
+			<url type="http">http://surfnet.dl.sourceforge.net/sourceforge/metalinks/metalink-0.2.0.tar.gz</url>
+			<url type="http">http://jaist.dl.sourceforge.net/sourceforge/metalink-0.2.0.tar.gz</url>
+			<url type="http">http://puzzle.dl.sourceforge.net/sourceforge/metalink-0.2.0.tar.gz</url>
+			<url type="http">http://ovh.dl.sourceforge.net/sourceforge/metalink-0.2.0.tar.gz</url>
+			<url type="http">http://heanet.dl.sourceforge.net/sourceforge/metalink-0.2.0.tar.gz</url>
+			<url type="http">http://internap.dl.sourceforge.net/sourceforge/metalink-0.2.0.tar.gz</url>
+			<url type="http">http://keihanna.dl.sourceforge.net/sourceforge/metalink-0.2.0.tar.gz</url>
+			<url type="http">http://optusnet.dl.sourceforge.net/sourceforge/metalink-0.2.0.tar.gz</url>
+			<url type="http">http://superb-east.dl.sourceforge.net/sourceforge/metalink-0.2.0.tar.gz</url>
+			<url type="http">http://superb-west.dl.sourceforge.net/sourceforge/metalink-0.2.0.tar.gz</url>
+			<url type="http">http://belnet.dl.sourceforge.net/sourceforge/metalinks/metalink-0.2.0.tar.gz</url>
+			<url type="http">http://switch.dl.sourceforge.net/sourceforge/metalinks/metalink-0.2.0.tar.gz</url>
+			<url type="http">http://kent.dl.sourceforge.net/sourceforge/metalink-0.2.0.tar.gz</url>
+			<url type="http">http://easynews.dl.sourceforge.net/sourceforge/metalink-0.2.0.tar.gz</url>
+			<url type="http">http://ufpr.dl.sourceforge.net/sourceforge/metalink-0.2.0.tar.gz</url>
+			<url type="http">http://mesh.dl.sourceforge.net/sourceforge/metalink-0.2.0.tar.gz</url>
+		</resources>
+	</file>
+</files>
+</metalink>
